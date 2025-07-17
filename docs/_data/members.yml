@@ -23,21 +23,21 @@
   role: tutor
   home: true
 
-- name: First Name Last Name
+- name: Alessandro Pio Landolfo
   github: https://kdd.isti.cnr.it/people/student-1
   role: student
-- name: First Name Last Name
+- name: Milad Aghaalikhani
   github: https://kdd.isti.cnr.it/people/student-2
   role: student
-- name: First Name Last Name
+- name: Giuseppe Buonanno
   github: https://kdd.isti.cnr.it/people/student-3
   role: student
-- name: First Name Last Name
+- name: Francesca Cuppone
   github: https://kdd.isti.cnr.it/people/student-4
   role: student
-- name: First Name Last Name
+- name: Sarah Wimmer
   github: https://kdd.isti.cnr.it/people/student-5
   role: student
-- name: First Name Last Name
+- name: Rosario Liuzzo Scorpo
   github: https://kdd.isti.cnr.it/people/student-6
   role: student
