@@ -24,7 +24,7 @@ Il modo in cui usiamo il suolo (per agricoltura, città, foreste) è una delle p
 Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima. Bisogna sapere come cambierà la loro casa: le foreste, i prati, le campagne. Per vedere con i nostri occhi questi futuri divergenti, nella mappa interattiva sottostante possiamo esplorare un dettagliatissimo set di mappe sviluppato per l'Europa (Fuchs et al., 2023), che visualizza come potrebbe apparire il nostro continente fino al 2100. Confrontiamo i due scenari. 
 
 IMMAGINE DA SOSTIUIRE CON LE MIE DEL LAND COVER
-![Alt]("../Land_cover/mappa_Presente.png")
+![Mappa Presente](/docs/Land_cover/mappa_Presente.png)
 
 Due Scenari, Due Futuri per l'Europa
 Analizzando le mappe, emergono due futuri per l'uso del suolo in Europa, radicalmente diversi non tanto nei numeri finali, quanto nelle forze che li determinano.
