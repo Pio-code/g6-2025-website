@@ -24,7 +24,7 @@ Questi scenari non definiscono solo temperature diverse, ma anche paesaggi diver
 Il modo in cui usiamo il suolo (per agricoltura, città, foreste) è una delle principali cause del degrado ambientale, con la conversione di terreni naturali in aree artificiali o agricole frammentando gli habitat e distruggendo la biodiversità.
 Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima. Bisogna sapere come cambierà la loro casa: le foreste, i prati, le campagne. Per vedere con i nostri occhi questi futuri divergenti, nella mappa interattiva sottostante possiamo esplorare un dettagliatissimo set di mappe sviluppato per l'Europa (Fuchs et al., 2023), che visualizza come potrebbe apparire il nostro continente fino al 2100. Confrontiamo i due scenari. 
 
-INVECE DELLA SINGOLA IMMAGINE, INSERIRE L'INTERAZIONE DEL LAND COVER
+DA AGGIUSTARE
 div style="height: 900px"> 
   <vegachart schema-url="{{site.baseurl}}/assets/charts/interactive_chart.json" style="width: 100%; height: 100%"></vegachart>
 </div>
