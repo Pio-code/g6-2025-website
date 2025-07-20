@@ -11,8 +11,7 @@ title: "HOME RAW"
 La crisi climatica non è più un concetto astratto non tangibile da una società estremamente urbanizzata che non può vederne gli effetti sugli ecosistemi, ma un’esperienza vissuta da tutti noi. Le condizioni ambientali peggiorano: la temperatura media del pianeta aumenta, mentre fenomeni estremi come ondate di calore, inondazioni e siccità diventano sempre più vicini alla nuova normalità.
 L'indicatore principale di questa trasformazione, l’innalzamento della temperatura media, segnala il 2024 nuovamente come l’anno più caldo mai registrato, superando per la prima volta soglia di +1,5 °C rispetto ai livelli preindustriali e toccando un sorprendente +1,6 °C (Copernicus). E se il mondo corre, l’Europa vola: il nostro continente si sta riscaldando a una velocità quasi doppia, con un aumento che sulla terraferma ha raggiunto +2,6 °C già nel 2023.
 
-IMMAGINE DA SOSTITUIRE CON QUELLA DI MILAD
-<img width="970" height="585" alt="image" src="https://github.com/user-attachments/assets/d0410b42-3ec4-4f56-985b-aac35af9e72d" />
+INSERIRE GRAFICO DI MILAD 
 
 Di fronte a queste evidenze, l'interesse per il clima sta crescendo. Tuttavia, come osserva il giornalista e fotografo ambientale Jacopo Pasotti, questa attenzione è principalmente legata all'impatto economico che alla salvaguardia dell'ambiente in sé. La nostra preoccupazione, sembra, aumenta con la consapevolezza dei danni per la nostra specie. Ma noi non siamo gli unici abitanti del pianeta. Sorge quindi una domanda: Cosa significano questi cambiamenti per le altre specie? in particolare, quale sarà l’impatto sui mammiferi terrestri europei? Se le condizioni peggiorano per noi, per loro è lo stesso? 
 
@@ -25,7 +24,7 @@ Il modo in cui usiamo il suolo (per agricoltura, città, foreste) è una delle p
 Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima. Bisogna sapere come cambierà la loro casa: le foreste, i prati, le campagne. Per vedere con i nostri occhi questi futuri divergenti, nella mappa interattiva sottostante possiamo esplorare un dettagliatissimo set di mappe sviluppato per l'Europa (Fuchs et al., 2023), che visualizza come potrebbe apparire il nostro continente fino al 2100. Confrontiamo i due scenari. 
 
 IMMAGINE DA SOSTIUIRE CON LE MIE DEL LAND COVER
-<img width="731" height="547" alt="image" src="https://github.com/user-attachments/assets/a2aa2c92-1a71-4a96-a884-88459d0d044d" />
+![Alt]("../Land_cover/mappa_Presente.png")
 
 Due Scenari, Due Futuri per l'Europa
 Analizzando le mappe, emergono due futuri per l'uso del suolo in Europa, radicalmente diversi non tanto nei numeri finali, quanto nelle forze che li determinano.
