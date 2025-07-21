@@ -57,9 +57,9 @@ navbar:
     - title: in-depth
       child:
         - title: Data Collection
-          url: tech/datacollection.html
+          url: /tech/datacollection.html
         - title: Data Cleaning
-          url: tech/datacleaning.html
+          url: /tech/datacleaning.html
     - title: Page
       url: /new_page.html
 
