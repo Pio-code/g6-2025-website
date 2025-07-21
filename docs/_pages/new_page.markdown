@@ -26,7 +26,7 @@ Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima. Bisogna
 
 DA AGGIUSTARE
 <div style="height: 900px"> 
-  <vegachart schema-url="{{site.baseurl}}/assets/charts/interactive_chart.json" style="width: 100%; height: 100%"></vegachart>
+  <vegachart schema-url="{{site.baseurl}}/Land_cover/interactive_chart.json" style="width: 100%; height: 100%"></vegachart>
 </div>
 
 Due Scenari, Due Futuri per l'Europa
