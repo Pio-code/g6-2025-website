@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Data Collection"
+---
+
 # Data Collection
 
 ## Species Occurrences
