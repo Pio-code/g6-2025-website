@@ -22,11 +22,10 @@ vega: true
 
     <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg"
          alt="Jacopo Pasotti"
-         style="width: 130px; border-radius: 8px; margin-bottom: 0; align-self: flex-start; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+         style="width: 160px; border-radius: 8px; margin-bottom: 0; align-self: flex-start; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"/>
 
-    <div style="font-size: 0.95rem; line-height: 1.5; color: #333;">
-      Jacopo Pasotti is a science journalist, author, and reporter.  
-      He teaches science communication and focuses on climate change and biodiversity.  
+    <div style="font-size: 0.8rem; line-height: 1.5; color: #333;">
+      Jacopo Pasotti is a science journalist, author and reporter about climate change and biodiversity.   
       His work has appeared in major Italian and international outlets, including
       <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>,
       <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
@@ -44,7 +43,7 @@ vega: true
 
     <p>
       This conversation highlights the complexity of today’s climate communication: the tension between urgency and accuracy, the need to expand the environmental narrative, and the responsibility of the media in shaping public awareness.  
-      <strong>Here’s what he had to say.</strong>
+      <strong>Here’s what he said. In a few essential takeaways.</strong>
     </p>
   </div>
 
