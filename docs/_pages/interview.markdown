@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Interview"
-permalink: /interview/
+vega: true
 ---
 
 # Intervista a Jacopo Pasotti  
