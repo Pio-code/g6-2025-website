@@ -12,7 +12,7 @@ vega: true
 La crisi climatica non è più un concetto astratto, non tangibile da una società estremamente urbanizzata che non può vederne gli effetti sugli ecosistemi, ma un’esperienza vissuta da tutti noi. Le condizioni ambientali peggiorano: la temperatura media del pianeta aumenta, mentre fenomeni estremi come ondate di calore, inondazioni e siccità diventano sempre più vicini alla nuova normalità.
 L'indicatore principale di questa trasformazione, l’innalzamento della temperatura media, segnala il 2024 nuovamente come l’anno più caldo mai registrato, superando per la prima volta soglia di +1,5 °C rispetto ai livelli preindustriali. E se il mondo corre, l’Europa vola: il nostro continente si sta riscaldando a una velocità quasi doppia, con un aumento che sulla terraferma ha raggiunto +2,6 °C già nel 2023.
 
-<div style="width: 100%; margin: 2em 0;"> 
+<div style="width: 100%; margin: 1em 0;"> 
   <vegachart schema-url="{{site.baseurl}}/Land_cover/temperature_anomaly_chart.json" style="width: 100%;"></vegachart>
 </div>
 
@@ -41,7 +41,7 @@ Non si tratta di dove una specie vive oggi, ma di mappare tutte le aree che, dat
 
 ### Aggiungere mappa ricchezza specie (non prende il path). prova singola img
 <img
-  src="{{ site.baseurl }}/species_richness/ricchezza_present.png"
+  src="{{ site.baseurl }}/assets/charts/species/ricchezza_present.png"
   alt="Mappa ricchezza specie presente"
   style="width:100%; margin:1em 0;"
 />
