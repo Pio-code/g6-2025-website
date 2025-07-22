@@ -4,33 +4,48 @@ title: "Interview"
 vega: true
 ---
 
+<!-- Intestazione -->
 <div style="text-align: center; margin-bottom: 2rem;">
- <h1 style="font-family: Georgia, 'Times New Roman', serif; font-size: 2.2rem; font-style: italic; font-weight: normal; margin-bottom: 0.3rem;">
-  Every Degree Matters
-</h1>
-  <p style="font-size: 1.0rem; font-style: italic; margin-top: 0;">A Conversation with Jacopo Pasotti</p>
+  <h1 style="margin-bottom: 0.3rem; font-size: 2.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
+    Every Degree Matters
+  </h1>
+  <p style="font-size: 1rem; font-style: italic; margin-top: 0; margin-bottom: 1.5rem;">
+    A Conversation with Jacopo Pasotti
+  </p>
 </div>
 
+<!-- Sezione immagine + bio + introduzione -->
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
 
-  <!-- Colonna sinistra: bio + immagine -->
-  <div style="flex: 1; max-width: 280px;">
-    <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 100%; border-radius: 8px; margin-bottom: 1rem;">
+  <!-- Colonna sinistra: immagine + bio -->
+  <div style="flex: 1; max-width: 320px; display: flex; flex-direction: column; gap: 1rem;">
+
+    <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg"
+         alt="Jacopo Pasotti"
+         style="width: 130px; border-radius: 8px; margin-bottom: 0; align-self: flex-start; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
+
     <div style="font-size: 0.95rem; line-height: 1.5; color: #333;">
       Jacopo Pasotti is a science journalist, author, and reporter.  
       He teaches science communication and focuses on climate change and biodiversity.  
-      His work has appeared in major Italian and international outlets, including <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>, <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
+      His work has appeared in major Italian and international outlets, including
+      <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>,
+      <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
     </div>
+
   </div>
 
   <!-- Colonna destra: introduzione narrativa -->
   <div style="flex: 2; font-size: 1rem; font-style: italic; color: #444;">
-    <p><strong>Where this conversation begins:</strong>  
-    In a media landscape often dominated by noise, speed, and polarized opinions, science journalist <strong>Jacopo Pasotti</strong> offers a clear and grounded perspective on how environmental journalism is evolving — and what still needs to change.  
-    From the fight against misinformation to the opportunities (and risks) of using artificial intelligence in science communication, Pasotti shares insights drawn from years of field reporting, interviews, and his analysis of how habitat loss affects mammals and ecosystems.</p>
+    <p>
+      <strong>Where this conversation begins:</strong>  
+      In a media landscape often dominated by noise, speed, and polarized opinions, science journalist <strong>Jacopo Pasotti</strong> offers a clear and grounded perspective on how environmental journalism is evolving — and what still needs to change.  
+      From the fight against misinformation to the opportunities (and risks) of using artificial intelligence in science communication, Pasotti shares insights drawn from years of field reporting, interviews, and his analysis of how habitat loss affects mammals and ecosystems.
+    </p>
 
-    <p>This conversation highlights the complexity of today’s climate communication: the tension between urgency and accuracy, the need to expand the environmental narrative, and the responsibility of the media in shaping public awareness.  
-    <strong>Here’s what he had to say.</strong></p>
+    <p>
+      This conversation highlights the complexity of today’s climate communication: the tension between urgency and accuracy, the need to expand the environmental narrative, and the responsibility of the media in shaping public awareness.  
+      <strong>Here’s what he had to say.</strong>
+    </p>
   </div>
 
 </div>
