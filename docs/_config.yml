@@ -72,6 +72,8 @@ navbar:
           url: /datacollection.html
         - title: Data Cleaning
           url: /datacleaning.html
+        - title: Interview
+          url: /interview.html
     - title: Page
       url: /new_page.html
 
