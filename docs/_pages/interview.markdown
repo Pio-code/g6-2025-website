@@ -12,7 +12,7 @@ vega: true
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
 
  <div style="flex: 1; font-size: 0.95rem; line-height: 1.6;">
-  Jacopo Pasotti is a science journalist, author, and reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.  
+  Jacopo Pasotti. Science journalist, author, and reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.  
   Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy.  
   His work has appeared in major Italian and international outlets, including <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>, <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
 </div>
@@ -21,17 +21,11 @@ vega: true
     <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 120px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 
-</div>
-
 <hr style="margin-top: 2rem; margin-bottom: 1.5rem;">
 
 <div style="font-size: 1rem; font-style: italic; color: #444; margin-bottom: 2rem;">
   <p>
- <hr style="margin-top: 2rem; margin-bottom: 1.5rem;">
-
-<div style="font-size: 1rem; font-style: italic; color: #444; margin-bottom: 2rem;">
-  <p>
-    <strong>Framing the conversation:</strong> in a media landscape often dominated by noise, speed, and polarized opinions, science journalist <strong>Jacopo Pasotti</strong> offers a clear and grounded perspective on how environmental journalism is evolving — and what still needs to change.  
+    <strong>Where this conversation begins.</strong> In a media landscape often dominated by noise, speed, and polarized opinions, science journalist <strong>Jacopo Pasotti</strong> offers a clear and grounded perspective on how environmental journalism is evolving — and what still needs to change.  
     From the fight against misinformation to the opportunities (and risks) of using artificial intelligence in science communication, Pasotti shares insights drawn from years of field reporting, interviews, and his analysis of how habitat loss affects mammals and ecosystems.
   </p>
   <p>
@@ -41,7 +35,6 @@ vega: true
 </div>
 
 <hr style="margin-top: 0; margin-bottom: 2rem;">
----
 
 ## 📰 The Evolution of Environmental Journalism  
 > *“False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”*
