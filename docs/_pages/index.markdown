@@ -47,7 +47,7 @@ Questa migrazione di massa, però, ha una condizione fondamentale: la connettivi
 
 ### aggiornare con i dati più recenti
 
-{% include figure.html file="/assets/charts/species/confronto_scenari_ottimizzato.png" %}
+![Confronto scenari per specie](/assets/charts/species/confronto_scenari_ottimizzato.png)
 
 Se la prima mappa ci mostra la direzione del cambiamento, la seconda ne mostra la magnitudine, rivelando un quadro che sarebbe potuto risultare inaspettato: Per la grande maggioranza delle specie di mammiferi, il futuro sembra promettere un'espansione. Non a caso, sebbene il numero di specie in contrazione e in espansioni sia praticamente identico tra i due scenari, nel SSP3 dove aumenta maggiormente la temperatura, notiamo un più elevato numero di specie con un’espansione di oltre il 50%. Si delinea così una sorta di paradosso: mentre per la nostra specie, confinata all’interno di confini, ha condizioni di vita peggiori, per molti mammiferi si potrebbe aprire un'era di opportunità territoriale.
 I numeri complessivi confermano questa tendenza: se consideriamo l'insieme dei mammiferi analizzati, il territorio idoneo in Europa mostra una crescita media di quasi il 38%. E non è un dato falsato da poche specie fortunate: il valore mediano di crescita per singola specie è del 30%. 
