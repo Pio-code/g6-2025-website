@@ -4,11 +4,17 @@ title: "Interview"
 vega: true
 ---
 
-# 🌍 *Every Degree Matters*
-A Conversation with Jacopo Pasotti
+<div style="text-align: center;">
 
-> *Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments—from the Arctic to Everest- focusing on climate change and biodiversity dynamics.
-Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore, and La Rivista del CAI.*
+# 🌍 *Every Degree Matters*  
+**A Conversation with Jacopo Pasotti**
+
+</div>
+
+<small>
+*Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments—from the Arctic to Everest—focusing on climate change and biodiversity dynamics.  
+Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including* L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore, *and* La Rivista del CAI*.
+</small>
 
 In a media landscape often dominated by noise, speed and polarized opinions, science journalist **Jacopo Pasotti** offers a grounded and insightful view on how environmental journalism is evolving — and what still needs to change. From the battle against misinformation to the opportunities and risks of AI in scientific storytelling, Pasotti shares reflections built on years of fieldwork, interviews, and how mammals are affected by habitat change.
 
