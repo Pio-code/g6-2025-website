@@ -11,6 +11,8 @@ vega: true
 
 </div>
 
+![Jacopo Pasotti]({{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg "image_tooltip")
+
 <small>
 *Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments—from the Arctic to Everest—focusing on climate change and biodiversity dynamics.  
 Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including* L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore, *and* La Rivista del CAI*.
