@@ -47,14 +47,18 @@ Questa migrazione di massa, però, ha una condizione fondamentale: la connettivi
 
 ### aggiornare con i dati più recenti
 
-![Confronto scenari per specie](/assets/charts/species/confronto_scenari_ottimizzato.png)
+<img
+  src="/assets/charts/species/confronto_scenari_ottimizzato.png"
+  alt="Confronto scenari per specie"
+  style="width:100%; margin: 1em 0;"
+/>
 
 Se la prima mappa ci mostra la direzione del cambiamento, la seconda ne mostra la magnitudine, rivelando un quadro che sarebbe potuto risultare inaspettato: Per la grande maggioranza delle specie di mammiferi, il futuro sembra promettere un'espansione. Non a caso, sebbene il numero di specie in contrazione e in espansioni sia praticamente identico tra i due scenari, nel SSP3 dove aumenta maggiormente la temperatura, notiamo un più elevato numero di specie con un’espansione di oltre il 50%. Si delinea così una sorta di paradosso: mentre per la nostra specie, confinata all’interno di confini, ha condizioni di vita peggiori, per molti mammiferi si potrebbe aprire un'era di opportunità territoriale.
 I numeri complessivi confermano questa tendenza: se consideriamo l'insieme dei mammiferi analizzati, il territorio idoneo in Europa mostra una crescita media di quasi il 38%. E non è un dato falsato da poche specie fortunate: il valore mediano di crescita per singola specie è del 30%. 
 Ma non tutti avranno un luogo in cui spostarsi perché, se la maggioranza avanza, c'è chi non ha un luogo dove fuggire. Sono i prigionieri del clima. Pensiamo agli specialisti delle alte montagne o delle tundre artiche. Man mano che il caldo sale, loro si ritirano, passo dopo passo, sempre più in alto, sempre più a nord. Ma la loro ritirata ha una fine. Un punto in cui, semplicemente, non c'è più nessun posto dove andare.
 La montagna finisce. Il continente finisce.
 
-### aggiungere mappa per raggrappamento di habitat
+### aggiornare con i dati più recenti
 
 Guardando il grafico soprastante, relativo proprio alla specializzazione del habitat delle specie analizzate, un altro dato interessante è notare come a festeggiare sono in particolare le specie generaliste. Grazie alla loro incredibile adattabilità, non solo riescono a resistere meglio all'impatto nei territori più meridionali, ma sono anche le più rapide a colonizzare i nuovi, vasti territori che si aprono a nord. Il loro regno non si sposta semplicemente: si espande.
 
