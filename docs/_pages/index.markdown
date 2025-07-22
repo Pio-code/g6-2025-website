@@ -46,6 +46,7 @@ La mappa dell'idoneità ambientale, aggregata per tutte le specie che potrebbero
 Questa migrazione di massa, però, ha una condizione fondamentale: la connettività del territorio. Uno spostamento che sulla carta sembra possibile può essere bloccato da un'autostrada, una città o da campagne intensive prive di corridoi naturali. Se la diminuzione di specie a sud non si traduce in un'estinzione, ma in un semplice spostamento, è solo perché noi, con le nostre scelte, ne avremo dato la possibilità.
 
 ### aggiornare con i dati più recenti
+
 {% include figure.html file="/assets/charts/species/confronto_scenari_ottimizzato.png"}
 
 Se la prima mappa ci mostra la direzione del cambiamento, la seconda ne mostra la magnitudine, rivelando un quadro che sarebbe potuto risultare inaspettato: Per la grande maggioranza delle specie di mammiferi, il futuro sembra promettere un'espansione. Non a caso, sebbene il numero di specie in contrazione e in espansioni sia praticamente identico tra i due scenari, nel SSP3 dove aumenta maggiormente la temperatura, notiamo un più elevato numero di specie con un’espansione di oltre il 50%. Si delinea così una sorta di paradosso: mentre per la nostra specie, confinata all’interno di confini, ha condizioni di vita peggiori, per molti mammiferi si potrebbe aprire un'era di opportunità territoriale.
