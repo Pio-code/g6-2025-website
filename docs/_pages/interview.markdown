@@ -3,25 +3,28 @@ layout: default
 title: "Interview"
 vega: true
 ---
+---
+layout: default
+title: "Interview"
+vega: true
+---
 
-<div style="text-align: center;">
-
-# 🌍 *Every Degree Matters*  
-**A Conversation with Jacopo Pasotti**
-
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h1>🌍 <em>Every Degree Matters</em><br><strong>A Conversation with Jacopo Pasotti</strong></h1>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 2rem;">
+<div style="display: flex; align-items: flex-start; gap: 2rem;">
 
   <div style="flex: 1;">
     <small>
-      *Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.*  
-      *Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including* **L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore** *and* **La Rivista del CAI**.
+      Jacopo Pasotti is a science journalist, author, and reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.  
+      Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy.  
+      His work has appeared in major Italian and international outlets, including <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>, <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
     </small>
   </div>
 
   <div style="flex-shrink: 0;">
-    <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 120px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" title="Jacopo Pasotti">
+    <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 120px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
   </div>
 
 </div>
