@@ -46,7 +46,7 @@ url: "https://Pio-code.github.io"
 navbar:
   style :  dual #don't change this, it is used to set the navbar style.
   brand: # this is the brand of the navbar, it will be displayed on the left side.
-    title :  "SoBigData Master's projects Template"
+    title :  "Home"
     img: "./assets/images/Logo_masthead.png" # don't change this
     url: /
   nav:
@@ -74,8 +74,6 @@ navbar:
           url: /datacleaning.html
         - title: Interview
           url: /interview.html
-    - title: Page
-      url: /new_page.html
 
     - title: SBD Master # this must be always the last item in the navbar, don't change it
       url: https://masterbigdata.it/
