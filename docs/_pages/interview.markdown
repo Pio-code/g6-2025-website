@@ -11,12 +11,20 @@ vega: true
 
 </div>
 
-![Jacopo Pasotti]({{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg "image_tooltip")
+<div style="display: flex; align-items: flex-start; gap: 1.5rem; margin-bottom: 2rem;">
 
-<small>
-*Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments—from the Arctic to Everest—focusing on climate change and biodiversity dynamics.  
-Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including* L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore, *and* La Rivista del CAI*.
-</small>
+  <div style="flex: 1;">
+    <small>
+      *Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.*  
+      *Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including* **L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore** *and* **La Rivista del CAI**.
+    </small>
+  </div>
+
+  <div style="flex-shrink: 0;">
+    <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 120px; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" title="Jacopo Pasotti">
+  </div>
+
+</div>
 
 In a media landscape often dominated by noise, speed and polarized opinions, science journalist **Jacopo Pasotti** offers a grounded and insightful view on how environmental journalism is evolving — and what still needs to change. From the battle against misinformation to the opportunities and risks of AI in scientific storytelling, Pasotti shares reflections built on years of fieldwork, interviews, and how mammals are affected by habitat change.
 
