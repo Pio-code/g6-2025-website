@@ -4,64 +4,85 @@ title: "Interview"
 vega: true
 ---
 
-# Intervista a Jacopo Pasotti  
-*Giornalista scientifico e documentarista ambientale*
+# 🌍 *Every Degree Matters*
+A Conversation with Jacopo Pasotti
+
+> *Jacopo Pasotti – science journalist, author, reporter. He has documented some of the planet’s most extreme environments—from the Arctic to Everest- focusing on climate change and biodiversity dynamics.
+Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy. His work has appeared in major Italian and international outlets, including L’Espresso, la Repubblica, National Geographic, GEO, Il Sole 24 Ore, and La Rivista del CAI.*
+
+In a media landscape often dominated by noise, speed and polarized opinions, science journalist **Jacopo Pasotti** offers a grounded and insightful view on how environmental journalism is evolving — and what still needs to change. From the battle against misinformation to the opportunities and risks of AI in scientific storytelling, Pasotti shares reflections built on years of fieldwork, interviews, and how mammals are affected by habitat change.
+
+This conversation highlights the complexity of climate communication today: the tension between urgency and accuracy, the need to broaden the environmental narrative, and the responsibility of the media in shaping public understanding. Here’s what he had to say.
 
 ---
 
-## 🧠 Evoluzione del giornalismo ambientale  
-> “Il false balance è ancora molto presente: si mettono sullo stesso piano fatti e opinioni prive di fondamento, generando confusione più che chiarezza.”
+## 📰 The Evolution of Environmental Journalism  
+> *“False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”*
 
-Pasotti critica la spettacolarizzazione nei talk show e nei social, dove si cerca più il dibattito che l’informazione.  
-📻 Invece, radio e stampa mostrano maggiore responsabilità e profondità sui temi ambientali.
-
----
-
-## 📢 Le sfide della comunicazione sul clima  
-> “Gestire le shitstorm è stata per anni una delle sfide più complesse.”
-
-Con l’arrivo dei social, gli scienziati sono stati spesso bersagliati. Ora però cresce una **maggiore apertura verso i dati scientifici**, grazie agli effetti tangibili della crisi climatica.
+Pasotti strongly criticizes the persistence of **false balance** in environmental reporting. He explains how **talk shows and social media** often prioritize **conflict and spectacle**, giving undue visibility to unqualified voices and undermining public understanding. In contrast, he praises **radio and print media** for maintaining **depth, accuracy**, and **context**, offering more meaningful coverage—even if to a smaller audience. This more traditional approach remains crucial for exploring long-term and complex enviromental challenges.
 
 ---
 
-## 🌱 Lacune nella comunicazione  
-> “Si parla molto di clima, ma ancora troppo poco di ambiente nel suo insieme.”
+## 📢 The Challenges of Communicating Climate Change  
+> *“Dealing with shitstorms was one of the hardest challenges for years.”*
 
-La perdita di biodiversità viene spesso ignorata, ma è **una minaccia grave e sottovalutata**. Serve una visione più sistemica, che colleghi clima, ecosistemi, acqua, aria e suolo.
-
----
-
-## 🔥 Catastrofismo nei media  
-> “Lanciare allarmi fondati è doveroso. Ma il catastrofismo mediatico crea ansia e disinformazione.”
-
-Titoli sensazionalistici e influencer distorcono il messaggio, allontanando il pubblico da una comprensione vera del problema.
+The rise of digital platforms has exposed scientists and communicators to **waves of online abuse**, often coordinated to discredit legitimate research. Pasotti reflects on these difficult years, but also notes a **positive shift**: as **climate impacts** become more **visible and tangible**, more people are showing **trust in scientific data**. This change marks a **turning point** in public engagement, though the space for **constructive dialogue** remains delicate and must be carefully nurtured.
 
 ---
 
-## 🐾 L’impatto sulle specie animali  
-> “La riduzione e frammentazione degli habitat è la principale causa del declino delle specie.”
+## 🌱 Gaps in Environmental Coverage  
+> *“There’s a lot of talk about climate, but still too little about the environment as a whole.”*
 
-Agricoltura, urbanizzazione e cambiamenti climatici alterano comportamenti, catene alimentari e rotte migratorie.  
-👉 Proteggere la biodiversità significa **ripensare il nostro rapporto con il territorio**.
-
----
-
-## 🤖 L’intelligenza artificiale nella comunicazione scientifica  
-> “Il punto oggi non è se usiamo l’AI, ma come la usiamo.”
-
-Pasotti usa l’AI per revisioni e traduzioni, ma ne denuncia i limiti nella ricerca: **“Troppi dati inventati o non verificabili”**.
+Pasotti calls out the media’s tendency to **focus exclusively on climate change**, often ignoring **interconnected environmental issues** such as **biodiversity loss**, **soil degradation**, and **water pollution**. He advocates for a more **systemic narrative**—one that reflects the **interdependence** between natural systems and emphasizes that tackling climate change requires considering the **health of the entire planet**, not just carbon levels.
 
 ---
 
-## 🕰️ C'è ancora tempo?  
-> “Ogni mezzo grado conta. È come un treno: arrivare al tunnel a 120 km/h è diverso da arrivarci piano.”
+## 🔥 Media Catastrophism  
+> *“Sounding the alarm is necessary. But media catastrophism only creates anxiety and misinformation.”*
 
-La soglia critica dei +1,5 °C è superata, ma rallentare l’aumento può darci tempo per adattarci.
+Pasotti warns against the rise of **catastrophic narratives** in the media, where **clickbait headlines** and **influencer-driven content** often distort the scientific message. While he agrees on the urgency of climate communication, he stresses the importance of **precision over panic**. The goal should be to **empower** the audience with knowledge—not to paralyze them with fear. 
 
 ---
 
-## 👩‍🎓 Un consiglio ai giovani  
-> “Non limitatevi al giornalismo: servono competenze trasversali per comunicare davvero la scienza.”
+## 🐾 The Impact on Animal Species  
+> *“Habitat loss and fragmentation are the main drivers of species decline.”*
 
-Con l’AI che cambia il mercato editoriale, la **diversificazione è una strategia di resilienza**, non solo una scelta.
+One of the most underreported consequences of environmental degradation, according to Pasotti, is the **rapid decline of wildlife populations**. Beyond climate change, factors like **urban expansion**, **agricultural pressure**, and **land fragmentation** are severely affecting **migration routes**, **food chains**, and **ecosystem balance**. He believes that **rethinking land use** and integrating **conservation strategies** is key to preserving **biodiversity**—which in turn supports human life.
+
+---
+
+## 🤖 AI and the Future of Science Communication  
+> *“The question today isn’t whether we use AI, but how we use it.”*
+
+Pasotti acknowledges that artificial intelligence is now part of nearly every field, including science journalism. Some media outlets are transparent about it, while others are not. He cites the Italian newspaper "Il Foglio" as a positive example: once a week, it publishes an article entirely generated by AI, and clearly labels it as such. Pasotti believes that transparency is essential to maintaining readers’ trust, especially when it comes to disclosing when and how AI is involved in content creation.
+Personally, he initially experimented with using AI for source gathering, but encountered major limitations—particularly the problem of “hallucinations” or the invention of unverifiable facts and references. As a result, he still relies on traditional, verifiable sources for research.
+That said, he regularly uses AI for support tasks such as stylistic editing, Instagram post revision, and the translation of complex scientific texts—contexts in which he finds AI to be genuinely helpful.
+
+---
+
+## 🕰️ Is There Still Time?  
+> *“Every half degree matters. It’s like a train: hitting a tunnel at 120 km/h is not the same as slowing down before you get there.”*
+
+Pasotti believes that although the **+1.5 °C threshold** has already been exceeded, it’s still possible to **slow down global warming** and **reduce future damage**. He compares the situation to a train approaching a wall: the **speed at which we hit** matters. Every fraction of a degree avoided gives us **more time to adapt**, **reinforce infrastructure**, and **implement policy**. The climate crisis, he reminds us, is **cumulative**—and every action today shapes tomorrow.
+
+---
+
+## 👩‍🎓 Advice for Young Communicators  
+> *“Don’t stop at journalism: we need cross-disciplinary skills to truly communicate science.”*
+
+To communicate science effectively in today’s world, Pasotti encourages young professionals to go beyond traditional journalism. He advocates for developing **hybrid skills**—combining **journalistic storytelling** with knowledge in **data science**, **environmental policy**, or **scientific research**. In a media environment disrupted by AI and fragmented attention, **versatility** becomes a crucial form of **resilience**. Pasotti himself trains communicators across Europe, from universities to research institutions, promoting a more **integrated and rigorous approach**.
+
+---
+
+## ☁️ Keywords from the Interview
+
+Here is a visual summary of the key concepts discussed in the conversation:
+
+![Word Cloud – Climate Journalism]
+
+
+
+## 📥 Download and Share
+
+You can download the full interview as a PDF [here]() *(insert link)* or share it on social media using the hashtag `#EveryDegreeMatters`.
 
