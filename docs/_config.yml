@@ -54,6 +54,8 @@ navbar:
       url: /guide.html
     - title: Example page
       url: /example.html
+    - title: Species explorer
+      url: /species_explorer.html
     - title: in-depth
       child:
         - title: Local development
