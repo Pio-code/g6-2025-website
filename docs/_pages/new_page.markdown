@@ -20,10 +20,12 @@ Di fronte a queste evidenze, l'interesse per il clima sta crescendo. Tuttavia, c
 
 La risposta dipende dai diversi futuri possibili, che dipendono non solo da come evolverà il clima, ma anche da come lo sviluppo della nostra società influirà sulla terra che condividiamo. Per esplorare questi futuri, gli scienziati utilizzano gli Scenari Socioeconomici Condivisi (SSP), i quali descrivono possibili sviluppi globali fino al 2100 tenendo conto di fattori come demografia, economia, politiche energetiche e uso del suolo.  
 Le stime più recenti sono concordi: gli obiettivi più ottimistici, come contenere il riscaldamento globale entro 1,5 °C o 2 °C appaiono ormai irraggiungibili. L’attenzione si sposta su scenari più realistici. Tra i più studiati vi sono:
+
 •	SSP2-4.5 (“La via di mezzo”): Uno scenario intermedio in cui le tendenze attuali proseguono. Le emissioni continuano a crescere moderatamente, portando a un riscaldamento globale di circa 2.7°C entro la fine del secolo.
+
 •	SSP3-7.0 (“Rivalità Regionale”): Uno scenario più pessimistico, caratterizzato da nazionalismi, scarsa cooperazione internazionale e limitati investimenti nello sviluppo sostenibile. Questo percorso porterebbe a un aumento delle temperature globali di circa 3.6 °C entro il 2100.
+
 Questi scenari non definiscono solo temperature diverse, ma anche paesaggi diversi. L’uso del suolo per l’agricoltura e per le città è una delle cause principali del degrado ambientale, frammentando gli habitat e minacciando la biodiversità.
-Il modo in cui usiamo il suolo (per agricoltura, città, foreste) è una delle principali cause del degrado ambientale, con la conversione di terreni naturali in aree artificiali o agricole frammentando gli habitat e distruggendo la biodiversità.
 Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima. Bisogna sapere come cambierà la loro casa: le foreste, i prati, le campagne. Per vedere con i nostri occhi questi futuri divergenti, nella mappa interattiva sottostante possiamo esplorare un dettagliatissimo set di mappe sviluppato per l'Europa (Fuchs et al., 2023), che visualizza come potrebbe apparire il nostro continente fino al 2100. Confrontiamo i due scenari. 
 
 DA AGGIUSTARE
