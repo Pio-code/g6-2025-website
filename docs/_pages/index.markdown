@@ -48,9 +48,9 @@ Questa migrazione di massa, però, ha una condizione fondamentale: la connettivi
 ### aggiornare con i dati più recenti
 
 <img
-  src="/assets/charts/species/confronto_scenari_ottimizzato.png"
+  src="{{ site.baseurl }}/assets/charts/species/confronto_scenari_ottimizzato.png"
   alt="Confronto scenari per specie"
-  style="width:100%; margin: 1em 0;"
+  style="width:100%; margin:1em 0;"
 />
 
 Se la prima mappa ci mostra la direzione del cambiamento, la seconda ne mostra la magnitudine, rivelando un quadro che sarebbe potuto risultare inaspettato: Per la grande maggioranza delle specie di mammiferi, il futuro sembra promettere un'espansione. Non a caso, sebbene il numero di specie in contrazione e in espansioni sia praticamente identico tra i due scenari, nel SSP3 dove aumenta maggiormente la temperatura, notiamo un più elevato numero di specie con un’espansione di oltre il 50%. Si delinea così una sorta di paradosso: mentre per la nostra specie, confinata all’interno di confini, ha condizioni di vita peggiori, per molti mammiferi si potrebbe aprire un'era di opportunità territoriale.
@@ -59,7 +59,19 @@ Ma non tutti avranno un luogo in cui spostarsi perché, se la maggioranza avanza
 La montagna finisce. Il continente finisce.
 
 ### aggiornare con i dati più recenti
+<img
+  src="{{ site.baseurl }}/assets/charts/species/impact_by_specialization(SSP2).png"
+  alt="Confronto scenari per specie"
+  style="width:100%; margin:1em 0;"
+/>
 
 Guardando il grafico soprastante, relativo proprio alla specializzazione del habitat delle specie analizzate, un altro dato interessante è notare come a festeggiare sono in particolare le specie generaliste. Grazie alla loro incredibile adattabilità, non solo riescono a resistere meglio all'impatto nei territori più meridionali, ma sono anche le più rapide a colonizzare i nuovi, vasti territori che si aprono a nord. Il loro regno non si sposta semplicemente: si espande.
+
+<img
+  src="{{ site.baseurl }}/assets/charts/species/impact_by_specialization(SSP3).png"
+  alt="Confronto scenari per specie"
+  style="width:100%; margin:1em 0;"
+/>
+
 
 ### aggiungere mappa per raggruppamento per ordine
