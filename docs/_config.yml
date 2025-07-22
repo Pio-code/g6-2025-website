@@ -74,7 +74,8 @@ navbar:
           url: /datacleaning.html
         - title: Interview
           url: /interview.html
-
+        - title: Data Enrichment
+          url: /dataenrichment.html
     - title: SBD Master # this must be always the last item in the navbar, don't change it
       url: https://masterbigdata.it/
 

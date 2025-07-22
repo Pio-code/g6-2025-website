@@ -1,10 +1,12 @@
 ---
+header_img: assets/images/folium_map.webp
+header_title: "Data Cleaning"
+header_type: hero
 layout: default
 title: "Data Cleaning"
 ---
 
-# Data Cleaning
-The species occurrence records obtained from GBIF were consolidated into a single CSV file and subjected to a data cleaning process.  
+The species occurrence records obtained from GBIF were consolidated into a single file and subjected to a **data cleaning** process.  
 The cleaning process included the following steps:
 + removal of data fields not relevant to the analysis;
 + validation of date fields;
