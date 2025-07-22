@@ -5,7 +5,9 @@ vega: true
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.3rem;">🌍 <em>Every Degree Matters</em></h1>
+ <h1 style="font-family: Georgia, 'Times New Roman', serif; font-size: 2.2rem; font-style: italic; font-weight: normal; margin-bottom: 0.3rem;">
+  Every Degree Matters
+</h1>
   <p style="font-size: 1.0rem; font-style: italic; margin-top: 0;">A Conversation with Jacopo Pasotti</p>
 </div>
 
@@ -16,8 +18,7 @@ vega: true
     <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 100%; border-radius: 8px; margin-bottom: 1rem;">
     <div style="font-size: 0.95rem; line-height: 1.5; color: #333;">
       Jacopo Pasotti is a science journalist, author, and reporter.  
-      He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.  
-      Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy.  
+      He teaches science communication and focuses on climate change and biodiversity.  
       His work has appeared in major Italian and international outlets, including <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>, <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
     </div>
   </div>
