@@ -51,23 +51,29 @@ vega: true
 
 <div style="margin-bottom: 3rem;">
 
+ <div style="margin-bottom: 3rem;">
+
   <!-- Titolo con numero e emoji -->
-  <h2 style="display: flex; align-items: center; gap: 0.6rem; font-size: 1.8rem; margin-bottom: 1rem;">
-    <span style="font-size: 1.6rem; font-weight: bold;">1.</span>
-    <span>📰 <strong>The Evolution of Environmental Journalism</strong></span>
-  </h2>
+  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #333;">1.</div>
+    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600;">
+      <span style="font-size: 1.2rem;">📰</span> The Evolution of Environmental Journalism
+    </h2>
+  </div>
 
   <!-- Citazione -->
-  <blockquote style="background-color: #f6f6f6; padding: 1rem 1.2rem; border-radius: 6px; font-style: italic; color: #444; margin: 0 0 1.2rem; border-left: 4px solid #ccc;">
-    “False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”
+  <blockquote style="background-color: #f0f0f0; padding: 1.2rem 1.5rem; border-left: 5px solid #bbb; border-radius: 6px; margin-bottom: 1.5rem;">
+    <p style="font-style: italic; font-size: 1.0rem; margin: 0; color: #444;">
+      “False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”
+    </p>
   </blockquote>
 
-  <!-- Testo esplicativo -->
+  <!-- Commento -->
   <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-    <em>Pasotti strongly criticizes the persistence of <strong>false balance</strong> in environmental reporting.</em>  
+    Pasotti <em>strongly criticizes the persistence of <strong>false balance</strong></em> in environmental reporting.  
     He explains how <strong>talk shows and social media</strong> often prioritize <strong>conflict and spectacle</strong>, giving undue visibility to unqualified voices and undermining public understanding.  
     In contrast, he praises <strong>radio and print media</strong> for maintaining <strong>depth, accuracy, and context</strong>, offering more meaningful coverage — even if to a smaller audience.  
-    This more traditional approach remains crucial for exploring long-term and complex environmental challenges.
+    This more traditional approach remains <em>crucial for exploring long-term and complex environmental challenges</em>.
   </div>
 
 </div>
