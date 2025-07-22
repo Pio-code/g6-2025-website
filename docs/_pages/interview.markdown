@@ -3,25 +3,19 @@ layout: default
 title: "Interview"
 vega: true
 ---
----
-layout: default
-title: "Interview"
-vega: true
----
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1>🌍 <em>Every Degree Matters</em><br><strong>A Conversation with Jacopo Pasotti</strong></h1>
+  <h1 style="margin-bottom: 0.3rem;">🌍 <em>Every Degree Matters</em></h1>
+  <p style="font-size: 0.9rem; font-style: italic; margin-top: 0;">A Conversation with Jacopo Pasotti</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 2rem;">
 
-  <div style="flex: 1;">
-    <small>
-      Jacopo Pasotti is a science journalist, author, and reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.  
-      Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy.  
-      His work has appeared in major Italian and international outlets, including <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>, <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
-    </small>
-  </div>
+ <div style="flex: 1; font-size: 0.95rem; line-height: 1.6;">
+  Jacopo Pasotti is a science journalist, author, and reporter. He has documented some of the planet’s most extreme environments — from the Arctic to Everest — focusing on climate change and biodiversity dynamics.  
+  Since 2004, he has been actively involved in science communication and teaches environmental journalism in leading institutions in Switzerland and Italy.  
+  His work has appeared in major Italian and international outlets, including <strong>L’Espresso</strong>, <strong>la Repubblica</strong>, <strong>National Geographic</strong>, <strong>GEO</strong>, <strong>Il Sole 24 Ore</strong>, and <strong>La Rivista del CAI</strong>.
+</div>
 
   <div style="flex-shrink: 0;">
     <img src="{{site.baseurl}}/assets/images/Jacopo_Pasotti.jpg" alt="Jacopo Pasotti" style="width: 120px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);" />
@@ -29,10 +23,24 @@ vega: true
 
 </div>
 
-In a media landscape often dominated by noise, speed and polarized opinions, science journalist **Jacopo Pasotti** offers a grounded and insightful view on how environmental journalism is evolving — and what still needs to change. From the battle against misinformation to the opportunities and risks of AI in scientific storytelling, Pasotti shares reflections built on years of fieldwork, interviews, and how mammals are affected by habitat change.
+<hr style="margin-top: 2rem; margin-bottom: 1.5rem;">
 
-This conversation highlights the complexity of climate communication today: the tension between urgency and accuracy, the need to broaden the environmental narrative, and the responsibility of the media in shaping public understanding. Here’s what he had to say.
+<div style="font-size: 1rem; font-style: italic; color: #444; margin-bottom: 2rem;">
+  <p>
+ <hr style="margin-top: 2rem; margin-bottom: 1.5rem;">
 
+<div style="font-size: 1rem; font-style: italic; color: #444; margin-bottom: 2rem;">
+  <p>
+    <strong>Framing the conversation:</strong> in a media landscape often dominated by noise, speed, and polarized opinions, science journalist <strong>Jacopo Pasotti</strong> offers a clear and grounded perspective on how environmental journalism is evolving — and what still needs to change.  
+    From the fight against misinformation to the opportunities (and risks) of using artificial intelligence in science communication, Pasotti shares insights drawn from years of field reporting, interviews, and his analysis of how habitat loss affects mammals and ecosystems.
+  </p>
+  <p>
+    This conversation highlights the complexity of today’s climate communication: the tension between urgency and accuracy, the need to expand the environmental narrative, and the responsibility of the media in shaping public awareness.  
+    <strong>Here’s what he had to say.</strong>
+  </p>
+</div>
+
+<hr style="margin-top: 0; margin-bottom: 2rem;">
 ---
 
 ## 📰 The Evolution of Environmental Journalism  
