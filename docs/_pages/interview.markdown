@@ -49,12 +49,28 @@ vega: true
 
 </div>
 
-## 📰 The Evolution of Environmental Journalism  
-> *“False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”*
+<div style="margin-bottom: 3rem;">
 
-Pasotti strongly criticizes the persistence of **false balance** in environmental reporting. He explains how **talk shows and social media** often prioritize **conflict and spectacle**, giving undue visibility to unqualified voices and undermining public understanding. In contrast, he praises **radio and print media** for maintaining **depth, accuracy**, and **context**, offering more meaningful coverage—even if to a smaller audience. This more traditional approach remains crucial for exploring long-term and complex enviromental challenges.
+  <!-- Titolo con numero e emoji -->
+  <h2 style="display: flex; align-items: center; gap: 0.6rem; font-size: 1.8rem; margin-bottom: 1rem;">
+    <span style="font-size: 1.6rem; font-weight: bold;">1.</span>
+    <span>📰 <strong>The Evolution of Environmental Journalism</strong></span>
+  </h2>
 
----
+  <!-- Citazione -->
+  <blockquote style="background-color: #f6f6f6; padding: 1rem 1.2rem; border-radius: 6px; font-style: italic; color: #444; margin: 0 0 1.2rem; border-left: 4px solid #ccc;">
+    “False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”
+  </blockquote>
+
+  <!-- Testo esplicativo -->
+  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
+    <em>Pasotti strongly criticizes the persistence of <strong>false balance</strong> in environmental reporting.</em>  
+    He explains how <strong>talk shows and social media</strong> often prioritize <strong>conflict and spectacle</strong>, giving undue visibility to unqualified voices and undermining public understanding.  
+    In contrast, he praises <strong>radio and print media</strong> for maintaining <strong>depth, accuracy, and context</strong>, offering more meaningful coverage — even if to a smaller audience.  
+    This more traditional approach remains crucial for exploring long-term and complex environmental challenges.
+  </div>
+
+</div>
 
 ## 📢 The Challenges of Communicating Climate Change  
 > *“Dealing with shitstorms was one of the hardest challenges for years.”*
