@@ -3,7 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "HOME RAW"
+title: "HOME"
+header_img: https://placehold.co/600x400
+# header_img: assets/images/folium_map.webp
+header_title: "Data Collection"
+header_type: hero
 vega: true
 
 ---
