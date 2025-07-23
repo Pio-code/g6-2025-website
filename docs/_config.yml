@@ -63,6 +63,8 @@ navbar:
           url: /publicperception.html
         - title: Interview
           url: /interview.html
+    - title: DISCLAIMER
+      url: /disclaimer.html
     - title: in-depth
       child:
         - title: Local development
