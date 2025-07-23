@@ -12,7 +12,7 @@ vega: true
 La crisi climatica non è più un concetto astratto, non tangibile da una società estremamente urbanizzata che non può vederne gli effetti sugli ecosistemi, ma un’esperienza vissuta da tutti noi. Le condizioni ambientali peggiorano: la temperatura media del pianeta aumenta, mentre fenomeni estremi come ondate di calore, inondazioni e siccità diventano sempre più vicini alla nuova normalità.
 L'indicatore principale di questa trasformazione, l’innalzamento della temperatura media, segnala il 2024 nuovamente come l’anno più caldo mai registrato, superando per la prima volta soglia di +1,5 °C rispetto ai livelli preindustriali. E se il mondo corre, l’Europa vola: il nostro continente si sta riscaldando a una velocità quasi doppia, con un aumento che sulla terraferma ha raggiunto +2,6 °C già nel 2023.
 
-<div style="width: 90%; margin: 1em 0;"> 
+<div style="width: 80%; margin: 1em 0;"> 
   <vegachart schema-url="{{site.baseurl}}/Land_cover/temperature_anomaly_chart.json" style="width: 100%;"></vegachart>
 </div>
 
@@ -55,7 +55,7 @@ Questa migrazione di massa, però, ha una condizione fondamentale: la connettivi
 />
 
 Se la prima mappa ci mostra la direzione del cambiamento, la seconda ne mostra la magnitudine, rivelando un quadro che sarebbe potuto risultare inaspettato: Per la grande maggioranza delle specie di mammiferi, il futuro sembra promettere un'espansione. Non a caso, sebbene il numero di specie in contrazione e in espansioni sia praticamente identico tra i due scenari, nel SSP3 dove aumenta maggiormente la temperatura, notiamo un più elevato numero di specie con un’espansione di oltre il 50%. Si delinea così una sorta di paradosso: mentre per la nostra specie, confinata all’interno di confini, ha condizioni di vita peggiori, per molti mammiferi si potrebbe aprire un'era di opportunità territoriale.
-I numeri complessivi confermano questa tendenza: se consideriamo l'insieme dei mammiferi analizzati, il territorio idoneo in Europa mostra una crescita media di quasi il 38%. E non è un dato falsato da poche specie fortunate: il valore mediano di crescita per singola specie è del 30%. 
+I numeri complessivi confermano questa tendenza: se consideriamo l'insieme dei mammiferi analizzati, il territorio idoneo in Europa mostra una crescita media di quasi il 18.62%. E non è un dato falsato da poche specie fortunate: il valore mediano di crescita per singola specie è anche più alto, con il 22.88%. 
 Ma non tutti avranno un luogo in cui spostarsi perché, se la maggioranza avanza, c'è chi non ha un luogo dove fuggire. Sono i prigionieri del clima. Pensiamo agli specialisti delle alte montagne o delle tundre artiche. Man mano che il caldo sale, loro si ritirano, passo dopo passo, sempre più in alto, sempre più a nord. Ma la loro ritirata ha una fine. Un punto in cui, semplicemente, non c'è più nessun posto dove andare.
 La montagna finisce. Il continente finisce.
 
@@ -66,7 +66,8 @@ La montagna finisce. Il continente finisce.
   style="width:100%; margin:1em 0;"
 />
 
-Guardando il grafico soprastante, relativo proprio alla specializzazione del habitat delle specie analizzate, un altro dato interessante è notare come a festeggiare sono in particolare le specie generaliste. Grazie alla loro incredibile adattabilità, non solo riescono a resistere meglio all'impatto nei territori più meridionali, ma sono anche le più rapide a colonizzare i nuovi, vasti territori che si aprono a nord. Il loro regno non si sposta semplicemente: si espande.
+Guardando il grafico soprastante, relativo alla specializzazione dell'habitat, emerge una chiara spaccatura. A trarre i maggiori vantaggi sono le specie generaliste. Grazie alla loro incredibile adattabilità, non solo riescono a resistere meglio all'impatto nei territori più meridionali, ma sono anche le più rapide a colonizzare i nuovi, vasti territori che si aprono a nord. Il loro regno non si sposta semplicemente: si espande.
+Al contrario, le specie specializzate per gli ambienti freddi, come quelle montane e delle tundre, affrontano un futuro di esclusivo deterioramento.
 
 <img
   src="{{ site.baseurl }}/assets/charts/species/impact_by_specialization(SSP3).png"
@@ -74,6 +75,7 @@ Guardando il grafico soprastante, relativo proprio alla specializzazione del hab
   style="width:100%; margin:1em 0;"
 />
 
+Nello scenario SSP3, la dinamica è simile ma amplificata: l'espansione dei generalisti diventa ancora più marcata, evidenziando come un riscaldamento più intenso favorisca ulteriormente le specie più versatili.
 
 ### aggiungere mappa per raggruppamento per ordine
 <div style="width: 90%;">
@@ -81,6 +83,11 @@ Guardando il grafico soprastante, relativo proprio alla specializzazione del hab
 </div>
 
 
+Se spostiamo l'analisi dalla specializzazione ecologica alla classificazione tassonomica, i dati rivelano un altro livello di dettaglio. Notiamo una spiccata tendenza positiva per i Roditori, che sembrano essere i principali beneficiari del cambiamento climatico a venire. In maggiore difficoltà appaiono invece gli Artiodattili, un ordine che include molte delle specie specialiste degli ambienti montani e della tundra. Non sorprende, quindi, che esplorando i singoli punti del grafico, le specie che perdono più territorio siano proprio quelle confinate alle alte quote e alle latitudini settentrionali.
+
+
 <div style="width: 90%;">
   <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp3.json" style="width: 100%;"></vegachart>
 </div>
+
+Nello scenario SSP3, considerato peggiore per gli esseri umani, le tendenze si accentuano ulteriormente: i Roditori mostrano un miglioramento ancora più netto, gli Artiodattili subiscono un peggioramento più severo, mentre la situazione per gli altri ordini rimane relativamente stabile rispetto allo scenario SSP2
