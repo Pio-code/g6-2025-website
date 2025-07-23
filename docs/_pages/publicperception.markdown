@@ -1,9 +1,3 @@
-----
-layout: default
-title: "Interview"
-vega: true
----
-
 ---
 layout: default
 title: "Public perception"
