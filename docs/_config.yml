@@ -58,6 +58,11 @@ navbar:
       url: /species_explorer.html
     - title: Communication
       url: /communication.html
+      child:
+        - title: Public perception
+          url: /publicperception.html
+        - title: Interview
+          url: /interview.html
     - title: in-depth
       child:
         - title: Local development
@@ -74,8 +79,6 @@ navbar:
           url: /datacollection.html
         - title: Data Cleaning
           url: /datacleaning.html
-        - title: Interview
-          url: /interview.html
         - title: Data Enrichment
           url: /dataenrichment.html
     - title: SBD Master # this must be always the last item in the navbar, don't change it
