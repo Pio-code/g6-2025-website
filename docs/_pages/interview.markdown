@@ -60,11 +60,21 @@ vega: true
   <li><strong><em>vi. AI and the Future of Science Communication</em></strong></li>
 </ul>
 <hr style="margin-bottom: 3rem;">
-</div>
-
-<div style="margin-bottom: 3rem;">
 
  <div style="margin-bottom: 3rem;">
+
+ <!-- Titolo con Takeaway e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 1
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">1.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">📰</span> The Evolution of Environmental Journalism
+    </h2>
+  </div>
+</div>
 
 <!-- Etichetta Takeaway -->
 <div style="font-size: 0.9rem; color: #777; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 0.3rem;">
