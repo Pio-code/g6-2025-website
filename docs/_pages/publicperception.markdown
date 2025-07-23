@@ -4,10 +4,9 @@ title: "Public perception"
 permalink: /publicperception.html
 ---
 
-<section>
   <h1>Textual Analysis and Sentiment Insights on European Mammals</h1>
 
-  <p>This section of the project <em>“Impacts of Climate Change on European Mammals”</em> focuses on the <strong>textual dimension of public perception</strong>, analyzing how key mammal species are discussed and perceived across online communities. Rather than studying ecological dynamics directly, this work leverages <strong>Natural Language Processing (NLP)</strong> and <strong>deep learning models</strong> to understand the <strong>tone, frequency, and thematic context</strong> of discussions involving these species, particularly on <strong>Reddit</strong>, one of the most active platforms for public discourse on environmental issues.</p>
+  <p>This section of the project focuses on the <strong>textual dimension of public perception</strong>, analyzing how key mammal species are discussed and perceived across online communities. Rather than studying ecological dynamics directly, this work leverages <strong>Natural Language Processing (NLP)</strong> and <strong>deep learning models</strong> to understand the <strong>tone, frequency, and thematic context</strong> of discussions involving these species, particularly on <strong>Reddit</strong>, one of the most active platforms for public discourse on environmental issues.</p>
 
   <p>The objective is twofold:</p>
   <ol>
@@ -82,12 +81,6 @@ permalink: /publicperception.html
   <p>This suggests that <strong>outreach efforts</strong> can capitalize on <strong>flagship species</strong> to drive engagement, while also using them as entry points to promote <strong>lesser-known biodiversity</strong>.</p>
 
   <h2>Emotional Analysis: Sentiment and Emotion Classification</h2>
-  
-  <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
-    
-
-  <section>
-  <h2>Emotional Analysis: Sentiment and Emotion Classification (Updated)</h2>
   <p>To better capture the <strong>emotional framing</strong> of Reddit discussions, we applied a 
   <strong>Transformer-based deep learning model</strong>, DistilRoBERTa 
   (<em>j-hartmann/emotion-english-distilroberta-base</em>), optimized for 
@@ -161,7 +154,6 @@ Percentage distribution of Anger, Fear, Joy, and Sadness by species (Neutral exc
   conflict- and threat-driven</strong>, with emotional polarization strongest for 
   <strong>wolves (conflict)</strong> and <strong>polar bears (climate icon)</strong>, while 
   <strong>hedgehogs and moles evoke sympathy rather than controversy</strong>.</p>
-</section>
 
 
 
@@ -185,4 +177,3 @@ Percentage distribution of Anger, Fear, Joy, and Sadness by species (Neutral exc
     <li><strong>Conservation policy</strong>, aligning management priorities with <strong>societal concerns</strong>.</li>
     <li><strong>Educational outreach</strong>, using <strong>iconic animals</strong> (polar bear, grey wolf) as entry points to highlight <strong>broader biodiversity issues</strong>.</li>
   </ul>
-</section>
