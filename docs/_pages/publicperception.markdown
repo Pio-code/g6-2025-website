@@ -59,7 +59,7 @@ permalink: /publicperception.html
   <p><strong>Grey wolf (998 mentions)</strong> and <strong>polar bear (850 mentions)</strong> dominate the discourse, jointly accounting for <strong>over 70% of all mentions</strong>. In contrast, <strong>red deer (189 mentions)</strong> and <strong>red fox (178 mentions)</strong> receive moderate attention, while other species (lynx, hedgehog, mole, wildcat) are <strong>virtually absent</strong> with fewer than 50 mentions each.</p>
   <p>This reflects a typical trend in environmental communication, where <strong>iconic or controversial species attract disproportionate focus</strong>, while <strong>less conspicuous species remain underrepresented</strong>.</p>
 
-   <img src="../assets/images/grafico_1.png" alt="Total mentions (posts + comments) per species">
+   <img src="{{site.baseurl}}/assets/images/grafico_1.png" alt="Total mentions (posts + comments) per species">
 
   <figcaption>
   
@@ -67,7 +67,7 @@ permalink: /publicperception.html
 
 
 
-   <img src="../assets/images/grafico_2.png" alt="Most mentioned species in posts"> 
+   <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Most mentioned species in posts"> 
 
    <figcaption>  
        
@@ -103,7 +103,7 @@ permalink: /publicperception.html
   </ul>
   <p>Overall, the discourse leans <strong>neutral to negative</strong>, with <strong>joy appearing rarely</strong>, primarily in <strong>observational or aesthetic contexts</strong>.</p>
 
-  <img src="../assets/images/grafico_4.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
+  <img src="{{site.baseurl}}/assets/images/grafico_4.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
     <figcaption>
       
   Figure 4: Emotional tone distribution per species based on Reddit discussions.</figcaption>
