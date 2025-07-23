@@ -66,6 +66,10 @@ vega: true
 
  <div style="margin-bottom: 3rem;">
 
+<!-- Etichetta Takeaway -->
+<div style="font-size: 0.9rem; color: #777; letter-spacing: 0.5px; text-transform: uppercase; margin-bottom: 0.3rem;">
+  Takeaway 1
+</div>
   <!-- Titolo con numero e emoji -->
   <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
     <div style="font-size: 1.6rem; font-weight: bold; color: #333;">1.</div>
