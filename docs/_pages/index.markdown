@@ -28,7 +28,6 @@ Le stime più recenti sono concordi: gli obiettivi più ottimistici, come conten
 Questi scenari non definiscono solo temperature diverse, ma anche paesaggi diversi. L’uso del suolo per l’agricoltura e per le città è una delle cause principali del degrado ambientale, frammentando gli habitat e minacciando la biodiversità.
 Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima, ma bisogna sapere come cambierà la loro casa: le foreste, i prati, le campagne. Per vedere con i nostri occhi questi futuri divergenti, nella mappa interattiva sottostante possiamo esplorare un dettagliatissimo set di mappe sviluppato per l'Europa, che visualizza come potrebbe apparire il nostro continente fino al 2100. Confrontiamo i due scenari. 
 
-DA AGGIUSTARE
 <div style="width: 100%;">
   <vegachart schema-url="{{site.baseurl}}/Land_cover/interactive_chart.json" style="width: 100%;"></vegachart>
 </div>
@@ -39,12 +38,10 @@ Lo scenario SSP3 dipinge un tutt’altro quadro. A prima vista potrebbe sembrare
 Ma come si traducono un cambiamento del clima, oppure un campo che diventa bosco, o una foresta che viene abbattuta, nella vita di un cervo, di un lupo o di un toporagno? Per rispondere, entra in gioco l’idoneità ambientale.
 Non si tratta di dove una specie vive oggi, ma di mappare tutte le aree che, dati i suoi requisiti vitali (temperatura, vegetazione, ecc.), potrebbero sostenerne la presenza. L'obiettivo diventa quindi confrontare le mappe dell'idoneità attuale con quelle dei futuri possibili, per vedere dove una specie potrà ancora vivere (Se effettivamente presente), dove dovrà spostarsi e quali territori diventeranno inospitali.
 
-### Aggiungere mappa ricchezza specie (non prende il path). prova singola img
-<img
-  src="{{ site.baseurl }}/assets/charts/species/ricchezza_present.png"
-  alt="Mappa ricchezza specie presente"
-  style="width:100%; margin:1em 0;"
-/>
+
+<div style="width: 100%;">
+  <vegachart schema-url="{{site.baseurl}}/Land_cover/mappa_ricchezza_interattiva.json" style="width: 100%;"></vegachart>
+</div>
 
 La mappa dell'idoneità ambientale, aggregata per tutte le specie che potrebbero vivere in una determinata area, racconta una famosa regola dell’ecologia: la vita si manifesta con una maggiore diversità a latitudini più basse, per poi diradarsi gradualmente man mano che si sale verso il clima freddo del nord. Questo schema di base rimane anche nel futuro, ma il cambiamento climatico sta innescando un grande spostamento verso nord, che possiamo osservare anche in queste mappe di idoneità territoriale. Le aree settentrionali, riscaldandosi, diventano ospitali per specie che prima le trovavano inabitabili, offrendo un clima e una vegetazione sempre più simili a quelli del centro Europa.  Allo stesso tempo, le regioni meridionali si riscaldano, alcune specie resistono a questo cambiamento, altre non riusciranno a sopportare condizioni a cui non sono abituate e l’unica cosa che possono fare e spostarsi al nord, o in alcuni casi ad altitudin maggiori. 
 Questa migrazione di massa, però, ha una condizione fondamentale: la connettività del territorio. Uno spostamento che sulla carta sembra possibile può essere bloccato da un'autostrada, una città o da campagne intensive prive di corridoi naturali. Se la diminuzione di specie a sud non si traduce in un'estinzione, ma in un semplice spostamento, è solo perché noi, con le nostre scelte, ne avremo dato la possibilità.
