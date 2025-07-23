@@ -1,7 +1,7 @@
 ----
 layout: default
-title: "Public perception"
-permalink: /publicperception.html
+title: "Interview"
+vega: true
 ---
 
 ---
