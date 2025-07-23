@@ -77,7 +77,7 @@ Al contrario, le specie specializzate per gli ambienti freddi, come quelle monta
 
 Nello scenario SSP3, la dinamica è simile ma amplificata: l'espansione dei generalisti diventa ancora più marcata, evidenziando come un riscaldamento più intenso favorisca ulteriormente le specie più versatili.
 
-### aggiungere mappa per raggruppamento per ordine
+
 <div style="width: 90%;">
   <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp2.json" style="width: 100%;"></vegachart>
 </div>
