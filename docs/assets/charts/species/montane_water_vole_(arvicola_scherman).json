@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 1014632,
         "percentage": 8.952104750262595,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10319373,
         "percentage": 91.04789524973741,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 748583,
         "percentage": 6.603592079285131,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10587414,
         "percentage": 93.39640792071488,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 642270,
         "percentage": 5.665756615849492,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 10693727,
         "percentage": 94.33424338415051,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 522128,
         "percentage": 4.605929235866946,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 10813869,
         "percentage": 95.39407076413305,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 855167,
         "percentage": 7.543818157326612,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 10480830,
         "percentage": 92.45618184267339,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 570938,
         "percentage": 5.0365045086021105,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 10765059,
         "percentage": 94.9634954913979,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 461291,
         "percentage": 4.069258310495318,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 10874706,
         "percentage": 95.93074168950469,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Montane_water_vole_(Arvicola_scherman)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

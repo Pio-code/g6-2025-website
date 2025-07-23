@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3885774,
         "percentage": 34.28420933288807,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7448231,
         "percentage": 65.71579066711195,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 3419014,
         "percentage": 30.160681940900304,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 7916983,
         "percentage": 69.8393180590997,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 3325963,
         "percentage": 29.33983662839713,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 8010034,
         "percentage": 70.66016337160286,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 3369648,
         "percentage": 29.725201938567906,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 7966349,
         "percentage": 70.27479806143208,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 3287426,
         "percentage": 28.999884174281277,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 8048571,
         "percentage": 71.00011582571872,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 3249651,
         "percentage": 28.66665366972133,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 8086346,
         "percentage": 71.33334633027867,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 3213236,
         "percentage": 28.345420345471155,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 8122761,
         "percentage": 71.65457965452885,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Spanish_mole_(Talpa_occidentalis)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

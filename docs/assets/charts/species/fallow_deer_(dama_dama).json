@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3413020,
         "percentage": 30.11309770906224,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7920985,
         "percentage": 69.88690229093775,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 3770272,
         "percentage": 33.25928897123032,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 7565725,
         "percentage": 66.74071102876968,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 3748153,
         "percentage": 33.064167183530486,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 7587844,
         "percentage": 66.93583281646951,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 3458310,
         "percentage": 30.50732988020374,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 7877687,
         "percentage": 69.49267011979626,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 4102785,
         "percentage": 36.19253780677606,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 7233212,
         "percentage": 63.80746219322394,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 4106087,
         "percentage": 36.22166625485169,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 7229910,
         "percentage": 63.77833374514831,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 4301819,
         "percentage": 37.948307502198524,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 7034178,
         "percentage": 62.05169249780147,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Fallow_deer_(Dama_dama)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

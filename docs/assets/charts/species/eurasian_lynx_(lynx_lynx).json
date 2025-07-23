@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 4935520,
         "percentage": 43.546125134054556,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 6398485,
         "percentage": 56.453874865945444,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5892605,
         "percentage": 51.98135638179862,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5443392,
         "percentage": 48.01864361820138,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 6065731,
         "percentage": 53.508579792319985,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 5270266,
         "percentage": 46.491420207680015,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 6260494,
         "percentage": 55.22667304869612,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 5075503,
         "percentage": 44.773326951303886,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5865772,
         "percentage": 51.74465024999566,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 5470225,
         "percentage": 48.25534975000434,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 6020944,
         "percentage": 53.113493237515854,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 5315053,
         "percentage": 46.886506762484146,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 5997733,
         "percentage": 52.90873841974376,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 5338264,
         "percentage": 47.09126158025624,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_lynx_(Lynx_lynx)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

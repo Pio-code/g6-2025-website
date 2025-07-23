@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 1662364,
         "percentage": 14.667048408748718,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 9671641,
         "percentage": 85.33295159125129,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 1878493,
         "percentage": 16.571043552675604,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 9457504,
         "percentage": 83.4289564473244,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 1940850,
         "percentage": 17.121123091334624,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 9395147,
         "percentage": 82.87887690866538,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 1919002,
         "percentage": 16.928391918240628,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 9416995,
         "percentage": 83.07160808175938,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 1943308,
         "percentage": 17.14280623045331,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 9392689,
         "percentage": 82.85719376954668,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 2033607,
         "percentage": 17.939374895741416,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 9302390,
         "percentage": 82.06062510425859,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 2124466,
         "percentage": 18.740883576451193,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 9211531,
         "percentage": 81.2591164235488,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Corsac_fox_(Vulpes_corsac)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

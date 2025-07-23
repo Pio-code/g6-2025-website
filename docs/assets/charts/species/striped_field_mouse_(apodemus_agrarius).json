@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 4156434,
         "percentage": 36.67224427728769,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7177571,
         "percentage": 63.32775572271232,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 4999045,
         "percentage": 44.098856060036006,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 6336952,
         "percentage": 55.901143939963994,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 5000811,
         "percentage": 44.11443475152649,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 6335186,
         "percentage": 55.88556524847351,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 4908958,
         "percentage": 43.304157543443246,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 6427039,
         "percentage": 56.695842456556754,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5079418,
         "percentage": 44.807862951975025,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 6256579,
         "percentage": 55.19213704802498,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 5212450,
         "percentage": 45.98139890121707,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 6123547,
         "percentage": 54.01860109878292,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 5401638,
         "percentage": 47.65031253977926,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 5934359,
         "percentage": 52.34968746022075,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Striped_field_mouse_(Apodemus_agrarius)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

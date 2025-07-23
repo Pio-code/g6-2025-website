@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 473020,
         "percentage": 4.173458543559845,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10860985,
         "percentage": 95.82654145644015,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 441405,
         "percentage": 3.893834834289388,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10894592,
         "percentage": 96.1061651657106,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 336062,
         "percentage": 2.9645561832805707,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 10999935,
         "percentage": 97.03544381671942,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 302743,
         "percentage": 2.670634087147341,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 11033254,
         "percentage": 97.32936591285267,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 405963,
         "percentage": 3.5811847868343647,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 10930034,
         "percentage": 96.41881521316563,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 320040,
         "percentage": 2.8232188134841603,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11015957,
         "percentage": 97.17678118651584,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 269795,
         "percentage": 2.379984751230968,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11066202,
         "percentage": 97.62001524876904,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

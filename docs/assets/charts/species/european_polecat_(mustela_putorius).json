@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3831570,
         "percentage": 33.80596708753878,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7502435,
         "percentage": 66.19403291246122,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5597486,
         "percentage": 49.37797707603486,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5738511,
         "percentage": 50.62202292396514,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 5817355,
         "percentage": 51.317541809511766,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 5518642,
         "percentage": 48.682458190488234,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 5778964,
         "percentage": 50.97887728798799,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 5557033,
         "percentage": 49.02112271201201,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5889226,
         "percentage": 51.95154868160251,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 5446771,
         "percentage": 48.04845131839749,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 6361796,
         "percentage": 56.12030419556392,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 4974201,
         "percentage": 43.87969580443608,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 7119369,
         "percentage": 62.80320116527906,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 4216628,
         "percentage": 37.19679883472094,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_polecat_(Mustela_putorius)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

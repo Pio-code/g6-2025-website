@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3608319,
         "percentage": 31.83622205919267,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7725686,
         "percentage": 68.16377794080734,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 4110810,
         "percentage": 36.26332999205981,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 7225187,
         "percentage": 63.73667000794019,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 4337313,
         "percentage": 38.26141626537128,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 6998684,
         "percentage": 61.738583734628726,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 4502706,
         "percentage": 39.72042335579305,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 6833291,
         "percentage": 60.27957664420695,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 4107203,
         "percentage": 36.23151099987059,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 7228794,
         "percentage": 63.768489000129414,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 4446103,
         "percentage": 39.22110247559169,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 6889894,
         "percentage": 60.77889752440831,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 4803758,
         "percentage": 42.37614036065818,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 6532239,
         "percentage": 57.62385963934182,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_bison_(Bison_bonasus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

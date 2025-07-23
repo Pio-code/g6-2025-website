@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 5839958,
         "percentage": 51.52598750397587,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 5494047,
         "percentage": 48.47401249602413,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 6945217,
         "percentage": 61.266926940788714,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 4390780,
         "percentage": 38.733073059211286,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 7108528,
         "percentage": 62.70756775958921,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 4227469,
         "percentage": 37.29243224041079,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 7288446,
         "percentage": 64.29470650001055,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 4047551,
         "percentage": 35.70529349998946,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 6928482,
         "percentage": 61.11929987278578,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 4407515,
         "percentage": 38.88070012721422,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 7066667,
         "percentage": 62.3382927853633,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 4269330,
         "percentage": 37.6617072146367,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 7015210,
         "percentage": 61.88436711830464,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 4320787,
         "percentage": 38.11563288169537,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Brown_bear_(Ursus_arctos)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

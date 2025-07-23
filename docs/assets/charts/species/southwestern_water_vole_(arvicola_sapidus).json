@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 907043,
         "percentage": 8.00284630190299,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10426962,
         "percentage": 91.99715369809701,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 1498245,
         "percentage": 13.216702509713086,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 9837752,
         "percentage": 86.78329749028691,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 1625699,
         "percentage": 14.341032376772858,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 9710298,
         "percentage": 85.65896762322714,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 1730163,
         "percentage": 15.262556967860878,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 9605834,
         "percentage": 84.73744303213913,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 1503610,
         "percentage": 13.2640296217439,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 9832387,
         "percentage": 86.7359703782561,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 1726535,
         "percentage": 15.230552725093347,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 9609462,
         "percentage": 84.76944727490665,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 1913834,
         "percentage": 16.882802633063505,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 9422163,
         "percentage": 83.1171973669365,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Southwestern_water_vole_(Arvicola_sapidus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

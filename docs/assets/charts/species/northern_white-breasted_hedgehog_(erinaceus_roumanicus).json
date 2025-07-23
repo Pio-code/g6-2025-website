@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 5646508,
         "percentage": 49.819176892898845,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 5687497,
         "percentage": 50.180823107101155,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5820201,
         "percentage": 51.342647673601185,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5515796,
         "percentage": 48.657352326398815,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 5577583,
         "percentage": 49.202403635075065,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 5758414,
         "percentage": 50.797596364924935,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 5464058,
         "percentage": 48.200947830173206,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 5871939,
         "percentage": 51.79905216982679,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 6372836,
         "percentage": 56.217693071019696,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 4963161,
         "percentage": 43.782306928980304,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 5498810,
         "percentage": 48.507511072912244,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 5837187,
         "percentage": 51.492488927087756,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 4854283,
         "percentage": 42.8218444306222,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 6481714,
         "percentage": 57.1781555693778,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_white-breasted_hedgehog_(Erinaceus_roumanicus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

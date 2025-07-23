@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 4463010,
         "percentage": 39.37716632381934,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 6870995,
         "percentage": 60.62283367618066,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 6689396,
         "percentage": 59.01021321724061,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 4646601,
         "percentage": 40.98978678275938,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 6864194,
         "percentage": 60.552186102378116,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 4471803,
         "percentage": 39.447813897621884,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 6840159,
         "percentage": 60.34016240477128,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 4495838,
         "percentage": 39.65983759522872,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 6928538,
         "percentage": 61.11979387432795,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 4407459,
         "percentage": 38.88020612567205,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 7483916,
         "percentage": 66.01903652585652,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 3852081,
         "percentage": 33.98096347414347,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 8489778,
         "percentage": 74.89220401169831,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 2846219,
         "percentage": 25.10779598830169,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_wildcat_(Felis_silvestris)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

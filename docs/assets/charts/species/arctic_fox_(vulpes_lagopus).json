@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 715506,
         "percentage": 6.312914102296585,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10618499,
         "percentage": 93.68708589770341,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 358305,
         "percentage": 3.1607718315380637,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10977692,
         "percentage": 96.83922816846193,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 332027,
         "percentage": 2.9289616078762197,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 11003970,
         "percentage": 97.07103839212378,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 318672,
         "percentage": 2.81115106152551,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 11017325,
         "percentage": 97.1888489384745,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 337952,
         "percentage": 2.9812287353287057,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 10998045,
         "percentage": 97.0187712646713,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 284406,
         "percentage": 2.508875046455993,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11051591,
         "percentage": 97.491124953544,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 239474,
         "percentage": 2.112509380515891,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11096523,
         "percentage": 97.88749061948411,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Arctic_fox_(Vulpes_lagopus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

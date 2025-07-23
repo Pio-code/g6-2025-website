@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 6011027,
         "percentage": 53.03533040615387,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 5322978,
         "percentage": 46.96466959384613,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 8509261,
         "percentage": 75.06407244109185,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 2826736,
         "percentage": 24.93592755890814,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 8967471,
         "percentage": 79.10615184531189,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 2368526,
         "percentage": 20.893848154688115,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 9207702,
         "percentage": 81.22533906810314,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 2128295,
         "percentage": 18.774660931896857,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 8795307,
         "percentage": 77.58741467556845,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 2540690,
         "percentage": 22.412585324431543,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 9469763,
         "percentage": 83.5370986777784,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 1866234,
         "percentage": 16.462901322221594,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 10230727,
         "percentage": 90.24990920516298,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 1105270,
         "percentage": 9.750090794837012,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chinese_muntjac_(Muntiacus_reevesi)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

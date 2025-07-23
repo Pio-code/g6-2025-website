@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 7740430,
         "percentage": 68.29386434892167,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 3593575,
         "percentage": 31.706135651078327,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 9500848,
         "percentage": 83.81131364096161,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 1835149,
         "percentage": 16.18868635903838,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 9634238,
         "percentage": 84.98800767149109,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 1701759,
         "percentage": 15.011992328508908,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 9552198,
         "percentage": 84.2642954122165,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 1783799,
         "percentage": 15.7357045877835,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 9768921,
         "percentage": 86.17610784477095,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 1567076,
         "percentage": 13.823892155229045,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 10188137,
         "percentage": 89.8742033894328,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 1147860,
         "percentage": 10.125796610567205,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 10483599,
         "percentage": 92.48060845464232,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 852398,
         "percentage": 7.519391545357677,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bank_vole_(Myodes_glareolus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

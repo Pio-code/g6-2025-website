@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 1451893,
         "percentage": 12.810061403713869,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 9882112,
         "percentage": 87.18993859628613,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 1517908,
         "percentage": 13.390158801206459,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 9818089,
         "percentage": 86.60984119879355,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 1533545,
         "percentage": 13.52809991040047,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 9802452,
         "percentage": 86.47190008959953,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 1509587,
         "percentage": 13.316755464914115,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 9826410,
         "percentage": 86.68324453508589,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 1491229,
         "percentage": 13.154811173644454,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 9844768,
         "percentage": 86.84518882635555,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 1555983,
         "percentage": 13.726035742599437,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 9780014,
         "percentage": 86.27396425740056,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 1579044,
         "percentage": 13.929467341955013,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 9756953,
         "percentage": 86.07053265804498,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Egyptian_mongoose_(Herpestes_ichneumon)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

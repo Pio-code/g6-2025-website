@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 4040912,
         "percentage": 35.65299291821382,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7293093,
         "percentage": 64.34700708178617,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5795107,
         "percentage": 51.12128205397373,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5540890,
         "percentage": 48.87871794602627,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 6149553,
         "percentage": 54.24801188638282,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 5186444,
         "percentage": 45.75198811361718,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 6254411,
         "percentage": 55.173012131178226,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 5081586,
         "percentage": 44.826987868821774,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5881415,
         "percentage": 51.882644287926325,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 5454582,
         "percentage": 48.117355712073675,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 6473647,
         "percentage": 57.106992882937426,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 4862350,
         "percentage": 42.893007117062574,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 7289469,
         "percentage": 64.3037308496112,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 4046528,
         "percentage": 35.6962691503888,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bicoloured_shrew_(Crocidura_leucodon)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

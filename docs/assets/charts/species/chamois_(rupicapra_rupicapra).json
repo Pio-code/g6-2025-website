@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 771698,
         "percentage": 6.808696484605398,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10562307,
         "percentage": 93.19130351539461,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 825180,
         "percentage": 7.279289152952316,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10510817,
         "percentage": 92.72071084704768,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 771169,
         "percentage": 6.802833486988397,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 10564828,
         "percentage": 93.19716651301161,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 716405,
         "percentage": 6.319735264573553,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 10619592,
         "percentage": 93.68026473542645,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 858284,
         "percentage": 7.57131463602187,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 10477713,
         "percentage": 92.42868536397813,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 756068,
         "percentage": 6.66962067826941,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 10579929,
         "percentage": 93.33037932173059,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 609867,
         "percentage": 5.379914973513137,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 10726130,
         "percentage": 94.62008502648686,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Chamois_(Rupicapra_rupicapra)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

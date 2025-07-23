@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 8698449,
         "percentage": 76.74647223113101,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 2635556,
         "percentage": 23.25352776886899,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 9674549,
         "percentage": 85.34360938874632,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 1661448,
         "percentage": 14.65639061125369,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 9648838,
         "percentage": 85.11680093069891,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 1687159,
         "percentage": 14.883199069301096,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 9500220,
         "percentage": 83.80577376652447,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 1835777,
         "percentage": 16.19422623347554,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 9854720,
         "percentage": 86.9329799575635,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 1481277,
         "percentage": 13.067020042436498,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 10029799,
         "percentage": 88.47743167186795,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 1306198,
         "percentage": 11.522568328132056,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 10021473,
         "percentage": 88.40398422829506,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 1314524,
         "percentage": 11.59601577170495,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Grey_wolf_(Canis_lupus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

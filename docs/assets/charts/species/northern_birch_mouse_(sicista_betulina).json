@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 1107304,
         "percentage": 9.769750410380091,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10226701,
         "percentage": 90.2302495896199,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 839097,
         "percentage": 7.402057357636915,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10496900,
         "percentage": 92.59794264236308,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 842973,
         "percentage": 7.436249321519757,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 10493024,
         "percentage": 92.56375067848023,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 877874,
         "percentage": 7.7441269612192025,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 10458123,
         "percentage": 92.2558730387808,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 902145,
         "percentage": 7.958232522468029,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 10433852,
         "percentage": 92.04176747753198,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 884499,
         "percentage": 7.802569107948775,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 10451498,
         "percentage": 92.19743089205123,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 1089081,
         "percentage": 9.607280241870212,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 10246916,
         "percentage": 90.39271975812979,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Northern_birch_mouse_(Sicista_betulina)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

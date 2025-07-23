@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 2569228,
         "percentage": 22.66831539248483,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 8764777,
         "percentage": 77.33168460751517,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 3267084,
         "percentage": 28.820438114089125,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 8068913,
         "percentage": 71.17956188591087,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 3451376,
         "percentage": 30.44616190353614,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 7884621,
         "percentage": 69.55383809646386,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 3672231,
         "percentage": 32.39442459273763,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 7663766,
         "percentage": 67.60557540726238,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 3326983,
         "percentage": 29.348834513629456,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 8009014,
         "percentage": 70.65116548637053,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 3669573,
         "percentage": 32.37097716239692,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 7666424,
         "percentage": 67.62902283760309,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 4022952,
         "percentage": 35.488294501136515,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 7313045,
         "percentage": 64.51170549886349,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_mink_(Mustela_lutreola)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

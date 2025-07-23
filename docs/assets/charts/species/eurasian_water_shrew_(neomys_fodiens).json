@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3851427,
         "percentage": 33.98116552798415,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7482578,
         "percentage": 66.01883447201585,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5362460,
         "percentage": 47.30470553229681,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5973537,
         "percentage": 52.69529446770319,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 5653446,
         "percentage": 49.87162575995742,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 5682551,
         "percentage": 50.12837424004258,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 5896026,
         "percentage": 52.01153458315135,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 5439971,
         "percentage": 47.98846541684865,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5391485,
         "percentage": 47.56074829589316,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 5944512,
         "percentage": 52.43925170410684,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 5852798,
         "percentage": 51.6302006784229,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 5483199,
         "percentage": 48.3697993215771,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 6136750,
         "percentage": 54.13507078380489,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 5199247,
         "percentage": 45.8649292161951,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_water_shrew_(Neomys_fodiens)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

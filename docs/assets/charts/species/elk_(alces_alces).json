@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 2394447,
         "percentage": 21.126221490108748,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 8939558,
         "percentage": 78.87377850989125,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 2950987,
         "percentage": 26.032002302047186,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 8385010,
         "percentage": 73.96799769795281,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 2963885,
         "percentage": 26.145781442955567,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 8372112,
         "percentage": 73.85421855704443,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 2945650,
         "percentage": 25.98492219078745,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 8390347,
         "percentage": 74.01507780921254,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 2984312,
         "percentage": 26.325977326917076,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 8351685,
         "percentage": 73.67402267308293,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 2813685,
         "percentage": 24.820798735214908,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 8522312,
         "percentage": 75.17920126478509,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 2241353,
         "percentage": 19.771997116795283,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 9094644,
         "percentage": 80.22800288320472,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Elk_(Alces_alces)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

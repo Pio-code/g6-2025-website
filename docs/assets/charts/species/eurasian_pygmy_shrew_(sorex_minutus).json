@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 6693161,
         "percentage": 59.05380313490245,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 4640844,
         "percentage": 40.946196865097555,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 8168849,
         "percentage": 72.06114292373225,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 3167148,
         "percentage": 27.93885707626775,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 8278388,
         "percentage": 73.02743640457915,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 3057609,
         "percentage": 26.97256359542085,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 8197147,
         "percentage": 72.31077248873655,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 3138850,
         "percentage": 27.689227511263454,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 8391744,
         "percentage": 74.0274013833984,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 2944253,
         "percentage": 25.972598616601612,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 8796483,
         "percentage": 77.59778870795397,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 2539514,
         "percentage": 22.402211292046037,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 9072963,
         "percentage": 80.03674489328111,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 2263034,
         "percentage": 19.96325510671889,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Eurasian_pygmy_shrew_(Sorex_minutus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

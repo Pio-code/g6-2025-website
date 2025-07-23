@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 4141183,
         "percentage": 36.53768460486827,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7192822,
         "percentage": 63.46231539513173,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5011762,
         "percentage": 44.21103851738846,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 6324235,
         "percentage": 55.78896148261154,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 4992079,
         "percentage": 44.03740579677288,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 6343918,
         "percentage": 55.96259420322712,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 4902055,
         "percentage": 43.243263031915056,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 6433942,
         "percentage": 56.756736968084944,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5082958,
         "percentage": 44.83909090660486,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 6253039,
         "percentage": 55.16090909339514,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 5196955,
         "percentage": 45.84471043879069,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 6139042,
         "percentage": 54.15528956120931,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 5388904,
         "percentage": 47.53798011767294,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 5947093,
         "percentage": 52.46201988232707,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/House_mouse_(Mus_musculus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

@@ -357,98 +357,98 @@
         "scenario": "Presente",
         "suitability": "idoneo",
         "count": 19.202091405465236,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
         "count": 80.79790859453476,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
         "count": 27.193638106996676,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
         "count": 72.80636189300333,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
         "count": 28.54145074315034,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
         "count": 71.45854925684965,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
         "count": 29.873711152181848,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
         "count": 70.12628884781816,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
         "count": 27.742597320729708,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
         "count": 72.25740267927029,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
         "count": 31.941028213045573,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
         "count": 68.05897178695443,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
         "count": 37.71057808148679,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
         "count": 62.28942191851321,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png"
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

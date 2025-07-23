@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3980607,
         "percentage": 35.120921510092856,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7353398,
         "percentage": 64.87907848990714,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 6071687,
         "percentage": 53.56112038491189,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5264310,
         "percentage": 46.43887961508811,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 6617047,
         "percentage": 58.371989689129244,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 4718950,
         "percentage": 41.62801031087076,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 6860975,
         "percentage": 60.523789835159626,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 4475022,
         "percentage": 39.476210164840374,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 6484875,
         "percentage": 57.206040192141906,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 4851122,
         "percentage": 42.7939598078581,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 7048828,
         "percentage": 62.180926829814794,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 4287169,
         "percentage": 37.819073170185206,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 8480647,
         "percentage": 74.81165529595677,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 2855350,
         "percentage": 25.188344704043235,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Black_rat_(Rattus_rattus)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

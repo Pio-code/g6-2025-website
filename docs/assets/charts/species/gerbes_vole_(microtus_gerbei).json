@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 2176366,
         "percentage": 19.202091405465236,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 9157639,
         "percentage": 80.79790859453476,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 3082670,
         "percentage": 27.193638106996676,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 8253327,
         "percentage": 72.80636189300333,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 3235458,
         "percentage": 28.54145074315034,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 8100539,
         "percentage": 71.45854925684965,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 3386483,
         "percentage": 29.873711152181848,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 7949514,
         "percentage": 70.12628884781816,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 3144900,
         "percentage": 27.742597320729708,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 8191097,
         "percentage": 72.25740267927029,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 3620834,
         "percentage": 31.941028213045573,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 7715163,
         "percentage": 68.05897178695443,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 4274870,
         "percentage": 37.71057808148679,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 7061127,
         "percentage": 62.28942191851321,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Gerbe's_vole_(Microtus_gerbei)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

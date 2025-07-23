@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 3622038,
         "percentage": 31.957264885625158,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 7711967,
         "percentage": 68.04273511437484,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5670317,
         "percentage": 50.020452545991326,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 5665680,
         "percentage": 49.979547454008674,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 6090870,
         "percentage": 53.7303423774724,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 5245127,
         "percentage": 46.269657622527596,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 6336841,
         "percentage": 55.90016475833577,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 4999156,
         "percentage": 44.09983524166423,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 5719594,
         "percentage": 50.45514743872992,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 5616403,
         "percentage": 49.54485256127008,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 6426491,
         "percentage": 56.6910082986084,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 4909506,
         "percentage": 43.30899170139159,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 7237711,
         "percentage": 63.84714992426339,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 4098286,
         "percentage": 36.15285007573661,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/European_edible_dormouse_(Glis_glis)_binary_habitat_ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],
