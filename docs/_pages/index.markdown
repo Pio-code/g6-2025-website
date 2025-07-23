@@ -10,9 +10,12 @@ vega: true
 <!-- Homepage – The Future of European Mammals -->
 <section style="max-width: 880px; margin: 0 auto; padding: 2rem; font-family: 'Merriweather', serif; font-size: 1.05rem; line-height: 1.8; color: #222;">
 
-  <h1 style="font-size: 2.4rem; font-weight: 700; text-align: center; margin-bottom: 2rem;">
-    The Future of European Mammals
-  </h1>
+ <h1 style="font-size: 3rem; font-weight: 700; text-align: center; margin-bottom: 1rem; color: #1a1a1a;">
+  The Future of European Mammals
+</h1>
+<p style="font-size: 1.25rem; text-align: center; color: #555; margin-top: -0.5rem;">
+  Climate change, land use, and what lies ahead for biodiversity
+</p>
 
   <p>
     The climate crisis is no longer an abstract concept, intangible to an extremely urbanized society unable to see its effects on ecosystems—it is now a lived experience for all of us. Environmental conditions are worsening: the planet’s average temperature is rising, while extreme events like heatwaves, floods, and droughts are becoming the new normal.
