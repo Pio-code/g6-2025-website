@@ -103,7 +103,7 @@ permalink: /publicperception.html
   </ul>
   <p>Overall, the discourse leans <strong>neutral to negative</strong>, with <strong>joy appearing rarely</strong>, primarily in <strong>observational or aesthetic contexts</strong>.</p>
 
-  <img src="{{site.baseurl}}/assets/images/grafico_4.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
+  <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
     <figcaption>
       
   Figure 4: Emotional tone distribution per species based on Reddit discussions.</figcaption>
