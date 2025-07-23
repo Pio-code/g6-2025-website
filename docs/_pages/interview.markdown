@@ -69,7 +69,7 @@ vega: true
     Takeaway 1
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">1.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">📰</span> The Evolution of Environmental Journalism
     </h2>
@@ -97,7 +97,7 @@ vega: true
     Takeaway 2
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">2.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">📢 </span> The Challenges of Communicating Climate Change
     </h2>
@@ -124,7 +124,7 @@ vega: true
     Takeaway 3
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">3.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">🌱</span> Gaps in Environmental Coverage
     </h2>
@@ -150,7 +150,7 @@ vega: true
     Takeaway 4
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">4.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">🔥</span> Media Catastrophism
     </h2>
@@ -176,7 +176,7 @@ vega: true
     Takeaway 5
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">5.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">🐾</span> The Impact on Animal Species
     </h2>
@@ -203,7 +203,7 @@ vega: true
     Takeaway 6
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">6.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">🤖</span> AI and the Future of Science Communication
     </h2>
@@ -232,7 +232,7 @@ vega: true
     Takeaway 7
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">7.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;"> 🕰️</span> Is There Still Time?  
     </h2>
@@ -258,7 +258,7 @@ vega: true
     Takeaway 8
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">8.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;"></div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">👩‍🎓 </span> Advice for Young Communicators
     </h2>
@@ -276,7 +276,6 @@ vega: true
   He advocates for developing <strong>hybrid skills</strong> — combining <strong>journalistic storytelling</strong> with knowledge in <strong>data science</strong>, <strong>environmental policy</strong>, or <strong>scientific research</strong>. In a media environment disrupted by AI and fragmented attention, <strong>versatility</strong> becomes a crucial form of <strong>resilience</strong>. Pasotti himself trains communicators across Europe, from universities to research institutions, promoting a more <strong>integrated and rigorous approach</strong>.
 </div>
 
-</div>
 ---
 
 ## ☁️ Keywords from the Interview
