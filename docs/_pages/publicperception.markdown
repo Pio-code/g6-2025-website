@@ -60,20 +60,13 @@ permalink: /publicperception.html
   <p>This reflects a typical trend in environmental communication, where <strong>iconic or controversial species attract disproportionate focus</strong>, while <strong>less conspicuous species remain underrepresented</strong>.</p>
 
    <img src="{{site.baseurl}}/assets/images/grafico_1.png" alt="Total mentions (posts + comments) per species">
-
-  <figcaption>
-  
   
 
 
-   <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Most mentioned species in posts"> 
-
-   <figcaption>  
+   <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Most mentioned species in posts">   
        
   
   <img src="{{site.baseurl}}/assets/images/grafico_3.png" alt="Most mentioned species in comments">
-    <figcaption>
-   
   
 
   <h2>Focus on Comments</h2>
@@ -100,9 +93,7 @@ permalink: /publicperception.html
   </ul>
   <p>Overall, the discourse leans <strong>neutral to negative</strong>, with <strong>joy appearing rarely</strong>, primarily in <strong>observational or aesthetic contexts</strong>.</p>
 
-  <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
-    <figcaption>
-      
+  <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">  
   
 
   <h2>Word Cloud Analysis</h2>
