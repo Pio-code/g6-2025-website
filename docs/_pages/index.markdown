@@ -78,16 +78,16 @@ Al contrario, le specie specializzate per gli ambienti freddi, come quelle monta
 Nello scenario SSP3, la dinamica è simile ma amplificata: l'espansione dei generalisti diventa ancora più marcata, evidenziando come un riscaldamento più intenso favorisca ulteriormente le specie più versatili.
 
 
-<div style="width: 90%;">
-  <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp2.json" style="width: 100%;"></vegachart>
+<div style="width: 80%;">
+  <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp2.json" style="width: 80%;"></vegachart>
 </div>
 
 
 Se spostiamo l'analisi dalla specializzazione ecologica alla classificazione tassonomica, i dati rivelano un altro livello di dettaglio. Notiamo una spiccata tendenza positiva per i Roditori, che sembrano essere i principali beneficiari del cambiamento climatico a venire. In maggiore difficoltà appaiono invece gli Artiodattili, un ordine che include molte delle specie specialiste degli ambienti montani e della tundra. Non sorprende, quindi, che esplorando i singoli punti del grafico, le specie che perdono più territorio siano proprio quelle confinate alle alte quote e alle latitudini settentrionali.
 
 
-<div style="width: 90%;">
-  <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp3.json" style="width: 100%;"></vegachart>
+<div style="width: 80%;">
+  <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp3.json" style="width: 80%;"></vegachart>
 </div>
 
 Nello scenario SSP3, considerato peggiore per gli esseri umani, le tendenze si accentuano ulteriormente: i Roditori mostrano un miglioramento ancora più netto, gli Artiodattili subiscono un peggioramento più severo, mentre la situazione per gli altri ordini rimane relativamente stabile rispetto allo scenario SSP2
