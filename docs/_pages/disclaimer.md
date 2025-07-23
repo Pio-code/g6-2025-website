@@ -27,5 +27,5 @@ We acknowledge WorldClim as the data source and remain committed to respecting l
 
 # Reddit
 This project used a sample of public Reddit posts and comments, accessed via PRAW, for non-commercial, academic analysis.  
-The data were used exclusively to compute aggregated statistics and were not retained or redistributed.
+The data were used exclusively to compute aggregated statistics and were not retained or redistributed.  
 All outputs are transformative in nature and do not contain original user content.
