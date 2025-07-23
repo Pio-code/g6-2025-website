@@ -144,7 +144,6 @@ vega: true
   If the decline of species in the south does not result in extinction but in relocation, <em>it will only be because we made that shift possible</em>—through the way we manage land and design our landscapes.
 </p>
 
-### aggiornare con i dati più recenti
 
 <img
   src="{{ site.baseurl }}/assets/charts/species/confronto_scenari_ottimizzato.png"
@@ -181,7 +180,7 @@ vega: true
   The continent ends.
 </p>
 
-### aggiornare con i dati più recenti
+
 <img
   src="{{ site.baseurl }}/assets/charts/species/impact_by_specialization(SSP2).png"
   alt="Confronto scenari per specie"
