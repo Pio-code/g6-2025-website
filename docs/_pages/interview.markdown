@@ -278,15 +278,35 @@ vega: true
 
 ---
 
-## ☁️ Keywords from the Interview
 
-Here is a visual summary of the key concepts discussed in the conversation:
+<!-- Titolo -->
+<div style="margin-top: 3rem; margin-bottom: 1.5rem;">
+  <h2 style="font-size: 1.6rem; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+    <span style="font-size: 1.2rem;">☁️</span> Keywords from the Interview
+  </h2>
+  <p style="font-size: 1rem; color: #555; font-style: italic; margin: 0;">
+    A visual summary of the most relevant concepts discussed in this conversation.
+  </p>
+</div>
 
-![Word Cloud – Climate Journalism]
+<!-- Immagine -->
+<div style="margin-top: 1rem; margin-bottom: 3rem;">
+  <img src="{{ site.baseurl }}/assets/images/wordcloud.jpg"
+       alt="Word Cloud – Climate Journalism"
+       style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+</div>
 
+<!-- Download Section -->
+<div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ddd;">
 
+  <!-- Titolo -->
+  <h2 style="font-size: 1.6rem; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.8rem;">
+    <span style="font-size: 1.2rem;">📥</span> Download and Share
+  </h2>
 
-## 📥 Download and Share
+  <!-- Testo -->
+  <p style="font-size: 1rem; color: #444; line-height: 1.6;">
+    You can download the full interview as a professionally formatted PDF
+  </p>
 
-You can download the full interview as a PDF [here]() *(insert link)*.
-
+</div>
