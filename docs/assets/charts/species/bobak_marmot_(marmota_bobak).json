@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 701957,
         "percentage": 6.193371186972302,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10632048,
         "percentage": 93.8066288130277,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 324917,
         "percentage": 2.866241054933236,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 11011080,
         "percentage": 97.13375894506676,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 265245,
         "percentage": 2.3398471259299027,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 11070752,
         "percentage": 97.66015287407009,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 176678,
         "percentage": 1.5585572226245297,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 11159319,
         "percentage": 98.44144277737547,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 331651,
         "percentage": 2.9256447403788126,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 11004346,
         "percentage": 97.07435525962119,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 207904,
         "percentage": 1.8340160111192692,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11128093,
         "percentage": 98.16598398888074,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 164915,
         "percentage": 1.4547904344011382,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11171082,
         "percentage": 98.54520956559885,
-        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Bobak_marmot_(Marmota_bobak)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],
