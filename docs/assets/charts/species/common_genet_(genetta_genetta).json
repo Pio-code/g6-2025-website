@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 34.79422322471183,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_present.png"
+        "area_km2": 3943579,
+        "percentage": 34.79422322471183,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 65.20577677528817,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_present.png"
+        "area_km2": 7390426,
+        "percentage": 65.20577677528817,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 52.3343116622208,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5932616,
+        "percentage": 52.3343116622208,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 47.6656883377792,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5403381,
+        "percentage": 47.6656883377792,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 55.15567796992183,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6252446,
+        "percentage": 55.15567796992183,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 44.84432203007817,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2070.png"
+        "area_km2": 5083551,
+        "percentage": 44.84432203007817,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 58.029673084775865,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6578242,
+        "percentage": 58.029673084775865,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 41.970326915224135,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4757755,
+        "percentage": 41.970326915224135,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 55.56332627822679,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6298657,
+        "percentage": 55.56332627822679,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 44.43667372177322,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2050.png"
+        "area_km2": 5037340,
+        "percentage": 44.43667372177322,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 62.09819039295794,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2070.png"
+        "area_km2": 7039449,
+        "percentage": 62.09819039295794,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 37.90180960704206,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2070.png"
+        "area_km2": 4296548,
+        "percentage": 37.90180960704206,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 66.7516143485218,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7566961,
+        "percentage": 66.7516143485218,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 33.24838565147821,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2100.png"
+        "area_km2": 3769036,
+        "percentage": 33.24838565147821,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_genet_(Genetta_genetta)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

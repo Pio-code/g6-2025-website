@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 36.487896379082244,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_present.png"
+        "area_km2": 4135540,
+        "percentage": 36.487896379082244,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 63.512103620917756,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_present.png"
+        "area_km2": 7198465,
+        "percentage": 63.512103620917756,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 53.33283874369409,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 6045809,
+        "percentage": 53.33283874369409,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 46.6671612563059,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5290188,
+        "percentage": 46.6671612563059,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 55.38937598519125,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6278938,
+        "percentage": 55.38937598519125,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 44.61062401480875,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 5057059,
+        "percentage": 44.61062401480875,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 56.1140144973574,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6361083,
+        "percentage": 56.1140144973574,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 43.8859855026426,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4974914,
+        "percentage": 43.8859855026426,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 52.82990106648759,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 5988796,
+        "percentage": 52.82990106648759,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 47.17009893351242,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 5347201,
+        "percentage": 47.17009893351242,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 57.28551269023801,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 6493884,
+        "percentage": 57.28551269023801,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 42.71448730976199,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 4842113,
+        "percentage": 42.71448730976199,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 66.72133911115185,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7563529,
+        "percentage": 66.72133911115185,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 33.27866088884816,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 3772468,
+        "percentage": 33.27866088884816,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Coypu_(Myocastor_coypus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

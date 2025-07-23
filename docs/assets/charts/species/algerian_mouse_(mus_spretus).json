@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 11.02213207070228,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_present.png"
+        "area_km2": 1249249,
+        "percentage": 11.02213207070228,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 88.97786792929772,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_present.png"
+        "area_km2": 10084756,
+        "percentage": 88.97786792929772,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 22.90899512411656,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2596963,
+        "percentage": 22.90899512411656,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 77.09100487588344,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8739034,
+        "percentage": 77.09100487588344,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 25.41038075433506,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2880520,
+        "percentage": 25.41038075433506,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 74.58961924566493,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8455477,
+        "percentage": 74.58961924566493,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 26.268717255306264,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2977821,
+        "percentage": 26.268717255306264,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 73.73128274469374,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8358176,
+        "percentage": 73.73128274469374,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 24.78882095681571,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2810060,
+        "percentage": 24.78882095681571,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 75.2111790431843,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8525937,
+        "percentage": 75.2111790431843,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 29.822908386443647,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3380724,
+        "percentage": 29.822908386443647,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 70.17709161355636,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 7955273,
+        "percentage": 70.17709161355636,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 39.38109722506102,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 4464240,
+        "percentage": 39.38109722506102,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 60.61890277493899,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 6871757,
+        "percentage": 60.61890277493899,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Algerian_mouse_(Mus_spretus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

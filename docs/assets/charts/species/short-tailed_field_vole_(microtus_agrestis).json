@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 56.18715537887975,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_present.png"
+        "area_km2": 6368255,
+        "percentage": 56.18715537887975,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 43.81284462112025,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_present.png"
+        "area_km2": 4965750,
+        "percentage": 43.81284462112025,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 71.85255959400835,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8145204,
+        "percentage": 71.85255959400835,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 28.147440405991635,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3190793,
+        "percentage": 28.147440405991635,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 72.38369064494283,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8205413,
+        "percentage": 72.38369064494283,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 27.61630935505717,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3130584,
+        "percentage": 27.61630935505717,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 71.91512136074137,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8152296,
+        "percentage": 71.91512136074137,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 28.084878639258637,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 3183701,
+        "percentage": 28.084878639258637,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 73.11789161553236,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8288642,
+        "percentage": 73.11789161553236,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 26.88210838446764,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3047355,
+        "percentage": 26.88210838446764,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 77.5228769026668,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8787991,
+        "percentage": 77.5228769026668,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 22.477123097333212,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2548006,
+        "percentage": 22.477123097333212,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 80.99238205514698,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9181294,
+        "percentage": 80.99238205514698,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 19.00761794485302,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2154703,
+        "percentage": 19.00761794485302,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Short-tailed_field_vole_(Microtus_agrestis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

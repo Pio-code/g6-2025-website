@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 0.3041113886926995,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_present.png"
+        "area_km2": 34468,
+        "percentage": 0.3041113886926995,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 99.69588861130731,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_present.png"
+        "area_km2": 11299537,
+        "percentage": 99.69588861130731,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.24168143304907366,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 27397,
+        "percentage": 0.24168143304907366,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.75831856695092,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 11308600,
+        "percentage": 99.75831856695092,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.13217187689799142,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 14983,
+        "percentage": 0.13217187689799142,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.86782812310202,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 11321014,
+        "percentage": 99.86782812310202,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.12017469658822245,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 13623,
+        "percentage": 0.12017469658822245,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.87982530341178,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 11322374,
+        "percentage": 99.87982530341178,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.30278765952390424,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 34324,
+        "percentage": 0.30278765952390424,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.6972123404761,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 11301673,
+        "percentage": 99.6972123404761,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.20542524843646306,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 23287,
+        "percentage": 0.20542524843646306,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.79457475156353,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 11312710,
+        "percentage": 99.79457475156353,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.13123680255031825,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 14877,
+        "percentage": 0.13123680255031825,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.86876319744968,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 11321120,
+        "percentage": 99.86876319744968,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 61.13433865610611,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_present.png"
+        "area_km2": 6928969,
+        "percentage": 61.13433865610611,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 38.86566134389388,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_present.png"
+        "area_km2": 4405036,
+        "percentage": 38.86566134389388,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 79.10324958625165,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8967142,
+        "percentage": 79.10324958625165,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 20.896750413748343,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2368855,
+        "percentage": 20.896750413748343,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 80.6354218336508,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 9140829,
+        "percentage": 80.6354218336508,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 19.364578166349197,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2195168,
+        "percentage": 19.364578166349197,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 79.83391315294102,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 9049970,
+        "percentage": 79.83391315294102,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 20.166086847058974,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2286027,
+        "percentage": 20.166086847058974,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 81.5714753629522,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 9246940,
+        "percentage": 81.5714753629522,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 18.428524637047804,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2089057,
+        "percentage": 18.428524637047804,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 85.61754206533399,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 9705602,
+        "percentage": 85.61754206533399,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 14.382457934666002,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 1630395,
+        "percentage": 14.382457934666002,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 88.69918543556425,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 10054937,
+        "percentage": 88.69918543556425,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 11.300814564435752,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 1281060,
+        "percentage": 11.300814564435752,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Least_weasel_(Mustela_nivalis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

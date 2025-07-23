@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 13.410431705297466,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_present.png"
+        "area_km2": 1519939,
+        "percentage": 13.410431705297466,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 86.58956829470253,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_present.png"
+        "area_km2": 9814066,
+        "percentage": 86.58956829470253,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 19.258120834012217,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2183100,
+        "percentage": 19.258120834012217,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 80.74187916598778,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2050.png"
+        "area_km2": 9152897,
+        "percentage": 80.74187916598778,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 19.773929015683404,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2241572,
+        "percentage": 19.773929015683404,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 80.2260709843166,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2070.png"
+        "area_km2": 9094425,
+        "percentage": 80.2260709843166,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 19.5410249314639,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2215170,
+        "percentage": 19.5410249314639,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 80.45897506853609,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2100.png"
+        "area_km2": 9120827,
+        "percentage": 80.45897506853609,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 19.4903985948479,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2209431,
+        "percentage": 19.4903985948479,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 80.5096014051521,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2050.png"
+        "area_km2": 9126566,
+        "percentage": 80.5096014051521,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 21.223558898260116,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2405902,
+        "percentage": 21.223558898260116,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 78.77644110173988,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8930095,
+        "percentage": 78.77644110173988,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 22.74567468569372,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2578449,
+        "percentage": 22.74567468569372,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 77.25432531430627,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2100.png"
+        "area_km2": 8757548,
+        "percentage": 77.25432531430627,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crested_porcupine_(Hystrix_cristata)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

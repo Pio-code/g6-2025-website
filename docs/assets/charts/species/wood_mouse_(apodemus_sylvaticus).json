@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 36.17917938098669,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_present.png"
+        "area_km2": 4100550,
+        "percentage": 36.17917938098669,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 63.82082061901332,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_present.png"
+        "area_km2": 7233455,
+        "percentage": 63.82082061901332,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 53.675384705906325,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 6084640,
+        "percentage": 53.675384705906325,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 46.324615294093675,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5251357,
+        "percentage": 46.324615294093675,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 56.14999721683059,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6365162,
+        "percentage": 56.14999721683059,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 43.8500027831694,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 4970835,
+        "percentage": 43.8500027831694,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 57.8353893354065,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6556218,
+        "percentage": 57.8353893354065,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 42.1646106645935,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4779779,
+        "percentage": 42.1646106645935,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 54.76932465666672,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6208649,
+        "percentage": 54.76932465666672,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 45.230675343333274,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 5127348,
+        "percentage": 45.230675343333274,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 59.40717874219621,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 6734396,
+        "percentage": 59.40717874219621,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 40.59282125780379,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 4601601,
+        "percentage": 40.59282125780379,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 66.60456949662213,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7550292,
+        "percentage": 66.60456949662213,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 33.39543050337787,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 3785705,
+        "percentage": 33.39543050337787,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_mouse_(Apodemus_sylvaticus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

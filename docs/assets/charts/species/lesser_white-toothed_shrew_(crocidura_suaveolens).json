@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 24.59070734484412,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_present.png"
+        "area_km2": 2787112,
+        "percentage": 24.59070734484412,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 75.40929265515588,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_present.png"
+        "area_km2": 8546893,
+        "percentage": 75.40929265515588,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 22.826135186874165,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2587570,
+        "percentage": 22.826135186874165,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 77.17386481312583,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8748427,
+        "percentage": 77.17386481312583,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 21.358880034989426,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2421242,
+        "percentage": 21.358880034989426,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 78.64111996501057,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8914755,
+        "percentage": 78.64111996501057,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 19.541377789708307,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2215210,
+        "percentage": 19.541377789708307,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 80.4586222102917,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2100.png"
+        "area_km2": 9120787,
+        "percentage": 80.4586222102917,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 25.091617437795723,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2844385,
+        "percentage": 25.091617437795723,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 74.90838256220428,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8491612,
+        "percentage": 74.90838256220428,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 20.39148387212876,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2311578,
+        "percentage": 20.39148387212876,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 79.60851612787124,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2070.png"
+        "area_km2": 9024419,
+        "percentage": 79.60851612787124,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 16.727165682912585,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2100.png"
+        "area_km2": 1896191,
+        "percentage": 16.727165682912585,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 83.27283431708742,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9439806,
+        "percentage": 83.27283431708742,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Lesser_white-toothed_shrew_(Crocidura_suaveolens)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

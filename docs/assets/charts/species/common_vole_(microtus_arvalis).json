@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 26.379907190794427,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_present.png"
+        "area_km2": 2989900,
+        "percentage": 26.379907190794427,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 73.62009280920557,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_present.png"
+        "area_km2": 8344105,
+        "percentage": 73.62009280920557,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 41.61644538191039,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 4717639,
+        "percentage": 41.61644538191039,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 58.38355461808962,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 6618358,
+        "percentage": 58.38355461808962,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 42.42203839679915,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 4808961,
+        "percentage": 42.42203839679915,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 57.57796160320085,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6527036,
+        "percentage": 57.57796160320085,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 41.908664937014365,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4750765,
+        "percentage": 41.908664937014365,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 58.091335062985635,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6585232,
+        "percentage": 58.091335062985635,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 42.31053519156718,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 4796321,
+        "percentage": 42.31053519156718,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 57.689464808432824,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6539676,
+        "percentage": 57.689464808432824,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 45.57445630940093,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 5166319,
+        "percentage": 45.57445630940093,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 54.42554369059908,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 6169678,
+        "percentage": 54.42554369059908,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 49.27085813448963,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 5585343,
+        "percentage": 49.27085813448963,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 50.72914186551037,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 5750654,
+        "percentage": 50.72914186551037,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_vole_(Microtus_arvalis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

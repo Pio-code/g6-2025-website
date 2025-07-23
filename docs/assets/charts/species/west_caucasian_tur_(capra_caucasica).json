@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 35.399710870076376,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_present.png"
+        "area_km2": 4012205,
+        "percentage": 35.399710870076376,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 64.60028912992362,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_present.png"
+        "area_km2": 7321800,
+        "percentage": 64.60028912992362,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 31.724902538347532,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3596334,
+        "percentage": 31.724902538347532,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 68.27509746165246,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2050.png"
+        "area_km2": 7739663,
+        "percentage": 68.27509746165246,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 31.319962417068385,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3550430,
+        "percentage": 31.319962417068385,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 68.6800375829316,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2070.png"
+        "area_km2": 7785567,
+        "percentage": 68.6800375829316,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 31.362173084555334,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2100.png"
+        "area_km2": 3555215,
+        "percentage": 31.362173084555334,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 68.63782691544466,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2100.png"
+        "area_km2": 7780782,
+        "percentage": 68.63782691544466,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 30.69408892751118,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3479481,
+        "percentage": 30.69408892751118,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 69.30591107248881,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2050.png"
+        "area_km2": 7856516,
+        "percentage": 69.30591107248881,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 29.280450585863775,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3319231,
+        "percentage": 29.280450585863775,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 70.71954941413622,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8016766,
+        "percentage": 70.71954941413622,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 26.520287540654785,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2100.png"
+        "area_km2": 3006339,
+        "percentage": 26.520287540654785,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 73.47971245934521,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2100.png"
+        "area_km2": 8329658,
+        "percentage": 73.47971245934521,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/West_Caucasian_tur_(Capra_caucasica)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

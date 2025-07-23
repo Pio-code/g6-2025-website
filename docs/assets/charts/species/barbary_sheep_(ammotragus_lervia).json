@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 0.3360947873236336,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_present.png"
+        "area_km2": 38093,
+        "percentage": 0.3360947873236336,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 99.66390521267637,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_present.png"
+        "area_km2": 11295912,
+        "percentage": 99.66390521267637,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.04868561627177566,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5519,
+        "percentage": 0.04868561627177566,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.95131438372823,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2050.png"
+        "area_km2": 11330478,
+        "percentage": 99.95131438372823,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.02812280207907606,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3188,
+        "percentage": 0.02812280207907606,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.97187719792092,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2070.png"
+        "area_km2": 11332809,
+        "percentage": 99.97187719792092,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.025882152227104504,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2934,
+        "percentage": 0.025882152227104504,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.97411784777289,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2100.png"
+        "area_km2": 11333063,
+        "percentage": 99.97411784777289,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.05546931602046119,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6288,
+        "percentage": 0.05546931602046119,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.94453068397954,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2050.png"
+        "area_km2": 11329709,
+        "percentage": 99.94453068397954,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.020545171280479342,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2329,
+        "percentage": 0.020545171280479342,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.97945482871951,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2070.png"
+        "area_km2": 11333668,
+        "percentage": 99.97945482871951,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.00351976098793957,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2100.png"
+        "area_km2": 399,
+        "percentage": 0.00351976098793957,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.99648023901206,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2100.png"
+        "area_km2": 11335598,
+        "percentage": 99.99648023901206,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

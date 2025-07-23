@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 26.071234307731466,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_present.png"
+        "area_km2": 2954915,
+        "percentage": 26.071234307731466,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 73.92876569226853,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_present.png"
+        "area_km2": 8379090,
+        "percentage": 73.92876569226853,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 31.865481262918472,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3612270,
+        "percentage": 31.865481262918472,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 68.13451873708154,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 7723727,
+        "percentage": 68.13451873708154,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 31.538443420547836,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3575197,
+        "percentage": 31.538443420547836,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 68.46155657945216,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 7760800,
+        "percentage": 68.46155657945216,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 30.421611791181668,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 3448593,
+        "percentage": 30.421611791181668,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 69.57838820881832,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 7887404,
+        "percentage": 69.57838820881832,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 31.037949286683826,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3518461,
+        "percentage": 31.037949286683826,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 68.96205071331617,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 7817536,
+        "percentage": 68.96205071331617,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 33.6562456747298,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3815271,
+        "percentage": 33.6562456747298,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 66.3437543252702,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 7520726,
+        "percentage": 66.3437543252702,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 37.39379959257223,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 4238960,
+        "percentage": 37.39379959257223,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 62.60620040742777,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7097037,
+        "percentage": 62.60620040742777,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_souslik_(Spermophilus_citellus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 42.702019277386945,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_present.png"
+        "area_km2": 4839849,
+        "percentage": 42.702019277386945,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 57.29798072261306,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_present.png"
+        "area_km2": 6494156,
+        "percentage": 57.29798072261306,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 58.304426156781794,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2050.png"
+        "area_km2": 6609388,
+        "percentage": 58.304426156781794,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 41.695573843218206,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2050.png"
+        "area_km2": 4726609,
+        "percentage": 41.695573843218206,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 61.346619975287574,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6954251,
+        "percentage": 61.346619975287574,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 38.653380024712426,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2070.png"
+        "area_km2": 4381746,
+        "percentage": 38.653380024712426,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 63.38506441030286,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2100.png"
+        "area_km2": 7185329,
+        "percentage": 63.38506441030286,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 36.61493558969714,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4150668,
+        "percentage": 36.61493558969714,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 57.50265283238871,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6518499,
+        "percentage": 57.50265283238871,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 42.49734716761128,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2050.png"
+        "area_km2": 4817498,
+        "percentage": 42.49734716761128,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 64.97566116151935,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2070.png"
+        "area_km2": 7365639,
+        "percentage": 64.97566116151935,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 35.02433883848064,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3970358,
+        "percentage": 35.02433883848064,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 76.99833547944658,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2100.png"
+        "area_km2": 8728529,
+        "percentage": 76.99833547944658,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 23.00166452055342,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2607468,
+        "percentage": 23.00166452055342,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_raccoon_(Procyon_lotor)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

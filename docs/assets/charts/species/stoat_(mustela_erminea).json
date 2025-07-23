@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 36.35990102351287,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_present.png"
+        "area_km2": 4121033,
+        "percentage": 36.35990102351287,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 63.640098976487124,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_present.png"
+        "area_km2": 7212972,
+        "percentage": 63.640098976487124,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 48.57724468346278,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5506715,
+        "percentage": 48.57724468346278,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 51.42275531653723,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2050.png"
+        "area_km2": 5829282,
+        "percentage": 51.42275531653723,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 50.97203183804654,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2070.png"
+        "area_km2": 5778188,
+        "percentage": 50.97203183804654,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 49.02796816195347,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2070.png"
+        "area_km2": 5557809,
+        "percentage": 49.02796816195347,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 53.22503172857227,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6033588,
+        "percentage": 53.22503172857227,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 46.77496827142774,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2100.png"
+        "area_km2": 5302409,
+        "percentage": 46.77496827142774,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 48.84518759135169,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2050.png"
+        "area_km2": 5537089,
+        "percentage": 48.84518759135169,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 51.15481240864831,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2050.png"
+        "area_km2": 5798908,
+        "percentage": 51.15481240864831,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 52.142197991054516,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2070.png"
+        "area_km2": 5910838,
+        "percentage": 52.142197991054516,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 47.85780200894549,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2070.png"
+        "area_km2": 5425159,
+        "percentage": 47.85780200894549,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 53.462311255022385,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2100.png"
+        "area_km2": 6060486,
+        "percentage": 53.462311255022385,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 46.537688744977615,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2100.png"
+        "area_km2": 5275511,
+        "percentage": 46.537688744977615,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Stoat_(Mustela_erminea)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

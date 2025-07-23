@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 54.87238623946258,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_present.png"
+        "area_km2": 6219239,
+        "percentage": 54.87238623946258,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 45.12761376053743,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_present.png"
+        "area_km2": 5114766,
+        "percentage": 45.12761376053743,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 29.62447855270251,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3358230,
+        "percentage": 29.62447855270251,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 70.37552144729749,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 7977767,
+        "percentage": 70.37552144729749,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 25.857910865713883,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2931252,
+        "percentage": 25.857910865713883,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 74.14208913428611,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8404745,
+        "percentage": 74.14208913428611,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 23.92818205579977,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2712498,
+        "percentage": 23.92818205579977,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 76.07181794420023,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8623499,
+        "percentage": 76.07181794420023,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 30.530803774912783,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3460971,
+        "percentage": 30.530803774912783,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 69.46919622508722,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 7875026,
+        "percentage": 69.46919622508722,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 25.158713432969325,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2851991,
+        "percentage": 25.158713432969325,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 74.84128656703068,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8484006,
+        "percentage": 74.84128656703068,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 23.638353115301637,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2679643,
+        "percentage": 23.638353115301637,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 76.36164688469836,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 8656354,
+        "percentage": 76.36164688469836,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mountain_hare_(Lepus_timidus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

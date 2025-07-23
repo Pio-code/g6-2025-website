@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 8.830629596510677,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_present.png"
+        "area_km2": 1000864,
+        "percentage": 8.830629596510677,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 91.16937040348932,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_present.png"
+        "area_km2": 10333141,
+        "percentage": 91.16937040348932,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 4.629200237085454,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2050.png"
+        "area_km2": 524766,
+        "percentage": 4.629200237085454,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 95.37079976291454,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2050.png"
+        "area_km2": 10811231,
+        "percentage": 95.37079976291454,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 3.4574374005215422,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2070.png"
+        "area_km2": 391935,
+        "percentage": 3.4574374005215422,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 96.54256259947846,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2070.png"
+        "area_km2": 10944062,
+        "percentage": 96.54256259947846,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 2.393834437323863,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2100.png"
+        "area_km2": 271365,
+        "percentage": 2.393834437323863,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 97.60616556267614,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2100.png"
+        "area_km2": 11064632,
+        "percentage": 97.60616556267614,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 5.583311287044271,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2050.png"
+        "area_km2": 632924,
+        "percentage": 5.583311287044271,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 94.41668871295573,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2050.png"
+        "area_km2": 10703073,
+        "percentage": 94.41668871295573,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 2.7151736190473588,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2070.png"
+        "area_km2": 307792,
+        "percentage": 2.7151736190473588,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 97.28482638095264,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2070.png"
+        "area_km2": 11028205,
+        "percentage": 97.28482638095264,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 2.0183932652769756,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2100.png"
+        "area_km2": 228805,
+        "percentage": 2.0183932652769756,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 97.98160673472303,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2100.png"
+        "area_km2": 11107192,
+        "percentage": 97.98160673472303,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Iberian_ibex_(Capra_pyrenaica)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

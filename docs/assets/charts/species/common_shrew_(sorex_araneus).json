@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 81.71391313132472,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_present.png"
+        "area_km2": 9261459,
+        "percentage": 81.71391313132472,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 18.286086868675284,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_present.png"
+        "area_km2": 2072546,
+        "percentage": 18.286086868675284,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 93.11636197504286,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 10555668,
+        "percentage": 93.11636197504286,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 6.883638024957134,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 780329,
+        "percentage": 6.883638024957134,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 94.76924702785296,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 10743039,
+        "percentage": 94.76924702785296,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 5.230752972147046,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 592958,
+        "percentage": 5.230752972147046,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 95.72650733764308,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 10851554,
+        "percentage": 95.72650733764308,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 4.273492662356915,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 484443,
+        "percentage": 4.273492662356915,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 94.16417453180343,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 10674448,
+        "percentage": 94.16417453180343,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 5.835825468196577,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 661549,
+        "percentage": 5.835825468196577,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 96.46645989761642,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 10935435,
+        "percentage": 96.46645989761642,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 3.5335401023835837,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 400562,
+        "percentage": 3.5335401023835837,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 97.771170899216,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 11083337,
+        "percentage": 97.771170899216,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 2.2288291007839893,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 252660,
+        "percentage": 2.2288291007839893,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Common_shrew_(Sorex_araneus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 32.07807831388816,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_present.png"
+        "area_km2": 3635731,
+        "percentage": 32.07807831388816,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 67.92192168611184,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_present.png"
+        "area_km2": 7698274,
+        "percentage": 67.92192168611184,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 39.98437014406408,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2050.png"
+        "area_km2": 4532627,
+        "percentage": 39.98437014406408,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 60.01562985593591,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2050.png"
+        "area_km2": 6803370,
+        "percentage": 60.01562985593591,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 41.26563371532296,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2070.png"
+        "area_km2": 4677871,
+        "percentage": 41.26563371532296,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 58.73436628467703,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6658126,
+        "percentage": 58.73436628467703,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 42.44957016131885,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4812082,
+        "percentage": 42.44957016131885,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 57.55042983868115,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6523915,
+        "percentage": 57.55042983868115,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 39.75208356177229,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2050.png"
+        "area_km2": 4506295,
+        "percentage": 39.75208356177229,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 60.24791643822771,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6829702,
+        "percentage": 60.24791643822771,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 39.59864315419279,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2070.png"
+        "area_km2": 4488901,
+        "percentage": 39.59864315419279,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 60.40135684580721,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2070.png"
+        "area_km2": 6847096,
+        "percentage": 60.40135684580721,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 38.23178499429737,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2100.png"
+        "area_km2": 4333954,
+        "percentage": 38.23178499429737,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 61.76821500570263,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7002043,
+        "percentage": 61.76821500570263,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_pine_marten_(Martes_martes)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 29.827902846346017,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_present.png"
+        "area_km2": 3380696,
+        "percentage": 29.827902846346017,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 70.17209715365398,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_present.png"
+        "area_km2": 7953309,
+        "percentage": 70.17209715365398,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 24.85423205387228,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2817475,
+        "percentage": 24.85423205387228,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 75.14576794612772,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8518522,
+        "percentage": 75.14576794612772,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 22.719642568712747,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2575498,
+        "percentage": 22.719642568712747,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 77.28035743128726,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8760499,
+        "percentage": 77.28035743128726,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 19.864913514003224,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2251886,
+        "percentage": 19.864913514003224,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 80.13508648599678,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2100.png"
+        "area_km2": 9084111,
+        "percentage": 80.13508648599678,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 27.102583037027973,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3072348,
+        "percentage": 27.102583037027973,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 72.89741696297203,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8263649,
+        "percentage": 72.89741696297203,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 21.547315158957787,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2442603,
+        "percentage": 21.547315158957787,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 78.45268484104221,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8893394,
+        "percentage": 78.45268484104221,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 19.295241521323618,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2187308,
+        "percentage": 19.295241521323618,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 80.70475847867638,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9148689,
+        "percentage": 80.70475847867638,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Greater_white-toothed_shrew_(Crocidura_russula)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

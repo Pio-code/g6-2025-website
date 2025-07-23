@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 5.048303754939229,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_present.png"
+        "area_km2": 572175,
+        "percentage": 5.048303754939229,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 94.95169624506077,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_present.png"
+        "area_km2": 10761830,
+        "percentage": 94.95169624506077,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 10.825787974361672,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 1227211,
+        "percentage": 10.825787974361672,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 89.17421202563833,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 10108786,
+        "percentage": 89.17421202563833,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 11.763905724392835,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 1333556,
+        "percentage": 11.763905724392835,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 88.23609427560717,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 10002441,
+        "percentage": 88.23609427560717,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 12.419895665110003,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 1407919,
+        "percentage": 12.419895665110003,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 87.58010433489,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 9928078,
+        "percentage": 87.58010433489,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 11.146483189789128,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 1263565,
+        "percentage": 11.146483189789128,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 88.85351681021088,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 10072432,
+        "percentage": 88.85351681021088,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 13.853002960392455,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 1570376,
+        "percentage": 13.853002960392455,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 86.14699703960754,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 9765621,
+        "percentage": 86.14699703960754,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 17.62566627355318,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 1998045,
+        "percentage": 17.62566627355318,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 82.37433372644682,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9337952,
+        "percentage": 82.37433372644682,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Granada_hare_(Lepus_granatensis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

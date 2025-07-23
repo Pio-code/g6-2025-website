@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 13.290077073373446,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_present.png"
+        "area_km2": 1506298,
+        "percentage": 13.290077073373446,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 86.70992292662656,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_present.png"
+        "area_km2": 9827707,
+        "percentage": 86.70992292662656,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 24.530246435315746,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2780748,
+        "percentage": 24.530246435315746,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 75.46975356468425,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8555249,
+        "percentage": 75.46975356468425,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 25.989747527279693,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2946197,
+        "percentage": 25.989747527279693,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 74.01025247272031,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8389800,
+        "percentage": 74.01025247272031,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 26.37307508108903,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2989651,
+        "percentage": 26.37307508108903,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 73.62692491891097,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8346346,
+        "percentage": 73.62692491891097,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 26.25754929187084,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2976555,
+        "percentage": 26.25754929187084,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 73.74245070812916,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8359442,
+        "percentage": 73.74245070812916,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 29.12960368638065,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3302131,
+        "percentage": 29.12960368638065,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 70.87039631361934,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8033866,
+        "percentage": 70.87039631361934,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 35.432992792782144,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 4016683,
+        "percentage": 35.432992792782144,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 64.56700720721786,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7319314,
+        "percentage": 64.56700720721786,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Mediterranean_pine_vole_(Microtus_duodecimcostatus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 64.4909632561482,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_present.png"
+        "area_km2": 7309409,
+        "percentage": 64.4909632561482,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 35.509036743851794,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_present.png"
+        "area_km2": 4024596,
+        "percentage": 35.509036743851794,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 78.59240788437047,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8909233,
+        "percentage": 78.59240788437047,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 21.40759211562953,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2426764,
+        "percentage": 21.40759211562953,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 79.68914423671778,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 9033559,
+        "percentage": 79.68914423671778,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 20.310855763282223,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2302438,
+        "percentage": 20.310855763282223,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 79.11614655508465,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8968604,
+        "percentage": 79.11614655508465,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 20.883853444915342,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2367393,
+        "percentage": 20.883853444915342,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 80.91515020690284,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 9172539,
+        "percentage": 80.91515020690284,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 19.08484979309716,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2163458,
+        "percentage": 19.08484979309716,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 84.55535935657005,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 9585193,
+        "percentage": 84.55535935657005,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 15.444640643429953,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 1750804,
+        "percentage": 15.444640643429953,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 87.56141166939264,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9925959,
+        "percentage": 87.56141166939264,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 12.438588330607356,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 1410038,
+        "percentage": 12.438588330607356,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Golden_jackal_(Canis_aureus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

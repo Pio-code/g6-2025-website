@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 80.75068786364574,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_present.png"
+        "area_km2": 9152287,
+        "percentage": 80.75068786364574,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 19.24931213635427,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_present.png"
+        "area_km2": 2181718,
+        "percentage": 19.24931213635427,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 81.84648425718531,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2050.png"
+        "area_km2": 9278115,
+        "percentage": 81.84648425718531,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 18.153515742814683,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2057882,
+        "percentage": 18.153515742814683,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 80.09900673050637,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2070.png"
+        "area_km2": 9080021,
+        "percentage": 80.09900673050637,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 19.90099326949363,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2255976,
+        "percentage": 19.90099326949363,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 79.03845599112279,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8959797,
+        "percentage": 79.03845599112279,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 20.96154400887721,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2376200,
+        "percentage": 20.96154400887721,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 81.97845324059277,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2050.png"
+        "area_km2": 9293075,
+        "percentage": 81.97845324059277,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 18.021546759407222,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2042922,
+        "percentage": 18.021546759407222,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 78.88822659356738,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8942767,
+        "percentage": 78.88822659356738,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 21.111773406432626,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2393230,
+        "percentage": 21.111773406432626,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 74.13430860999699,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2100.png"
+        "area_km2": 8403863,
+        "percentage": 74.13430860999699,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 25.865691390003015,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2932134,
+        "percentage": 25.865691390003015,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Raccoon_dog_(Nyctereutes_procyonoides)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

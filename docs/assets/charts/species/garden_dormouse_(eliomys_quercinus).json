@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 19.69108889576103,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_present.png"
+        "area_km2": 2231789,
+        "percentage": 19.69108889576103,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 80.30891110423897,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_present.png"
+        "area_km2": 9102216,
+        "percentage": 80.30891110423897,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 30.411370080637813,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3447432,
+        "percentage": 30.411370080637813,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 69.58862991936219,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 7888565,
+        "percentage": 69.58862991936219,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 33.46266764184924,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3793327,
+        "percentage": 33.46266764184924,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 66.53733235815076,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 7542670,
+        "percentage": 66.53733235815076,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 37.0117864357233,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4195655,
+        "percentage": 37.0117864357233,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 62.988213564276705,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 7140342,
+        "percentage": 62.988213564276705,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 29.54560591362189,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3349289,
+        "percentage": 29.54560591362189,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 70.45439408637812,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 7986708,
+        "percentage": 70.45439408637812,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 33.28987295956412,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3773739,
+        "percentage": 33.28987295956412,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 66.71012704043588,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 7562258,
+        "percentage": 66.71012704043588,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 39.39646420160485,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 4465982,
+        "percentage": 39.39646420160485,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 60.60353579839515,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 6870015,
+        "percentage": 60.60353579839515,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Garden_dormouse_(Eliomys_quercinus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

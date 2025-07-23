@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 25.324313867869304,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_present.png"
+        "area_km2": 2870259,
+        "percentage": 25.324313867869304,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 74.6756861321307,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_present.png"
+        "area_km2": 8463746,
+        "percentage": 74.6756861321307,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 22.745956972289246,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2578481,
+        "percentage": 22.745956972289246,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 77.25404302771075,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8757516,
+        "percentage": 77.25404302771075,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 20.883976945300887,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2367407,
+        "percentage": 20.883976945300887,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 79.11602305469911,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8968590,
+        "percentage": 79.11602305469911,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 18.79762318215151,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2130898,
+        "percentage": 18.79762318215151,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 81.20237681784849,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 9205099,
+        "percentage": 81.20237681784849,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 25.028588133888885,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2837240,
+        "percentage": 25.028588133888885,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 74.97141186611111,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8498757,
+        "percentage": 74.97141186611111,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 19.442021729539977,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2203947,
+        "percentage": 19.442021729539977,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 80.55797827046001,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 9132050,
+        "percentage": 80.55797827046001,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 15.364400678652263,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 1741708,
+        "percentage": 15.364400678652263,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 84.63559932134774,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9594289,
+        "percentage": 84.63559932134774,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Eurasian_harvest_mouse_(Micromys_minutus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

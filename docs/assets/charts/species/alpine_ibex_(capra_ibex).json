@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 5.690459815396235,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_present.png"
+        "area_km2": 644957,
+        "percentage": 5.690459815396235,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 94.30954018460376,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_present.png"
+        "area_km2": 10689048,
+        "percentage": 94.30954018460376,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 3.3828255247421115,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2050.png"
+        "area_km2": 383477,
+        "percentage": 3.3828255247421115,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 96.61717447525788,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2050.png"
+        "area_km2": 10952520,
+        "percentage": 96.61717447525788,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 2.7968779455393293,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2070.png"
+        "area_km2": 317054,
+        "percentage": 2.7968779455393293,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 97.20312205446066,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2070.png"
+        "area_km2": 11018943,
+        "percentage": 97.20312205446066,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 2.5861421805245715,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2100.png"
+        "area_km2": 293165,
+        "percentage": 2.5861421805245715,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 97.41385781947542,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2100.png"
+        "area_km2": 11042832,
+        "percentage": 97.41385781947542,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 3.1616804415174067,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2050.png"
+        "area_km2": 358408,
+        "percentage": 3.1616804415174067,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 96.8383195584826,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2050.png"
+        "area_km2": 10977589,
+        "percentage": 96.8383195584826,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 2.369187288952176,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2070.png"
+        "area_km2": 268571,
+        "percentage": 2.369187288952176,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 97.63081271104782,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2070.png"
+        "area_km2": 11067426,
+        "percentage": 97.63081271104782,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 1.6449722066793067,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2100.png"
+        "area_km2": 186474,
+        "percentage": 1.6449722066793067,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 98.35502779332069,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2100.png"
+        "area_km2": 11149523,
+        "percentage": 98.35502779332069,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_ibex_(Capra_ibex)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

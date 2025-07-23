@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 47.032527336982824,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_present.png"
+        "area_km2": 5330669,
+        "percentage": 47.032527336982824,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 52.967472663017176,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_present.png"
+        "area_km2": 6003336,
+        "percentage": 52.967472663017176,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 66.65104974886637,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2050.png"
+        "area_km2": 7555561,
+        "percentage": 66.65104974886637,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 33.34895025113362,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3780436,
+        "percentage": 33.34895025113362,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 69.74920688493478,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2070.png"
+        "area_km2": 7906768,
+        "percentage": 69.74920688493478,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 30.25079311506522,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3429229,
+        "percentage": 30.25079311506522,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 70.58189941299385,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8001162,
+        "percentage": 70.58189941299385,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 29.41810058700615,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2100.png"
+        "area_km2": 3334835,
+        "percentage": 29.41810058700615,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 67.79357827988134,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2050.png"
+        "area_km2": 7685078,
+        "percentage": 67.79357827988134,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 32.20642172011866,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3650919,
+        "percentage": 32.20642172011866,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 72.83597552116501,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2070.png"
+        "area_km2": 8256684,
+        "percentage": 72.83597552116501,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 27.164024478834992,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3079313,
+        "percentage": 27.164024478834992,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 81.48038500715906,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9236614,
+        "percentage": 81.48038500715906,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 18.519614992840946,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2100.png"
+        "area_km2": 2099383,
+        "percentage": 18.519614992840946,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Beech_marten_(Martes_foina)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

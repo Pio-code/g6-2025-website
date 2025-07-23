@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 24.461238547186102,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_present.png"
+        "area_km2": 2772438,
+        "percentage": 24.461238547186102,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 75.5387614528139,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_present.png"
+        "area_km2": 8561567,
+        "percentage": 75.5387614528139,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 32.50124360477513,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2050.png"
+        "area_km2": 3684340,
+        "percentage": 32.50124360477513,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 67.49875639522487,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2050.png"
+        "area_km2": 7651657,
+        "percentage": 67.49875639522487,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 34.689044113190924,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2070.png"
+        "area_km2": 3932349,
+        "percentage": 34.689044113190924,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 65.31095588680907,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2070.png"
+        "area_km2": 7403648,
+        "percentage": 65.31095588680907,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 36.357948930297,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2100.png"
+        "area_km2": 4121536,
+        "percentage": 36.357948930297,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 63.642051069703,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2100.png"
+        "area_km2": 7214461,
+        "percentage": 63.642051069703,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 32.74651537046102,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2050.png"
+        "area_km2": 3712144,
+        "percentage": 32.74651537046102,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 67.25348462953899,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2050.png"
+        "area_km2": 7623853,
+        "percentage": 67.25348462953899,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 34.52691457134296,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2070.png"
+        "area_km2": 3913970,
+        "percentage": 34.52691457134296,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 65.47308542865706,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2070.png"
+        "area_km2": 7422027,
+        "percentage": 65.47308542865706,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 34.86127422228499,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2100.png"
+        "area_km2": 3951873,
+        "percentage": 34.86127422228499,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 65.13872577771501,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2100.png"
+        "area_km2": 7384124,
+        "percentage": 65.13872577771501,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Wood_lemming_(Myopus_schisticolor)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

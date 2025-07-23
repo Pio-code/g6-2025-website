@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 1.3362002222515343,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_present.png"
+        "area_km2": 151445,
+        "percentage": 1.3362002222515343,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 98.66379977774847,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_present.png"
+        "area_km2": 11182560,
+        "percentage": 98.66379977774847,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 1.0627825677794376,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2050.png"
+        "area_km2": 120477,
+        "percentage": 1.0627825677794376,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 98.93721743222056,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2050.png"
+        "area_km2": 11215520,
+        "percentage": 98.93721743222056,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.8062546240970248,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2070.png"
+        "area_km2": 91397,
+        "percentage": 0.8062546240970248,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.19374537590298,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2070.png"
+        "area_km2": 11244600,
+        "percentage": 99.19374537590298,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 0.725326585742745,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2100.png"
+        "area_km2": 82223,
+        "percentage": 0.725326585742745,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 99.27467341425725,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2100.png"
+        "area_km2": 11253774,
+        "percentage": 99.27467341425725,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 1.0455454425402548,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2050.png"
+        "area_km2": 118523,
+        "percentage": 1.0455454425402548,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 98.95445455745974,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2050.png"
+        "area_km2": 11217474,
+        "percentage": 98.95445455745974,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.8033523650367939,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2070.png"
+        "area_km2": 91068,
+        "percentage": 0.8033523650367939,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.19664763496321,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2070.png"
+        "area_km2": 11244929,
+        "percentage": 99.19664763496321,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 0.8196808802966338,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2100.png"
+        "area_km2": 92919,
+        "percentage": 0.8196808802966338,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 99.18031911970337,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2100.png"
+        "area_km2": 11243078,
+        "percentage": 99.18031911970337,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Alpine_marmot_(Marmota_marmota)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

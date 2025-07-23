@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 22.513198114876428,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_present.png"
+        "area_km2": 2551647,
+        "percentage": 22.513198114876428,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 77.48680188512357,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_present.png"
+        "area_km2": 8782358,
+        "percentage": 77.48680188512357,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 9.271509157950554,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 1051018,
+        "percentage": 9.271509157950554,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 90.72849084204945,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2050.png"
+        "area_km2": 10284979,
+        "percentage": 90.72849084204945,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 7.9311065449293965,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 899070,
+        "percentage": 7.9311065449293965,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 92.0688934550706,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2070.png"
+        "area_km2": 10436927,
+        "percentage": 92.0688934550706,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 7.062166653713829,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 800567,
+        "percentage": 7.062166653713829,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 92.93783334628617,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2100.png"
+        "area_km2": 10535430,
+        "percentage": 92.93783334628617,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 8.76424014579397,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 993514,
+        "percentage": 8.76424014579397,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 91.23575985420604,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2050.png"
+        "area_km2": 10342483,
+        "percentage": 91.23575985420604,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 6.390994987031136,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 724483,
+        "percentage": 6.390994987031136,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 93.60900501296886,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2070.png"
+        "area_km2": 10611514,
+        "percentage": 93.60900501296886,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 4.758187568327691,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 539388,
+        "percentage": 4.758187568327691,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 95.24181243167232,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2100.png"
+        "area_km2": 10796609,
+        "percentage": 95.24181243167232,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Reindeer_(Rangifer_tarandus)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

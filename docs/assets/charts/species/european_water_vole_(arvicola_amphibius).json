@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 28.93831439107359,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_present.png"
+        "area_km2": 3279870,
+        "percentage": 28.93831439107359,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 71.06168560892641,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_present.png"
+        "area_km2": 8054135,
+        "percentage": 71.06168560892641,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 40.75046949994782,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2050.png"
+        "area_km2": 4619472,
+        "percentage": 40.75046949994782,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 59.24953050005218,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2050.png"
+        "area_km2": 6716525,
+        "percentage": 59.24953050005218,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 44.230922079460676,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2070.png"
+        "area_km2": 5014016,
+        "percentage": 44.230922079460676,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 55.769077920539324,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2070.png"
+        "area_km2": 6321981,
+        "percentage": 55.769077920539324,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 46.78873856441564,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2100.png"
+        "area_km2": 5303970,
+        "percentage": 46.78873856441564,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 53.211261435584355,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2100.png"
+        "area_km2": 6032027,
+        "percentage": 53.211261435584355,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 41.77801917202342,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2050.png"
+        "area_km2": 4735955,
+        "percentage": 41.77801917202342,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 58.22198082797658,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2050.png"
+        "area_km2": 6600042,
+        "percentage": 58.22198082797658,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 46.06387069439062,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2070.png"
+        "area_km2": 5221799,
+        "percentage": 46.06387069439062,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 53.936129305609384,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2070.png"
+        "area_km2": 6114198,
+        "percentage": 53.936129305609384,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 49.913668819778266,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2100.png"
+        "area_km2": 5658212,
+        "percentage": 49.913668819778266,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 50.086331180221734,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2100.png"
+        "area_km2": 5677785,
+        "percentage": 50.086331180221734,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/European_water_vole_(Arvicola_amphibius)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [

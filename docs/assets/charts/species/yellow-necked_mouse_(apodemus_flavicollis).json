@@ -356,99 +356,127 @@
         "year": 2024,
         "scenario": "Presente",
         "suitability": "idoneo",
-        "count": 61.09001187135527,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_present.png"
+        "area_km2": 6923945,
+        "percentage": 61.09001187135527,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2024,
         "scenario": "Presente",
         "suitability": "non idoneo",
-        "count": 38.90998812864473,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_present.png"
+        "area_km2": 4410060,
+        "percentage": 38.90998812864473,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_present.png",
+        "selection_key": "Presente"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 74.68061256544087,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 8465792,
+        "percentage": 74.68061256544087,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 25.319387434559133,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2050.png"
+        "area_km2": 2870205,
+        "percentage": 25.319387434559133,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2050.png",
+        "selection_key": "SSP2 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 75.34708239601686,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 8541343,
+        "percentage": 75.34708239601686,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 24.652917603983134,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2070.png"
+        "area_km2": 2794654,
+        "percentage": 24.652917603983134,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2070.png",
+        "selection_key": "SSP2 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "idoneo",
-        "count": 74.54414463941724,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 8450322,
+        "percentage": 74.54414463941724,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP2",
         "suitability": "non idoneo",
-        "count": 25.455855360582753,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2100.png"
+        "area_km2": 2885675,
+        "percentage": 25.455855360582753,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp2_2100.png",
+        "selection_key": "SSP2 2100"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 76.79955278746104,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 8705995,
+        "percentage": 76.79955278746104,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2050,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 23.200447212538958,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2050.png"
+        "area_km2": 2630002,
+        "percentage": 23.200447212538958,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2050.png",
+        "selection_key": "SSP3 2050"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 79.82799395589113,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 9049299,
+        "percentage": 79.82799395589113,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2070,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 20.172006044108866,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2070.png"
+        "area_km2": 2286698,
+        "percentage": 20.172006044108866,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2070.png",
+        "selection_key": "SSP3 2070"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "idoneo",
-        "count": 82.97094644608674,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 9405584,
+        "percentage": 82.97094644608674,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       },
       {
         "year": 2100,
         "scenario": "SSP3",
         "suitability": "non idoneo",
-        "count": 17.029053553913258,
-        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2100.png"
+        "area_km2": 1930413,
+        "percentage": 17.029053553913258,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Yellow-necked_mouse_(Apodemus_flavicollis)_binary_habitat_ssp3_2100.png",
+        "selection_key": "SSP3 2100"
       }
     ],
     "data-149c89bcde42738035916de5b334d235": [
