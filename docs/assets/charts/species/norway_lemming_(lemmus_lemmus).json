@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 807272,
         "percentage": 7.122566118507977,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10526733,
         "percentage": 92.87743388149202,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 411419,
         "percentage": 3.629314651371203,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10924578,
         "percentage": 96.3706853486288,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 367324,
         "percentage": 3.240332544195275,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 10968673,
         "percentage": 96.75966745580472,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 350140,
         "percentage": 3.0887446423988996,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 10985857,
         "percentage": 96.9112553576011,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 415761,
         "percentage": 3.667617413801362,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 10920236,
         "percentage": 96.33238258619863,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 331001,
         "percentage": 2.9199107939072317,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11004996,
         "percentage": 97.08008920609277,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 275706,
         "percentage": 2.4321283782979126,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11060291,
         "percentage": 97.56787162170208,
-        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Norway_lemming_(Lemmus_lemmus)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

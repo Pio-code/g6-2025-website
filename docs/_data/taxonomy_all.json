@@ -356,12 +356,6 @@
             "chart": "assets/charts/species/mediterranean_pine_vole_(microtus_duodecimcostatus).json"
           },
           {
-            "name": "Arvicola di Gerbe",
-            "emoji": "🐹",
-            "image": "/assets/images/arvicola_di_gerbe.jpg",
-            "chart": "assets/charts/species/arvicola_di_gerbe.json"
-          },
-          {
             "name": "Wood Lemming",
             "emoji": "🐹",
             "image": "/assets/images/lemming_dei_boschi.jpg",
@@ -418,106 +412,40 @@
         "name": "Muridae",
         "children": [
           {
-            "name": "Topo selvatico a strisce",
+            "name": "Striped Field Mouse",
             "emoji": "🐭",
             "image": "/assets/images/topo_selvatico_a_strisce.jpg",
-            "chart": "assets/charts/species/topo_selvatico_a_strisce.json"
+            "chart": "assets/charts/species/striped_field_mouse_(apodemus_agrarius).json"
           },
           {
-            "name": "Topo selvatico alpino",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_alpino.jpg",
-            "chart": "assets/charts/species/topo_selvatico_alpino.json"
-          },
-          {
-            "name": "Topo selvatico dal collo giallo",
+            "name": "Yellow-necked Mouse",
             "emoji": "🐭",
             "image": "/assets/images/topo_selvatico_dal_collo_giallo.jpg",
-            "chart": "assets/charts/species/topo_selvatico_dal_collo_giallo.json"
+            "chart": "assets/charts/species/yellow-necked_mouse_(apodemus_flavicollis).json"
           },
           {
-            "name": "Topo selvatico baffuto",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_baffuto.jpg",
-            "chart": "assets/charts/species/topo_selvatico_baffuto.json"
-          },
-          {
-            "name": "Topo selvatico del Mar Nero",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_del_mar_nero.jpg",
-            "chart": "assets/charts/species/topo_selvatico_del_mar_nero.json"
-          },
-          {
-            "name": "Topo selvatico",
+            "name": "Wood Mouse",
             "emoji": "🐭",
             "image": "/assets/images/topo_selvatico.jpg",
-            "chart": "assets/charts/species/topo_selvatico.json"
+            "chart": "assets/charts/species/wood_mouse_(apodemus_sylvaticus).json"
           },
           {
-            "name": "Topo selvatico pigmeo",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_pigmeo.jpg",
-            "chart": "assets/charts/species/topo_selvatico_pigmeo.json"
-          },
-          {
-            "name": "Topo selvatico di Witherby",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_di_witherby.jpg",
-            "chart": "assets/charts/species/topo_selvatico_di_witherby.json"
-          },
-          {
-            "name": "Gerbillo di Tristram",
-            "emoji": "🐭",
-            "image": "/assets/images/gerbillo_di_tristram.jpg",
-            "chart": "assets/charts/species/gerbillo_di_tristram.json"
-          },
-          {
-            "name": "Topolino delle risaie",
+            "name": "Eurasian Harvest Mouse",
             "emoji": "🐭",
             "image": "/assets/images/topolino_delle_risaie.jpg",
-            "chart": "assets/charts/species/topolino_delle_risaie.json"
+            "chart": "assets/charts/species/eurasian_harvest_mouse_(micromys_minutus).json"
           },
           {
-            "name": "Topo macedone",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_macedone.jpg",
-            "chart": "assets/charts/species/topo_macedone.json"
-          },
-          {
-            "name": "Topo domestico",
+            "name": "House Mouse",
             "emoji": "🐭",
             "image": "/assets/images/topo_domestico.jpg",
-            "chart": "assets/charts/species/topo_domestico.json"
+            "chart": "assets/charts/species/house_mouse_(mus_musculus).json"
           },
           {
-            "name": "Topo delle steppe",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_delle_steppe.jpg",
-            "chart": "assets/charts/species/topo_delle_steppe.json"
-          },
-          {
-            "name": "Topo algerino",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_algerino.jpg",
-            "chart": "assets/charts/species/topo_algerino.json"
-          },
-          {
-            "name": "Ratto delle chiaviche",
-            "emoji": "🐭",
-            "image": "/assets/images/ratto_delle_chiaviche.jpg",
-            "chart": "assets/charts/species/ratto_delle_chiaviche.json"
-          },
-          {
-            "name": "Ratto nero",
+            "name": "Black Rat",
             "emoji": "🐭",
             "image": "/assets/images/ratto_nero.jpg",
-            "chart": "assets/charts/species/ratto_nero.json"
-          },
-          {
-            "name": "Grande gerbillo",
-            "emoji": "🐭",
-            "image": "/assets/images/grande_gerbillo.jpg",
-            "chart": "assets/charts/species/grande_gerbillo.json"
+            "chart": "assets/charts/species/black_rat_(rattus_rattus).json"
           }
         ]
       },
@@ -525,117 +453,22 @@
         "name": "Sciuridae",
         "children": [
           {
-            "name": "Scoiattolo berbero",
-            "emoji": "🐿️",
-            "image": "/assets/images/scoiattolo_berbero.jpg",
-            "chart": "assets/charts/species/scoiattolo_berbero.json"
-          },
-          {
-            "name": "Marmotta bobak",
+            "name": "Bobak Marmot",
             "emoji": "🐿️",
             "image": "/assets/images/marmotta_bobak.jpg",
-            "chart": "assets/charts/species/marmotta_bobak.json"
+            "chart": "assets/charts/species/bobak_marmot_(marmota_bobak).json"
           },
           {
-            "name": "Marmotta delle Alpi",
+            "name": "Alpine Marmot",
             "emoji": "🐿️",
             "image": "/assets/images/marmotta_delle_alpi.jpg",
-            "chart": "assets/charts/species/marmotta_delle_alpi.json"
+            "chart": "assets/charts/species/alpine_marmot_(marmota_marmota).json"
           },
           {
-            "name": "Scoiattolo volante siberiano",
-            "emoji": "🐿️",
-            "image": "/assets/images/scoiattolo_volante_siberiano.jpg",
-            "chart": "assets/charts/species/scoiattolo_volante_siberiano.json"
-          },
-          {
-            "name": "Scoiattolo del Caucaso",
-            "emoji": "🐿️",
-            "image": "/assets/images/scoiattolo_del_caucaso.jpg",
-            "chart": "assets/charts/species/scoiattolo_del_caucaso.json"
-          },
-          {
-            "name": "Scoiattolo grigio",
-            "emoji": "🐿️",
-            "image": "/assets/images/scoiattolo_grigio.jpg",
-            "chart": "assets/charts/species/scoiattolo_grigio.json"
-          },
-          {
-            "name": "Scoiattolo rosso",
-            "emoji": "🐿️",
-            "image": "/assets/images/scoiattolo_rosso.jpg",
-            "chart": "assets/charts/species/scoiattolo_rosso.json"
-          },
-          {
-            "name": "Citello europeo",
+            "name": "European Souslik",
             "emoji": "🐿️",
             "image": "/assets/images/citello_europeo.jpg",
-            "chart": "assets/charts/species/citello_europeo.json"
-          },
-          {
-            "name": "Citello giallo",
-            "emoji": "🐿️",
-            "image": "/assets/images/citello_giallo.jpg",
-            "chart": "assets/charts/species/citello_giallo.json"
-          },
-          {
-            "name": "Citello rosso",
-            "emoji": "🐿️",
-            "image": "/assets/images/citello_rosso.jpg",
-            "chart": "assets/charts/species/citello_rosso.json"
-          },
-          {
-            "name": "Citello del Caucaso",
-            "emoji": "🐿️",
-            "image": "/assets/images/citello_del_caucaso.jpg",
-            "chart": "assets/charts/species/citello_del_caucaso.json"
-          },
-          {
-            "name": "Citello pigmeo",
-            "emoji": "🐿️",
-            "image": "/assets/images/citello_pigmeo.jpg",
-            "chart": "assets/charts/species/citello_pigmeo.json"
-          },
-          {
-            "name": "Citello maculato",
-            "emoji": "🐿️",
-            "image": "/assets/images/citello_maculato.jpg",
-            "chart": "assets/charts/species/citello_maculato.json"
-          },
-          {
-            "name": "Chipmunk siberiano",
-            "emoji": "🐿️",
-            "image": "/assets/images/chipmunk_siberiano.jpg",
-            "chart": "assets/charts/species/chipmunk_siberiano.json"
-          }
-        ]
-      },
-      {
-        "name": "Spalacidae",
-        "children": [
-          {
-            "name": "Ratto-talpa delle sabbie",
-            "emoji": "🕳️",
-            "image": "/assets/images/ratto-talpa_delle_sabbie.jpg",
-            "chart": "assets/charts/species/ratto-talpa_delle_sabbie.json"
-          },
-          {
-            "name": "Ratto-talpa minore",
-            "emoji": "🕳️",
-            "image": "/assets/images/ratto-talpa_minore.jpg",
-            "chart": "assets/charts/species/ratto-talpa_minore.json"
-          },
-          {
-            "name": "Ratto-talpa maggiore",
-            "emoji": "🕳️",
-            "image": "/assets/images/ratto-talpa_maggiore.jpg",
-            "chart": "assets/charts/species/ratto-talpa_maggiore.json"
-          },
-          {
-            "name": "Ratto-talpa di Podolsk",
-            "emoji": "🕳️",
-            "image": "/assets/images/ratto-talpa_di_podolsk.jpg",
-            "chart": "assets/charts/species/ratto-talpa_di_podolsk.json"
+            "chart": "assets/charts/species/european_souslik_(spermophilus_citellus).json"
           }
         ]
       }

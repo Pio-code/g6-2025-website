@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 1259024,
         "percentage": 11.108376959424318,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 10074981,
         "percentage": 88.89162304057568,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 1305771,
         "percentage": 11.518801566373032,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 10030226,
         "percentage": 88.48119843362696,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 1338958,
         "percentage": 11.811559230299725,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 9997039,
         "percentage": 88.18844076970026,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 1287077,
         "percentage": 11.35389326585037,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 10048920,
         "percentage": 88.64610673414963,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 1413206,
         "percentage": 12.46653470356423,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 9922791,
         "percentage": 87.53346529643578,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 1306988,
         "percentage": 11.529537278459054,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 10029009,
         "percentage": 88.47046272154094,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 1090129,
         "percentage": 9.616525127873622,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 10245868,
         "percentage": 90.38347487212638,
-        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Hazel_dormouse_(Muscardinus_avellanarius)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],
