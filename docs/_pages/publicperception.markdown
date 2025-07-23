@@ -63,21 +63,18 @@ permalink: /publicperception.html
 
   <figcaption>
   
-  Figure 1: Grey wolf and polar bear dominate total mentions across posts and comments.</figcaption>
-
+  
 
 
    <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Most mentioned species in posts"> 
 
    <figcaption>  
        
-  Figure 2: Percentage distribution of species mentions in posts.</figcaption>
-
+  
   <img src="{{site.baseurl}}/assets/images/grafico_3.png" alt="Most mentioned species in comments">
     <figcaption>
    
-  Figure 3: Percentage distribution of species mentions in comments and posts.</figcaption>
-
+  
 
   <h2>Focus on Comments</h2>
   <p>Within <strong>Reddit comments</strong>—the most interactive dimension of discourse—the concentration is even sharper:</p>
@@ -106,8 +103,7 @@ permalink: /publicperception.html
   <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
     <figcaption>
       
-  Figure 4: Emotional tone distribution per species based on Reddit discussions.</figcaption>
-
+  
 
   <h2>Word Cloud Analysis</h2>
   <p>The <strong>word cloud</strong> highlights the most frequent words from <strong>comments classified with fear or anger</strong>, providing a clear view of <strong>themes driving negative emotions</strong>. After stopword removal and lemmatization, three dominant clusters emerge:</p>
@@ -117,11 +113,10 @@ permalink: /publicperception.html
     <li><strong>Underlying ecological interest:</strong> <em>wildlife, habitat</em> (continued engagement with conservation, even in negative-toned conversations).</li>
   </ol>
 
+<figure>
   <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
-    <figcaption>
-      
-  Figure 4: World Cloud - Comments with Negative Emotions </figcaption>
-
+    <figcaption>World Cloud - Comments with Negative Emotions </figcaption>
+</figure>
   <h2>Implications and Applications</h2>
   <p>By combining <strong>text mining, NLP, Transformer-based modeling, statistical visualization, and thematic word cloud analysis</strong>, this study offers a <strong>data-driven perspective on public perception</strong> of European mammals. Findings can guide:</p>
   <ul>
