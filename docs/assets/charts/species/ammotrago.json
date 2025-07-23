@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 11295912,
         "percentage": 99.66390521267637,
-        "image_url": "/assets/charts/species/images_binary/Barbary_sheep_binary_reliable-present.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
