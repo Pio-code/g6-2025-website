@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 34468,
         "percentage": 0.3041113886926995,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 11299537,
         "percentage": 99.69588861130731,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_present.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 27397,
         "percentage": 0.24168143304907366,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 11308600,
         "percentage": 99.75831856695092,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 14983,
         "percentage": 0.13217187689799142,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 11321014,
         "percentage": 99.86782812310202,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 13623,
         "percentage": 0.12017469658822245,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 11322374,
         "percentage": 99.87982530341178,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 34324,
         "percentage": 0.30278765952390424,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 11301673,
         "percentage": 99.6972123404761,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 23287,
         "percentage": 0.20542524843646306,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11312710,
         "percentage": 99.79457475156353,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 14877,
         "percentage": 0.13123680255031825,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11321120,
         "percentage": 99.86876319744968,
-        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_habitat_ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Muskox_(Ovibos_moschatus)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],
