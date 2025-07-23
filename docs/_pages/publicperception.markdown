@@ -117,7 +117,7 @@ permalink: /publicperception.html
     <li><strong>Underlying ecological interest:</strong> <em>wildlife, habitat</em> (continued engagement with conservation, even in negative-toned conversations).</li>
   </ol>
 
-  <img src="../assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
+  <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
     <figcaption>
       
   Figure 4: World Cloud - Comments with Negative Emotions </figcaption>
