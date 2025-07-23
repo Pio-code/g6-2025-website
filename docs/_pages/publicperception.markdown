@@ -73,7 +73,7 @@ permalink: /publicperception.html
        
   Figure 2: Percentage distribution of species mentions in posts.</figcaption>
 
-  <img src="../assets/images/grafico_3.png" alt="Most mentioned species in comments">
+  <img src="{{site.baseurl}}/assets/images/grafico_3.png" alt="Most mentioned species in comments">
     <figcaption>
    
   Figure 3: Percentage distribution of species mentions in comments and posts.</figcaption>
