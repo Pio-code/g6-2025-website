@@ -60,14 +60,18 @@ permalink: /publicperception.html
   <p>This reflects a typical trend in environmental communication, where <strong>iconic or controversial species attract disproportionate focus</strong>, while <strong>less conspicuous species remain underrepresented</strong>.</p>
 
    <img src="{{site.baseurl}}/assets/images/grafico_1.png" alt="Total mentions (posts + comments) per species">
+
   
 
 
-   <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Most mentioned species in posts">   
-       
-  
+
+   <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Most mentioned species in posts"> 
+
+   
+
   <img src="{{site.baseurl}}/assets/images/grafico_3.png" alt="Most mentioned species in comments">
-  
+    
+
 
   <h2>Focus on Comments</h2>
   <p>Within <strong>Reddit comments</strong>—the most interactive dimension of discourse—the concentration is even sharper:</p>
@@ -78,23 +82,88 @@ permalink: /publicperception.html
   <p>This suggests that <strong>outreach efforts</strong> can capitalize on <strong>flagship species</strong> to drive engagement, while also using them as entry points to promote <strong>lesser-known biodiversity</strong>.</p>
 
   <h2>Emotional Analysis: Sentiment and Emotion Classification</h2>
-  <p>To assess the <strong>emotional framing</strong> of discussions, we applied a <strong>Transformer-based deep learning model</strong>:</p>
-  <ul>
-    <li><strong>DistilRoBERTa</strong> (<em>j-hartmann/emotion-english-distilroberta-base</em>), optimized for <strong>multi-class emotion detection</strong>.</li>
-    <li>Each text was analyzed within a <strong>512-token context window</strong> to preserve semantic continuity.</li>
-    <li>Emotions were categorized as: <strong>Anger, Fear, Joy, Neutral</strong>.</li>
-  </ul>
-  <p><strong>Key findings:</strong></p>
-  <ul>
-    <li><strong>Grey wolf:</strong> 18% anger, 12% fear—mainly tied to <strong>livestock predation</strong> and <strong>human-wildlife conflict debates</strong>.</li>
-    <li><strong>Polar bear:</strong> Dominated by <strong>fear and sadness</strong>, often connected to <strong>climate crisis</strong> and <strong>endangered narratives</strong>.</li>
-    <li><strong>Red fox:</strong> Mixed emotional profile (17.3% anger, 9.6% fear, 1.9% joy), largely from <strong>urban wildlife and photography discussions</strong>.</li>
-    <li><strong>Red deer & Eurasian lynx:</strong> Mostly <strong>neutral (>70%)</strong>, with <strong>fear (19–20%)</strong> tied to <strong>road collisions</strong>.</li>
-  </ul>
-  <p>Overall, the discourse leans <strong>neutral to negative</strong>, with <strong>joy appearing rarely</strong>, primarily in <strong>observational or aesthetic contexts</strong>.</p>
-
-  <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">  
   
+  <img src="{{site.baseurl}}/assets/images/Emotions.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
+    
+
+  <section>
+  <h2>Emotional Analysis: Sentiment and Emotion Classification (Updated)</h2>
+  <p>To better capture the <strong>emotional framing</strong> of Reddit discussions, we applied a 
+  <strong>Transformer-based deep learning model</strong>, DistilRoBERTa 
+  (<em>j-hartmann/emotion-english-distilroberta-base</em>), optimized for 
+  <strong>multi-class emotion detection</strong>. Each text (post or comment) was analyzed 
+  within a <strong>512-token context window</strong> to preserve semantic continuity and 
+  prevent truncation.</p>
+
+  <p>In this updated version, we focused on <strong>four emotions only</strong> — 
+  <em>Anger, Fear, Joy, and Sadness</em> — <strong>excluding Neutral</strong> to emphasize 
+  emotional content. The distribution (<strong>Figure X</strong>) reveals distinct 
+  emotional patterns by species:</p>
+
+  <ul>
+    <li><strong>Grey wolf:</strong> Shows the <strong>highest overall negative sentiment</strong>, 
+    with <strong>43.2% anger</strong>, <strong>29.6% fear</strong>, and <strong>22.1% sadness</strong>. 
+    Most discussions center on <strong>livestock predation, safety concerns, and 
+    human-wildlife conflicts</strong>, reflecting wolves’ controversial role in 
+    conservation debates.</li>
+
+    
+  <li><strong>Roe deer:</strong> Exhibits <strong>49.1% fear</strong> and <strong>16.4% sadness</strong>, 
+    mostly connected to <strong>road accidents and incidental encounters</strong>, rather than predator-related fear. 
+    Joy is minimal (<strong>7.3%</strong>), indicating a largely negative framing.</li>
+
+  <li><strong>Polar bear:</strong> Dominated by <strong>fear (36.4%)</strong> and 
+    <strong>sadness (25.3%)</strong>, often tied to <strong>climate crisis narratives</strong> and 
+    <strong>endangered status</strong> (keywords like “melting”, “climate”, “endangered”). 
+    Joy remains low (<strong>11.5%</strong>).</li>
+
+  <li><strong>Red fox:</strong> Displays a <strong>mixed profile</strong> — 
+    <strong>38% anger</strong>, <strong>34% fear</strong>, but also <strong>12% joy</strong>, the 
+    highest among species. Joy is mainly linked to <strong>urban sightings and 
+    photography</strong>, while negative emotions stem from <strong>conflicts with humans and pets</strong>.</li>
+
+  <li><strong>European mole and hedgehog:</strong> Hedgehog is strikingly 
+    <strong>dominated by sadness (60%)</strong>, with very low anger and fear, possibly 
+    reflecting a <strong>perceived vulnerability or threats</strong> (e.g., habitat loss). 
+    Mole shows a more balanced mix, with <strong>33% fear</strong>, <strong>33% anger</strong>, 
+    and <strong>16.7% joy</strong>, though based on fewer discussions.</li>
+
+  <li><strong>Eurasian lynx and wildcat:</strong> While less discussed overall, 
+    these species display <strong>substantial sadness (33%)</strong> and 
+    <strong>fear (53.8% for lynx)</strong>, likely tied to <strong>rarity and human interactions</strong> 
+    (lynx collisions or sightings).</li>
+  </ul>
+
+  <figure>
+    <img src="{{ site.baseurl }}/assets/images/Emotions.png" alt="Emotional distribution by species" width="800">
+
+<figcaption>
+      
+Percentage distribution of Anger, Fear, Joy, and Sadness by species (Neutral excluded). Species are sorted by overall negative emotions (Anger + Fear + Sadness).</figcaption>
+  </figure>
+
+  <h3>Overall Trends</h3>
+  <p>The <strong>discourse is heavily negative</strong>, driven by 
+  <strong>anger, fear, and sadness</strong>. 
+  <ul>
+    <li><strong>Anger</strong> is strongest for <strong>grey wolves (43%)</strong>, tied to 
+    <strong>conflict</strong>.</li>
+    <li><strong>Sadness</strong> peaks with <strong>hedgehogs (60%)</strong> and 
+    <strong>polar bears (25%)</strong>, linked to <strong>vulnerability and climate threats</strong>.</li>
+    <li><strong>Fear</strong> dominates for <strong>roe deer (49%)</strong> and 
+    <strong>lynx (53.8%)</strong>, primarily due to <strong>human encounters</strong>.</li>
+  </ul>
+  <p><strong>Joy remains marginal</strong>, never exceeding <strong>12%</strong>, and appears mostly 
+  in <strong>contextual appreciation (wildlife photography, casual observations)</strong> rather 
+  than deep engagement.</p>
+
+  <p>This analysis shows that <strong>online discourse around European mammals is primarily 
+  conflict- and threat-driven</strong>, with emotional polarization strongest for 
+  <strong>wolves (conflict)</strong> and <strong>polar bears (climate icon)</strong>, while 
+  <strong>hedgehogs and moles evoke sympathy rather than controversy</strong>.</p>
+</section>
+
+
 
   <h2>Word Cloud Analysis</h2>
   <p>The <strong>word cloud</strong> highlights the most frequent words from <strong>comments classified with fear or anger</strong>, providing a clear view of <strong>themes driving negative emotions</strong>. After stopword removal and lemmatization, three dominant clusters emerge:</p>
@@ -104,10 +173,11 @@ permalink: /publicperception.html
     <li><strong>Underlying ecological interest:</strong> <em>wildlife, habitat</em> (continued engagement with conservation, even in negative-toned conversations).</li>
   </ol>
 
-<figure>
   <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
-    <figcaption>World Cloud - Comments with Negative Emotions </figcaption>
-</figure>
+    <figcaption>
+      
+  World Cloud - Comments with Negative Emotions </figcaption>
+
   <h2>Implications and Applications</h2>
   <p>By combining <strong>text mining, NLP, Transformer-based modeling, statistical visualization, and thematic word cloud analysis</strong>, this study offers a <strong>data-driven perspective on public perception</strong> of European mammals. Findings can guide:</p>
   <ul>
