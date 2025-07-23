@@ -43,7 +43,7 @@ vega: true
 
       <p>This conversation highlights the complexity of today’s climate communication:  
       the tension between urgency and accuracy, the need to expand the environmental narrative,  
-      and the responsibility of the media in shaping public awareness. <strong>Here’s what he said, in six takeaways.</strong>
+      and the responsibility of the media in shaping public awareness. <strong>Here’s what he said, in eight takeaways.</strong>
     </p>
   </div>
 
@@ -94,10 +94,10 @@ vega: true
 <!-- Titolo con Takeaway 2 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
   <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
-    Takeaway 1
+    Takeaway 2
   </div>
   <div style="display: flex; align-items: center; gap: 0.6rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">1.</div>
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">2.</div>
     <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
       <span style="font-size: 1.2rem;">📢 </span> The Challenges of Communicating Climate Change
     </h2>
@@ -116,122 +116,167 @@ vega: true
   <em>This change marks a</em> <strong>turning point</strong> <em>in public engagement, though the space for</em> <strong>constructive dialogue</strong> <em>remains delicate and must be carefully nurtured.</em>
 </div>
 
+</div>
 
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">3.</div>
-    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600; color: #1a1a1a;">
-      🌱 Gaps in Environmental Coverage
-    </h2>
+<!-- Titolo con Takeaway 3 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 3
   </div>
-
-  <blockquote style="background-color: #e6f5ec; padding: 1.2rem 1.5rem; border-left: 5px solid #70c18f; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1.1rem; margin: 0; color: #333;">
-      “There’s a lot of talk about climate, but still too little about the environment as a whole.”
-    </p>
-  </blockquote>
-
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-    Pasotti calls out the media’s tendency to **focus exclusively on climate change**, often ignoring **interconnected environmental issues** such as **biodiversity loss**, **soil degradation**, and **water pollution**. He advocates for a more **systemic narrative**—one that reflects the **interdependence** between natural systems and emphasizes that tackling climate change requires considering the **health of the entire planet**, not just carbon levels.
-    He calls for a more <strong>systemic narrative</strong> — one that reflects the <em>interdependence of all natural systems</em>.
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">3.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">🌱</span> Gaps in Environmental Coverage
+    </h2>
   </div>
 </div>
 
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">4.</div>
-    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600; color: #1a1a1a;">
-      🔥 Media Catastrophism
-    </h2>
-  </div>
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “There’s a lot of talk about climate, but still too little about the environment as a whole.”
+</blockquote>
 
-  <blockquote style="background-color: #fdeeee; padding: 1.2rem 1.5rem; border-left: 5px solid #e08d8d; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1.1rem; margin: 0; color: #333;">
-      “Sounding the alarm is necessary. But media catastrophism only creates anxiety and misinformation.”
-    </p>
-  </blockquote>
-
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-   Pasotti warns against the rise of **catastrophic narratives** in the media, where **clickbait headlines** and **influencer-driven content** often distort the scientific message. While he agrees on the urgency of climate communication, he stresses the importance of **precision over panic**. The goal should be to **empower** the audience with knowledge—not to paralyze them with fear. While urgency is important, Pasotti warns against <strong>panic-driven storytelling</strong>.  
-    He advocates for <em>precision over panic</em> and urges journalists to <strong>empower readers with facts</strong>.
-  </div>
+<!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  Pasotti calls out the media’s tendency to <strong>focus exclusively on climate change</strong>, often ignoring <strong>interconnected environmental issues</strong> such as <strong>biodiversity loss</strong>, <strong>soil degradation</strong>, and <strong>water pollution</strong>.  
+  He advocates for a more <strong>systemic narrative</strong> — one that reflects the <em>interdependence of all natural systems</em> and emphasizes that tackling climate change requires considering the <strong>health of the entire planet</strong>, not just carbon levels.
 </div>
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">5.</div>
-    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600; color: #1a1a1a;">
-      🐾 The Impact on Animal Species
-    </h2>
-  </div>
 
-  <blockquote style="background-color: #f4f0fa; padding: 1.2rem 1.5rem; border-left: 5px solid #b59edb; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1.1rem; margin: 0; color: #333;">
-      “Habitat loss and fragmentation are the main drivers of species decline.”
-    </p>
-  </blockquote>
-
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-    One of the most underreported consequences of environmental degradation, according to Pasotti, is the **rapid decline of wildlife populations**. Beyond climate change, factors like **urban expansion**, **agricultural pressure**, and **land fragmentation** are severely affecting **migration routes**, **food chains**, and **ecosystem balance**. He believes that **rethinking land use** and integrating **conservation strategies** is key to preserving **biodiversity**—which in turn supports human life.
-    He urges a rethinking of <strong>land use and conservation policies</strong> to protect ecosystems — not only for animals, but for humans too.
-  </div>
 </div>
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">6.</div>
-    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600; color: #1a1a1a;">
-      🤖 AI and the Future of Science Communication
+
+ <!-- Titolo con Takeaway 4 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 4
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">4.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">🔥</span> Media Catastrophism
     </h2>
-  </div>
-
-  <blockquote style="background-color: #f0f4f8; padding: 1.2rem 1.5rem; border-left: 5px solid #88a6c9; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1.1rem; margin: 0; color: #333;">
-      “The question today isn’t whether we use AI, but how we use it.”
-    </p>
-  </blockquote>
-
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-    Pasotti acknowledges that artificial intelligence is now part of nearly every field, including science journalism. Some media outlets are transparent about it, while others are not. He cites the Italian newspaper "Il Foglio" as a positive example: once a week, it publishes an article entirely generated by AI and clearly labels it as such. Pasotti believes that transparency is essential to maintaining readers’ trust, especially when it comes to disclosing when and how AI is involved in content creation.
-Personally, he initially experimented with using AI for source gathering, but encountered major limitations—particularly the problem of “hallucinations” or the invention of unverifiable facts and references. As a result, he still relies on traditional, verifiable sources for research.
-That said, he regularly uses AI for support tasks such as stylistic editing, Instagram post revision, and the translation of complex scientific texts—contexts in which he finds AI to be genuinely helpful.  
-    He believes that <strong>transparency</strong> is essential when integrating AI into science journalism.
-  </div>
-</div>
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">6.</div>
-    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600; color: #1a1a1a;">
-      🕰️ Is There Still Time?  
-    </h2>
-  </div>
-
-  <blockquote style="background-color: #f0f4f8; padding: 1.2rem 1.5rem; border-left: 5px solid #88a6c9; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1.1rem; margin: 0; color: #333;">
-      “Every half degree matters. It’s like a train: hitting a tunnel at 120 km/h is not the same as slowing down before you get there.”
-    </p>
-  </blockquote>
-
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-  Pasotti believes that although the **+1.5 °C threshold** has already been exceeded, it’s still possible to **slow down global warming** and **reduce future damage**. He compares the situation to a train approaching a wall: the **speed at which we hit** matters. Every fraction of a degree avoided gives us **more time to adapt**, **reinforce infrastructure**, and **implement policy**. The climate crisis, he reminds us, is **cumulative**—and every action today shapes tomorrow.
   </div>
 </div>
 
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">6.</div>
-    <h2 style="margin: 0; font-size: 1.6rem; font-weight: 600; color: #1a1a1a;">
-     👩‍🎓 Advice for Young Communicators    
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “Sounding the alarm is necessary. But media catastrophism only creates anxiety and misinformation.”
+</blockquote>
+
+<!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  Pasotti warns against the rise of <strong>catastrophic narratives</strong> in the media, where <strong>clickbait headlines</strong> and <strong>influencer-driven content</strong> often distort the scientific message. While he agrees on the urgency of climate communication, he stresses the importance of <strong>precision over panic</strong>.  
+  The goal should be to <strong>empower</strong> the audience with knowledge — not to paralyze them with fear. While urgency is important, Pasotti warns against <strong>panic-driven storytelling</strong>. He advocates for <em>precision over panic</em> and urges journalists to <strong>empower readers with facts</strong>.
+</div>
+
+</div>
+
+ <!-- Titolo con Takeaway 5 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 5
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">5.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">🐾</span> The Impact on Animal Species
     </h2>
   </div>
+</div>
 
-  <blockquote style="background-color: #f0f4f8; padding: 1.2rem 1.5rem; border-left: 5px solid #88a6c9; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1.1rem; margin: 0; color: #333;">
-      “Don’t stop at journalism: we need cross-disciplinary skills to truly communicate science.”
-    </p>
-  </blockquote>
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “Habitat loss and fragmentation are the main drivers of species decline.”
+</blockquote>
 
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-  To communicate science effectively in today’s world, Pasotti encourages young professionals to go beyond traditional journalism. He advocates for developing **hybrid skills**—combining **journalistic storytelling** with knowledge in **data science**, **environmental policy**, or **scientific research**. In a media environment disrupted by AI and fragmented attention, **versatility** becomes a crucial form of **resilience**. Pasotti himself trains communicators across Europe, from universities to research institutions, promoting a more **integrated and rigorous approach**.
+ <!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  One of the most underreported consequences of environmental degradation, according to Pasotti, is the <strong>rapid decline of wildlife populations</strong>.  
+  Beyond climate change, factors like <strong>urban expansion</strong>, <strong>agricultural pressure</strong> and <strong>land fragmentation</strong> are severely affecting <strong>migration routes</strong>, <strong>food chains</strong>, and <strong>ecosystem balance</strong>.  
+  He believes that <strong>rethinking land use</strong> and integrating <strong>conservation strategies</strong> is key to preserving <strong>biodiversity</strong> — which in turn supports human life. He urges a rethinking of <strong>land use and conservation policies</strong> to protect ecosystems — not only for animals, but for humans too.
+</div>
 
+</div>
+
+<!-- Titolo con Takeaway 6 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 6
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">6.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">🤖</span> AI and the Future of Science Communication
+    </h2>
+  </div>
+</div>
+
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “The question today isn’t whether we use AI, but how we use it.”
+</blockquote>
+
+
+<!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  Pasotti acknowledges that artificial intelligence is now part of nearly every field, including science journalism.  
+  Some media outlets are transparent about it, while others are not. He cites the Italian newspaper <em>"Il Foglio"</em> as a positive example: once a week, it publishes an article entirely generated by AI and clearly labels it as such. Pasotti believes that <strong>transparency</strong> is essential to maintaining readers’ trust, especially when it comes to disclosing when and how AI is involved in content creation.  
+  Personally, he initially experimented with using AI for source gathering, but encountered major limitations — particularly the problem of <em>“hallucinations”</em> or the invention of unverifiable facts and references. As a result, he still relies on <strong>traditional, verifiable sources</strong> for research.  
+  That said, he regularly uses AI for support tasks such as <strong>stylistic editing</strong>, <strong>Instagram post revision</strong>, and the <strong>translation of complex scientific texts</strong> — contexts in which he finds AI to be genuinely helpful. He believes that <strong>transparency</strong> is essential when integrating AI into science journalism.
+</div>
+
+</div>
+
+ <!-- Titolo con Takeaway 7 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 7
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">7.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;"> 🕰️</span> Is There Still Time?  
+    </h2>
+  </div>
+</div>
+
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “Every half degree matters. It’s like a train: hitting a tunnel at 120 km/h is not the same as slowing down before you get there.”
+</blockquote>
+
+  <!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  Pasotti believes that although the <strong>+1.5 °C threshold</strong> has already been exceeded, it’s still possible to <strong>slow down global warming</strong> and <strong>reduce future damage</strong>. He compares the situation to a train approaching a wall: the <strong>speed at which we hit</strong> matters.  
+  Every fraction of a degree avoided gives us <strong>more time to adapt</strong>, <strong>reinforce infrastructure</strong>, and <strong>implement policy</strong>. The climate crisis, he reminds us, is <strong>cumulative</strong> — and <em>every action today shapes tomorrow</em>.
+</div>
+
+</div>
+
+<!-- Titolo con Takeaway 8 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 8
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">8.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">👩‍🎓 </span> Advice for Young Communicators
+    </h2>
+  </div>
+</div>
+
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “Don’t stop at journalism: we need cross-disciplinary skills to truly communicate science.”
+</blockquote>
+
+<!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  To communicate science effectively in today’s world, Pasotti encourages young professionals to go beyond traditional journalism.  
+  He advocates for developing <strong>hybrid skills</strong> — combining <strong>journalistic storytelling</strong> with knowledge in <strong>data science</strong>, <strong>environmental policy</strong>, or <strong>scientific research</strong>. In a media environment disrupted by AI and fragmented attention, <strong>versatility</strong> becomes a crucial form of <strong>resilience</strong>. Pasotti himself trains communicators across Europe, from universities to research institutions, promoting a more <strong>integrated and rigorous approach</strong>.
+</div>
+
+</div>
 ---
 
 ## ☁️ Keywords from the Interview
