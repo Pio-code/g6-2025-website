@@ -12,7 +12,7 @@ vega: true
 La crisi climatica non è più un concetto astratto, non tangibile da una società estremamente urbanizzata che non può vederne gli effetti sugli ecosistemi, ma un’esperienza vissuta da tutti noi. Le condizioni ambientali peggiorano: la temperatura media del pianeta aumenta, mentre fenomeni estremi come ondate di calore, inondazioni e siccità diventano sempre più vicini alla nuova normalità.
 L'indicatore principale di questa trasformazione, l’innalzamento della temperatura media, segnala il 2024 nuovamente come l’anno più caldo mai registrato, superando per la prima volta soglia di +1,5 °C rispetto ai livelli preindustriali. E se il mondo corre, l’Europa vola: il nostro continente si sta riscaldando a una velocità quasi doppia, con un aumento che sulla terraferma ha raggiunto +2,6 °C già nel 2023.
 
-<div style="width: 100%; margin: 1em 0;"> 
+<div style="width: 90%; margin: 1em 0;"> 
   <vegachart schema-url="{{site.baseurl}}/Land_cover/temperature_anomaly_chart.json" style="width: 100%;"></vegachart>
 </div>
 
@@ -28,7 +28,7 @@ Le stime più recenti sono concordi: gli obiettivi più ottimistici, come conten
 Questi scenari non definiscono solo temperature diverse, ma anche paesaggi diversi. L’uso del suolo per l’agricoltura e per le città è una delle cause principali del degrado ambientale, frammentando gli habitat e minacciando la biodiversità.
 Per capire l'impatto sui mammiferi, quindi, non basta guardare al clima, ma bisogna sapere come cambierà la loro casa: le foreste, i prati, le campagne. Per vedere con i nostri occhi questi futuri divergenti, nella mappa interattiva sottostante possiamo esplorare un dettagliatissimo set di mappe sviluppato per l'Europa, che visualizza come potrebbe apparire il nostro continente fino al 2100. Confrontiamo i due scenari. 
 
-<div style="width: 100%;">
+<div style="width: 90%;">
   <vegachart schema-url="{{site.baseurl}}/Land_cover/interactive_chart.json" style="width: 100%;"></vegachart>
 </div>
 
@@ -39,7 +39,7 @@ Ma come si traducono un cambiamento del clima, oppure un campo che diventa bosco
 Non si tratta di dove una specie vive oggi, ma di mappare tutte le aree che, dati i suoi requisiti vitali (temperatura, vegetazione, ecc.), potrebbero sostenerne la presenza. L'obiettivo diventa quindi confrontare le mappe dell'idoneità attuale con quelle dei futuri possibili, per vedere dove una specie potrà ancora vivere (Se effettivamente presente), dove dovrà spostarsi e quali territori diventeranno inospitali.
 
 
-<div style="width: 100%;">
+<div style="width: 90%;">
   <vegachart schema-url="{{site.baseurl}}/Land_cover/mappa_ricchezza_interattiva.json" style="width: 100%;"></vegachart>
 </div>
 
@@ -51,7 +51,7 @@ Questa migrazione di massa, però, ha una condizione fondamentale: la connettivi
 <img
   src="{{ site.baseurl }}/assets/charts/species/confronto_scenari_ottimizzato.png"
   alt="Confronto scenari per specie"
-  style="width:100%; margin:1em 0;"
+  style="width:90%; margin:1em 0;"
 />
 
 Se la prima mappa ci mostra la direzione del cambiamento, la seconda ne mostra la magnitudine, rivelando un quadro che sarebbe potuto risultare inaspettato: Per la grande maggioranza delle specie di mammiferi, il futuro sembra promettere un'espansione. Non a caso, sebbene il numero di specie in contrazione e in espansioni sia praticamente identico tra i due scenari, nel SSP3 dove aumenta maggiormente la temperatura, notiamo un più elevato numero di specie con un’espansione di oltre il 50%. Si delinea così una sorta di paradosso: mentre per la nostra specie, confinata all’interno di confini, ha condizioni di vita peggiori, per molti mammiferi si potrebbe aprire un'era di opportunità territoriale.
@@ -76,3 +76,11 @@ Guardando il grafico soprastante, relativo proprio alla specializzazione del hab
 
 
 ### aggiungere mappa per raggruppamento per ordine
+<div style="width: 90%;">
+  <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp2.json" style="width: 100%;"></vegachart>
+</div>
+
+
+<div style="width: 90%;">
+  <vegachart schema-url="{{site.baseurl}}/Land_cover/boxplot_ordine_ssp3.json" style="width: 100%;"></vegachart>
+</div>
