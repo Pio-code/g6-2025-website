@@ -7,6 +7,56 @@ title: "HOME RAW"
 vega: true
 
 ---
+<!-- Homepage – The Future of European Mammals -->
+<section style="max-width: 880px; margin: 0 auto; padding: 2rem; font-family: 'Merriweather', serif; font-size: 1.05rem; line-height: 1.8; color: #222;">
+
+  <h1 style="font-size: 2.4rem; font-weight: 700; text-align: center; margin-bottom: 2rem;">
+    The Future of European Mammals
+  </h1>
+
+  <p>
+    The climate crisis is no longer an abstract concept, intangible to an extremely urbanized society unable to see its effects on ecosystems—it is now a lived experience for all of us. Environmental conditions are worsening: the planet’s average temperature is rising, while extreme events like heatwaves, floods, and droughts are becoming the new normal.
+  </p>
+
+  <p>
+    The clearest signal of this shift—rising average temperatures—marks 2024 once again as the hottest year ever recorded, surpassing for the first time the +1.5 °C threshold compared to pre-industrial levels. And while the world is running, Europe is flying: our continent is warming nearly twice as fast, with land temperatures reaching +2.6 °C as early as 2023.
+  </p>
+
+  <!-- Vega chart -->
+  <div style="width: 100%; margin: 2rem 0;">
+    <vegachart schema-url="{{site.baseurl}}/Land_cover/temperature_anomaly_chart.json" style="width: 100%;"></vegachart>
+  </div>
+
+  <p>
+    Faced with this evidence, interest in the climate is growing. Yet, as environmental journalist and photographer Jacopo Pasotti points out, this attention is still mostly driven by economic concerns rather than care for the environment itself. Our awareness seems to increase as the damage becomes more personal. But we are not the planet’s only inhabitants. One question emerges:  
+    <strong>What do these changes mean for other species?</strong> In particular, what will be the impact on Europe’s terrestrial mammals? If things are getting worse for us, are they getting worse for them too?
+  </p>
+
+  <p>
+    The answer depends on the futures ahead. These depend not only on how the climate evolves but also on how society shapes the land we share.  
+    To explore these paths, scientists use the Shared Socioeconomic Pathways (SSPs), global scenarios describing different developments up to 2100—taking into account demographics, economy, land use, and energy policy.
+  </p>
+
+  <p>
+    Recent projections agree: the most optimistic goals—limiting warming to 1.5 °C or even 2 °C—are now out of reach. The focus has shifted to more realistic pathways. Among the most studied:
+  </p>
+
+  <ul>
+    <li><strong>SSP2-4.5 (“Middle of the Road”):</strong> A moderate scenario where current trends continue. Emissions keep growing at a moderate pace, leading to ~2.7 °C warming by 2100.</li>
+    <li><strong>SSP3-7.0 (“Regional Rivalry”):</strong> A pessimistic scenario marked by nationalism, poor international cooperation, and limited investment in sustainability. This path leads to ~3.6 °C of global warming by century’s end.</li>
+  </ul>
+
+  <p>
+    These scenarios do not just predict different temperatures—they predict different landscapes. Agriculture and urban expansion are key drivers of environmental degradation, fragmenting habitats and threatening biodiversity.
+  </p>
+
+  <p>
+    To understand the impact on mammals, we must look beyond temperature data.  
+    We need to understand how their homes—forests, grasslands, farmlands—will change. In the interactive map below, you can explore a detailed dataset developed for Europe, visualizing how our continent may look by 2100.  
+    <strong>Let’s compare the two scenarios.</strong>
+  </p>
+
+</section>
 
 # Il Futuro dei Mammiferi Europei
 La crisi climatica non è più un concetto astratto, non tangibile da una società estremamente urbanizzata che non può vederne gli effetti sugli ecosistemi, ma un’esperienza vissuta da tutti noi. Le condizioni ambientali peggiorano: la temperatura media del pianeta aumenta, mentre fenomeni estremi come ondate di calore, inondazioni e siccità diventano sempre più vicini alla nuova normalità.
