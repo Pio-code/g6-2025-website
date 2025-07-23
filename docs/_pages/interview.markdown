@@ -63,7 +63,7 @@ vega: true
 
  <div style="margin-bottom: 3rem;">
 
- <!-- Titolo con Takeaway e emoji integrato -->
+ <!-- Titolo con Takeaway 1 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
   <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
     Takeaway 1
@@ -91,24 +91,31 @@ vega: true
 
 </div>
 
-<div style="margin-bottom: 3rem;">
-  <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
-    <div style="font-size: 1.6rem; font-weight: bold; color: #1a1a1a;">2.</div>
-    <h2 style="margin: 0; font-size: 1rem; font-weight: 600; color: #1a1a1a;">
-      📢 The Challenges of Communicating Climate Change
+<!-- Titolo con Takeaway 2 e emoji integrato -->
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Takeaway 1
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <div style="font-size: 1.6rem; font-weight: bold; color: #222;">1.</div>
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">📢 </span> The Challenges of Communicating Climate Change
     </h2>
   </div>
-
-  <blockquote style="background-color: #fff9e6; padding: 1.2rem 1.5rem; border-left: 5px solid #f2cb05; border-radius: 6px; margin-bottom: 1.5rem;">
-    <p style="font-style: italic; font-size: 1rem; margin: 0; color: #333;">
-      “Dealing with shitstorms was one of the hardest challenges for years.”
-    </p>
-  </blockquote>
-
-  <div style="font-size: 1rem; line-height: 1.6; color: #333;">
-    The rise of digital platforms has exposed scientists and communicators to* **waves of online abuse**, *often coordinated to discredit legitimate research. Pasotti reflects on these difficult years, but also notes a* **positive shift**: *as* **climate impacts** *become more* **visible and tangible**, *more people are showing* **trust in scientific data**. *This change marks a* **turning point** *in public engagement, though the space for* **constructive dialogue** *remains delicate and must be carefully nurtured.*
-  </div>
 </div>
+
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “Dealing with shitstorms was one of the hardest challenges for years.”
+</blockquote>
+
+<!-- Commento -->
+<div style="font-size: 1rem; line-height: 1.6; color: #333; font-family: 'Merriweather', serif;max-width: 800px;">
+  The rise of digital platforms has exposed scientists and communicators to <strong>waves of online abuse</strong>, <em>often coordinated to discredit legitimate research</em>.  
+  Pasotti reflects on these difficult years, but also notes a <strong>positive shift</strong>: as <strong>climate impacts</strong> become more <strong>visible and tangible</strong>, more people are showing <strong>trust in scientific data</strong>.  
+  <em>This change marks a</em> <strong>turning point</strong> <em>in public engagement, though the space for</em> <strong>constructive dialogue</strong> <em>remains delicate and must be carefully nurtured.</em>
+</div>
+
 
 <div style="margin-bottom: 3rem;">
   <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1rem;">
