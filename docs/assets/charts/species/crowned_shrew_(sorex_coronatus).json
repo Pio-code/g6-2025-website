@@ -1,0 +1,460 @@
+{
+  "config": {
+    "view": {
+      "continuousWidth": 300,
+      "continuousHeight": 300,
+      "stroke": null
+    }
+  },
+  "vconcat": [
+    {
+      "hconcat": [
+        {
+          "layer": [
+            {
+              "data": {
+                "name": "data-2cd16dfc11f7866ba61459b52767daed"
+              },
+              "mark": {
+                "type": "circle",
+                "size": 1200
+              },
+              "encoding": {
+                "color": {
+                  "field": "scenario",
+                  "legend": null,
+                  "scale": {
+                    "domain": [
+                      "Presente",
+                      "SSP2",
+                      "SSP3"
+                    ],
+                    "range": [
+                      "steelblue",
+                      "darkorange",
+                      "firebrick"
+                    ]
+                  },
+                  "type": "ordinal"
+                },
+                "opacity": {
+                  "condition": {
+                    "param": "selection_param",
+                    "value": 1.0,
+                    "empty": false
+                  },
+                  "value": 0.3
+                },
+                "stroke": {
+                  "field": "scenario",
+                  "legend": null,
+                  "scale": {
+                    "domain": [
+                      "Presente"
+                    ],
+                    "range": [
+                      "black"
+                    ]
+                  },
+                  "type": "nominal"
+                },
+                "strokeWidth": {
+                  "condition": {
+                    "param": "selection_param",
+                    "value": 2.5,
+                    "empty": false
+                  },
+                  "value": 0.5
+                }
+              },
+              "name": "view_5",
+              "transform": [
+                {
+                  "filter": "(datum.scenario === 'Presente')"
+                }
+              ]
+            },
+            {
+              "data": {
+                "name": "data-149c89bcde42738035916de5b334d235"
+              },
+              "mark": {
+                "type": "text",
+                "align": "center",
+                "baseline": "middle",
+                "dy": 30
+              },
+              "encoding": {
+                "text": {
+                  "field": "label",
+                  "type": "nominal"
+                }
+              }
+            }
+          ],
+          "height": 50,
+          "width": 50
+        },
+        {
+          "data": {
+            "name": "data-2cd16dfc11f7866ba61459b52767daed"
+          },
+          "mark": {
+            "type": "rect"
+          },
+          "encoding": {
+            "color": {
+              "field": "scenario",
+              "legend": null,
+              "scale": {
+                "domain": [
+                  "Presente",
+                  "SSP2",
+                  "SSP3"
+                ],
+                "range": [
+                  "steelblue",
+                  "darkorange",
+                  "firebrick"
+                ]
+              },
+              "type": "ordinal"
+            },
+            "opacity": {
+              "condition": {
+                "param": "selection_param",
+                "value": 1.0,
+                "empty": false
+              },
+              "value": 0.3
+            },
+            "stroke": {
+              "field": "scenario",
+              "legend": null,
+              "scale": {
+                "domain": [
+                  "SSP2",
+                  "SSP3"
+                ],
+                "range": [
+                  "black",
+                  "black"
+                ]
+              },
+              "type": "nominal"
+            },
+            "strokeWidth": {
+              "condition": {
+                "param": "selection_param",
+                "value": 2.5,
+                "empty": false
+              },
+              "value": 1.0
+            },
+            "x": {
+              "axis": {
+                "domain": false,
+                "labelAngle": 0,
+                "title": ""
+              },
+              "field": "year",
+              "type": "ordinal"
+            },
+            "y": {
+              "axis": {
+                "domain": false,
+                "labelAngle": 0,
+                "orient": "right",
+                "title": ""
+              },
+              "field": "scenario",
+              "type": "ordinal"
+            }
+          },
+          "height": 50,
+          "name": "view_6",
+          "transform": [
+            {
+              "filter": "(datum.scenario !== 'Presente')"
+            }
+          ],
+          "width": 150
+        }
+      ],
+      "spacing": 20,
+      "title": "Select a scenario"
+    },
+    {
+      "hconcat": [
+        {
+          "vconcat": [
+            {
+              "mark": {
+                "type": "image"
+              },
+              "encoding": {
+                "url": {
+                  "field": "image_url",
+                  "type": "nominal"
+                }
+              },
+              "height": 400,
+              "transform": [
+                {
+                  "filter": {
+                    "param": "selection_param",
+                    "empty": false
+                  }
+                }
+              ],
+              "width": 600
+            },
+            {
+              "mark": {
+                "type": "text",
+                "align": "center",
+                "baseline": "middle",
+                "dy": 15,
+                "fontSize": 16
+              },
+              "encoding": {
+                "text": {
+                  "field": "selection_key",
+                  "type": "nominal"
+                }
+              },
+              "transform": [
+                {
+                  "filter": {
+                    "param": "selection_param",
+                    "empty": false
+                  }
+                }
+              ]
+            }
+          ],
+          "spacing": 5
+        },
+        {
+          "mark": {
+            "type": "bar"
+          },
+          "encoding": {
+            "color": {
+              "field": "suitability",
+              "legend": {
+                "title": "Idoneità"
+              },
+              "scale": {
+                "domain": [
+                  "idoneo",
+                  "non idoneo"
+                ],
+                "range": [
+                  "#2E8B57",
+                  "#CD853F"
+                ]
+              },
+              "sort": [
+                "idoneo",
+                "non idoneo"
+              ],
+              "type": "nominal"
+            },
+            "order": {
+              "field": "suitability",
+              "sort": "ascending",
+              "type": "nominal"
+            },
+            "tooltip": [
+              {
+                "field": "suitability",
+                "title": "Stato",
+                "type": "nominal"
+              },
+              {
+                "field": "percentage",
+                "format": ".2f",
+                "title": "Percentuale",
+                "type": "quantitative"
+              },
+              {
+                "field": "area_km2",
+                "format": ",.0f",
+                "title": "Area (km²)",
+                "type": "quantitative"
+              }
+            ],
+            "x": {
+              "axis": {
+                "labels": false,
+                "ticks": false
+              },
+              "field": "selection_key",
+              "title": "",
+              "type": "nominal"
+            },
+            "y": {
+              "axis": {
+                "format": "%"
+              },
+              "field": "area_km2",
+              "stack": "normalize",
+              "title": "Proporzione Area (%)",
+              "type": "quantitative"
+            }
+          },
+          "height": 400,
+          "transform": [
+            {
+              "filter": {
+                "param": "selection_param",
+                "empty": false
+              }
+            }
+          ],
+          "width": 100
+        }
+      ],
+      "data": {
+        "name": "data-2cd16dfc11f7866ba61459b52767daed"
+      },
+      "spacing": 20
+    }
+  ],
+  "params": [
+    {
+      "name": "selection_param",
+      "select": {
+        "type": "point",
+        "fields": [
+          "selection_key"
+        ],
+        "on": "click"
+      },
+      "value": [
+        {
+          "selection_key": "Presente"
+        }
+      ],
+      "views": [
+        "view_5",
+        "view_6"
+      ]
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "color": "independent"
+    }
+  },
+  "spacing": 10,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json",
+  "datasets": {
+    "data-2cd16dfc11f7866ba61459b52767daed": [
+      {
+        "year": 2024,
+        "scenario": "Presente",
+        "suitability": "idoneo",
+        "count": 4.173458543559845,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_present.png"
+      },
+      {
+        "year": 2024,
+        "scenario": "Presente",
+        "suitability": "non idoneo",
+        "count": 95.82654145644015,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_present.png"
+      },
+      {
+        "year": 2050,
+        "scenario": "SSP2",
+        "suitability": "idoneo",
+        "count": 3.893834834289388,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2050.png"
+      },
+      {
+        "year": 2050,
+        "scenario": "SSP2",
+        "suitability": "non idoneo",
+        "count": 96.1061651657106,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2050.png"
+      },
+      {
+        "year": 2070,
+        "scenario": "SSP2",
+        "suitability": "idoneo",
+        "count": 2.9645561832805707,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2070.png"
+      },
+      {
+        "year": 2070,
+        "scenario": "SSP2",
+        "suitability": "non idoneo",
+        "count": 97.03544381671942,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2070.png"
+      },
+      {
+        "year": 2100,
+        "scenario": "SSP2",
+        "suitability": "idoneo",
+        "count": 2.670634087147341,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2100.png"
+      },
+      {
+        "year": 2100,
+        "scenario": "SSP2",
+        "suitability": "non idoneo",
+        "count": 97.32936591285267,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp2_2100.png"
+      },
+      {
+        "year": 2050,
+        "scenario": "SSP3",
+        "suitability": "idoneo",
+        "count": 3.5811847868343647,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2050.png"
+      },
+      {
+        "year": 2050,
+        "scenario": "SSP3",
+        "suitability": "non idoneo",
+        "count": 96.41881521316563,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2050.png"
+      },
+      {
+        "year": 2070,
+        "scenario": "SSP3",
+        "suitability": "idoneo",
+        "count": 2.8232188134841603,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2070.png"
+      },
+      {
+        "year": 2070,
+        "scenario": "SSP3",
+        "suitability": "non idoneo",
+        "count": 97.17678118651584,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2070.png"
+      },
+      {
+        "year": 2100,
+        "scenario": "SSP3",
+        "suitability": "idoneo",
+        "count": 2.379984751230968,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2100.png"
+      },
+      {
+        "year": 2100,
+        "scenario": "SSP3",
+        "suitability": "non idoneo",
+        "count": 97.62001524876904,
+        "image_url": "https://pio-code.github.io/g6-2025-website/assets/charts/species/images_binary/Crowned_shrew_(Sorex_coronatus)_binary_habitat_ssp3_2100.png"
+      }
+    ],
+    "data-149c89bcde42738035916de5b334d235": [
+      {
+        "label": "Presente"
+      }
+    ]
+  }
+}
