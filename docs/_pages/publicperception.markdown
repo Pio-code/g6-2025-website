@@ -130,9 +130,7 @@ permalink: /publicperception.html
   <figure>
     <img src="{{ site.baseurl }}/assets/images/Emotions.png" alt="Emotional distribution by species" width="800">
 
-<figcaption>
-      
-Percentage distribution of Anger, Fear, Joy, and Sadness by species (Neutral excluded). Species are sorted by overall negative emotions (Anger + Fear + Sadness).</figcaption>
+
   </figure>
 
   <h3>Overall Trends</h3>
@@ -166,9 +164,7 @@ Percentage distribution of Anger, Fear, Joy, and Sadness by species (Neutral exc
   </ol>
 
   <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
-    <figcaption>
-      
-  World Cloud - Comments with Negative Emotions </figcaption>
+    
 
   <h2>Implications and Applications</h2>
   <p>By combining <strong>text mining, NLP, Transformer-based modeling, statistical visualization, and thematic word cloud analysis</strong>, this study offers a <strong>data-driven perspective on public perception</strong> of European mammals. Findings can guide:</p>
