@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 1604428,
         "percentage": 14.155878703070979,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_present.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -367,7 +367,7 @@
         "suitability": "non idoneo",
         "area_km2": 9729577,
         "percentage": 85.84412129692902,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_present.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 314677,
         "percentage": 2.775909344365564,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp2_2050.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 11021320,
         "percentage": 97.22409065563443,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp2_2050.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 229762,
         "percentage": 2.026835398774365,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp2_2070.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 11106235,
         "percentage": 97.97316460122563,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp2_2070.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 183488,
         "percentage": 1.6186313387344757,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp2_2100.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 11152509,
         "percentage": 98.38136866126553,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp2_2100.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 292191,
         "percentage": 2.5775500822733104,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp3_2050.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 11043806,
         "percentage": 97.4224499177267,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp3_2050.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 196174,
         "percentage": 1.7305403309475116,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp3_2070.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11139823,
         "percentage": 98.26945966905248,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp3_2070.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 108798,
         "percentage": 0.9597567818692966,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp3_2100.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11227199,
         "percentage": 99.04024321813071,
-        "image_url": "./assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_habitat_ssp3_2100.png",
+        "image_url": "assets/charts/species/images_binary/Wolverine_(Gulo_gulo)_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],

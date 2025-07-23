@@ -131,7 +131,7 @@
             "name": "Eurasian Lynx",
             "emoji": "🐱",
             "image": "/assets/images/lince_eurasiatica.jpg",
-            "chart": "assets/charts/species/eurasian_lynx_(lynx_lynx).json.json"
+            "chart": "assets/charts/species/eurasian_lynx_(lynx_lynx).json"
           }
         ]
       },
@@ -208,7 +208,7 @@
         "name": "Ursidae",
         "children": [
           {
-            "name": "brown Bear",
+            "name": "Brown Bear",
             "emoji": "🐻",
             "image": "/assets/images/orso_bruno.jpg",
             "chart": "assets/charts/species/brown_bear_(ursus_arctos).json"
