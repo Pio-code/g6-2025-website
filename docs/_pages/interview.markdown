@@ -89,6 +89,27 @@ vega: true
     This more traditional approach remains <em>crucial for exploring long-term and complex environmental challenges</em>.
   </div>
 
+<!-- Titolo con numero e emoji -->
+<div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.5rem;">
+  <div style="font-size: 1.8rem; font-weight: bold; color: #222;">1.</div>
+  <h2 style="margin: 0; font-size: 1.6rem; font-weight: 700; font-family: Georgia, serif;">
+    <span style="font-size: 1.2rem;">📰</span> The Evolution of Environmental Journalism
+  </h2>
+</div>
+
+<!-- Citazione -->
+<blockquote style="background-color: #f4f4f4; padding: 1.4rem 1.8rem; border-left: 5px solid #999; border-radius: 6px; margin-bottom: 2rem; font-style: italic; font-size: 1.05rem; color: #333; line-height: 1.6; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
+  “False balance is still very present: facts and baseless opinions are placed on the same level, creating confusion rather than clarity.”
+</blockquote>
+
+<!-- Commento -->
+<div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px;">
+  Pasotti <em>strongly criticizes the persistence of <strong>false balance</strong></em> in environmental reporting.  
+  He explains how <strong>talk shows and social media</strong> often prioritize <strong>conflict and spectacle</strong>, giving undue visibility to unqualified voices and undermining public understanding.  
+  In contrast, he praises <strong>radio and print media</strong> for maintaining <strong>depth, accuracy, and context</strong>, offering more meaningful coverage — even if to a smaller audience.  
+  This more traditional approach remains <em>crucial for exploring long-term and complex environmental challenges</em>.
+</div>
+
 </div>
 
 <div style="margin-bottom: 3rem;">
