@@ -6,28 +6,28 @@
         "name": "Bovidae",
         "children": [
           {
+            "name": "Alpine Ibex",
+            "emoji": "🐐",
+            "image": "/assets/images/stambecco_delle_alpi.jpg",
+            "chart": "assets/charts/species/alpine_ibex_(capra_ibex).json"
+          },
+          {
             "name": "Barbary sheep",
             "emoji": "🐐",
             "image": "/assets/images/ammotrago.jpg",
             "chart": "assets/charts/species/ammotrago.json"
           },
           {
+            "name": "Chamois",
+            "emoji": "🐐",
+            "image": "/assets/images/camoscio_delle_alpi.jpg",
+            "chart": "assets/charts/species/chamois_(rupicapra_rupicapra).json"
+          },
+          {
             "name": "European Bison",
             "emoji": "🐐",
             "image": "/assets/images/bisonte_europeo.jpg",
             "chart": "assets/charts/species/european_bison_(bison_bonasus).json"
-          },
-          {
-            "name": "West Caucasian Tur",
-            "emoji": "🐐",
-            "image": "/assets/images/tur_del_caucaso_occidentale.jpg",
-            "chart": "assets/charts/species/west_caucasian_tur_(capra_caucasica).json"
-          },
-          {
-            "name": "Alpine Ibex",
-            "emoji": "🐐",
-            "image": "/assets/images/stambecco_delle_alpi.jpg",
-            "chart": "assets/charts/species/alpine_ibex_(capra_ibex).json"
           },
           {
             "name": "Iberian Ibex",
@@ -42,16 +42,22 @@
             "chart": "assets/charts/species/muskox_(ovibos_moschatus).json"
           },
           {
-            "name": "Chamois",
+            "name": "West Caucasian Tur",
             "emoji": "🐐",
-            "image": "/assets/images/camoscio_delle_alpi.jpg",
-            "chart": "assets/charts/species/chamois_(rupicapra_rupicapra).json"
+            "image": "/assets/images/tur_del_caucaso_occidentale.jpg",
+            "chart": "assets/charts/species/west_caucasian_tur_(capra_caucasica).json"
           }
         ]
       },
       {
         "name": "Cervidae",
         "children": [
+          {
+            "name": "Chinese Muntjac",
+            "emoji": "🦌",
+            "image": "/assets/images/muntjak_della_cina.jpg",
+            "chart": "assets/charts/species/chinese_muntjac_(muntiacus_reevesi).json"
+          },
           {
             "name": "Elk",
             "emoji": "🦌",
@@ -63,12 +69,6 @@
             "emoji": "🦌",
             "image": "/assets/images/daino.jpg",
             "chart": "assets/charts/species/fallow_deer_(dama_dama).json"
-          },
-          {
-            "name": "Chinese Muntjac",
-            "emoji": "🦌",
-            "image": "/assets/images/muntjak_della_cina.jpg",
-            "chart": "assets/charts/species/chinese_muntjac_(muntiacus_reevesi).json"
           },
           {
             "name": "Reindeer",
@@ -87,6 +87,18 @@
         "name": "Canidae",
         "children": [
           {
+            "name": "Arctic Fox",
+            "emoji": "🐺",
+            "image": "/assets/images/volpe_artica.jpg",
+            "chart": "assets/charts/species/arctic_fox_(vulpes_lagopus).json"
+          },
+          {
+            "name": "Corsac Fox",
+            "emoji": "🐺",
+            "image": "/assets/images/volpe_corsac.jpg",
+            "chart": "assets/charts/species/corsac_fox_(vulpes_corsac).json"
+          },
+          {
             "name": "Golden Jackal",
             "emoji": "🐺",
             "image": "/assets/images/sciacallo_dorato.jpg",
@@ -103,18 +115,6 @@
             "emoji": "🐺",
             "image": "/assets/images/cane_procione.jpg",
             "chart": "assets/charts/species/raccoon_dog_(nyctereutes_procyonoides).json"
-          },
-          {
-            "name": "Corsac Fox",
-            "emoji": "🐺",
-            "image": "/assets/images/volpe_corsac.jpg",
-            "chart": "assets/charts/species/corsac_fox_(vulpes_corsac).json"
-          },
-          {
-            "name": "Arctic Fox",
-            "emoji": "🐺",
-            "image": "/assets/images/volpe_artica.jpg",
-            "chart": "assets/charts/species/arctic_fox_(vulpes_lagopus).json"
           }
         ]
       },
@@ -122,16 +122,16 @@
         "name": "Felidae",
         "children": [
           {
-            "name": "European Wildcat",
-            "emoji": "🐱",
-            "image": "/assets/images/gatto_selvatico.jpg",
-            "chart": "assets/charts/species/european_wildcat_(felis_silvestris).json"
-          },
-          {
             "name": "Eurasian Lynx",
             "emoji": "🐱",
             "image": "/assets/images/lince_eurasiatica.jpg",
             "chart": "assets/charts/species/eurasian_lynx_(lynx_lynx).json"
+          },
+          {
+            "name": "European Wildcat",
+            "emoji": "🐱",
+            "image": "/assets/images/gatto_selvatico.jpg",
+            "chart": "assets/charts/species/european_wildcat_(felis_silvestris).json"
           }
         ]
       },
@@ -150,28 +150,10 @@
         "name": "Mustelidae",
         "children": [
           {
-            "name": "Wolverine",
-            "emoji": "🦦",
-            "image": "/assets/images/ghiottone.jpg",
-            "chart": "assets/charts/species/wolverine_(gulo_gulo).json"
-          },
-          {
             "name": "Beech Marten",
             "emoji": "🦦",
             "image": "/assets/images/faina.jpg",
             "chart": "assets/charts/species/beech_marten_(martes_foina).json"
-          },
-          {
-            "name": "European Pine Marten",
-            "emoji": "🦦",
-            "image": "/assets/images/martora.jpg",
-            "chart": "assets/charts/species/european_pine_marten_(martes_martes).json"
-          },
-          {
-            "name": "Stoat",
-            "emoji": "🦦",
-            "image": "/assets/images/ermellino.jpg",
-            "chart": "assets/charts/species/stoat_(mustela_erminea).json"
           },
           {
             "name": "European Mink",
@@ -180,16 +162,34 @@
             "chart": "assets/charts/species/european_mink_(mustela_lutreola).json"
           },
           {
-            "name": "Least Weasel",
+            "name": "European Pine Marten",
             "emoji": "🦦",
-            "image": "/assets/images/donnola.jpg",
-            "chart": "assets/charts/species/least_weasel_(mustela_nivalis).json"
+            "image": "/assets/images/martora.jpg",
+            "chart": "assets/charts/species/european_pine_marten_(martes_martes).json"
           },
           {
             "name": "European Polecat",
             "emoji": "🦦",
             "image": "/assets/images/puzzola_europea.jpg",
             "chart": "assets/charts/species/european_polecat_(mustela_putorius).json"
+          },
+          {
+            "name": "Least Weasel",
+            "emoji": "🦦",
+            "image": "/assets/images/donnola.jpg",
+            "chart": "assets/charts/species/least_weasel_(mustela_nivalis).json"
+          },
+          {
+            "name": "Stoat",
+            "emoji": "🦦",
+            "image": "/assets/images/ermellino.jpg",
+            "chart": "assets/charts/species/stoat_(mustela_erminea).json"
+          },
+          {
+            "name": "Wolverine",
+            "emoji": "🦦",
+            "image": "/assets/images/ghiottone.jpg",
+            "chart": "assets/charts/species/wolverine_(gulo_gulo).json"
           }
         ]
       },
@@ -241,24 +241,6 @@
             "chart": "assets/charts/species/bicoloured_shrew_(crocidura_leucodon).json"
           },
           {
-            "name": "Greater White-toothed Shrew",
-            "emoji": "🌀",
-            "image": "/assets/images/crocidura_rossiccia.jpg",
-            "chart": "assets/charts/species/greater_white-toothed_shrew_(crocidura_russula).json"
-          },
-          {
-            "name": "Lesser White-toothed Shrew",
-            "emoji": "🌀",
-            "image": "/assets/images/crocidura_minore.jpg",
-            "chart": "assets/charts/species/lesser_white-toothed_shrew_(crocidura_suaveolens).json"
-          },
-          {
-            "name": "Eurasian Water Shrew",
-            "emoji": "🌀",
-            "image": "/assets/images/toporagno_dacqua.jpg",
-            "chart": "assets/charts/species/eurasian_water_shrew_(neomys_fodiens).json"
-          },
-          {
             "name": "Common Shrew",
             "emoji": "🌀",
             "image": "/assets/images/toporagno_comune.jpg",
@@ -271,11 +253,29 @@
             "chart": "assets/charts/species/crowned_shrew_(sorex_coronatus).json"
           },
           {
+            "name": "Greater White-toothed Shrew",
+            "emoji": "🌀",
+            "image": "/assets/images/crocidura_rossiccia.jpg",
+            "chart": "assets/charts/species/greater_white-toothed_shrew_(crocidura_russula).json"
+          },
+          {
             "name": "Eurasian Pygmy Shrew",
             "emoji": "🌀",
             "image": "/assets/images/toporagno_nano.jpg",
             "chart": "assets/charts/species/eurasian_pygmy_shrew_(sorex_minutus).json"
-          }
+          },
+          {
+            "name": "Eurasian Water Shrew",
+            "emoji": "🌀",
+            "image": "/assets/images/toporagno_dacqua.jpg",
+            "chart": "assets/charts/species/eurasian_water_shrew_(neomys_fodiens).json"
+          },
+          {
+            "name": "Lesser White-toothed Shrew",
+            "emoji": "🌀",
+            "image": "/assets/images/crocidura_minore.jpg",
+            "chart": "assets/charts/species/lesser_white-toothed_shrew_(crocidura_suaveolens).json"
+          },
         ]
       },
       {
@@ -320,10 +320,22 @@
         "name": "Cricetidae",
         "children": [
           {
+            "name": "Common Vole",
+            "emoji": "🐹",
+            "image": "/assets/images/arvicola_campestre.jpg",
+            "chart": "assets/charts/species/common_vole_(microtus_arvalis).json"
+          },
+          {
             "name": "European Water Vole",
             "emoji": "🐹",
             "image": "/assets/images/arvicola_acquatica_europea.jpg",
             "chart": "assets/charts/species/european_water_vole_(arvicola_amphibius).json"
+          },
+          {
+            "name": "Mediterranean Pine Vole",
+            "emoji": "🐹",
+            "image": "/assets/images/arvicola_mediterranea.jpg",
+            "chart": "assets/charts/species/mediterranean_pine_vole_(microtus_duodecimcostatus).json"
           },
           {
             "name": "Montane Water Vole",
@@ -337,23 +349,12 @@
             "image": "/assets/images/lemming_norvegese.jpg",
             "chart": "assets/charts/species/norway_lemming_(lemmus_lemmus).json"
           },
+
           {
             "name": "Tailed Field Vole",
             "emoji": "🐹",
             "image": "/assets/images/arvicola_agreste.jpg",
             "chart": "assets/charts/species/short-tailed_field_vole_(microtus_agrestis).json"
-          },
-          {
-            "name": "Common Vole",
-            "emoji": "🐹",
-            "image": "/assets/images/arvicola_campestre.jpg",
-            "chart": "assets/charts/species/common_vole_(microtus_arvalis).json"
-          },
-          {
-            "name": "Mediterranean Pine Vole",
-            "emoji": "🐹",
-            "image": "/assets/images/arvicola_mediterranea.jpg",
-            "chart": "assets/charts/species/mediterranean_pine_vole_(microtus_duodecimcostatus).json"
           },
           {
             "name": "Wood Lemming",
@@ -378,16 +379,16 @@
         "name": "Gliridae",
         "children": [
           {
-            "name": "Garden Dormouse",
-            "emoji": "😴",
-            "image": "/assets/images/quercino.jpg",
-            "chart": "assets/charts/species/garden_dormouse_(eliomys_quercinus).json"
-          },
-          {
             "name": "European Edible Dormouse",
             "emoji": "😴",
             "image": "/assets/images/ghiro.jpg",
             "chart": "assets/charts/species/european_edible_dormouse_(glis_glis).json"
+          },
+          {
+            "name": "Garden Dormouse",
+            "emoji": "😴",
+            "image": "/assets/images/quercino.jpg",
+            "chart": "assets/charts/species/garden_dormouse_(eliomys_quercinus).json"
           },
           {
             "name": "Hazel Dormouse",
@@ -412,22 +413,10 @@
         "name": "Muridae",
         "children": [
           {
-            "name": "Striped Field Mouse",
+            "name": "Black Rat",
             "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_a_strisce.jpg",
-            "chart": "assets/charts/species/striped_field_mouse_(apodemus_agrarius).json"
-          },
-          {
-            "name": "Yellow-necked Mouse",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico_dal_collo_giallo.jpg",
-            "chart": "assets/charts/species/yellow-necked_mouse_(apodemus_flavicollis).json"
-          },
-          {
-            "name": "Wood Mouse",
-            "emoji": "🐭",
-            "image": "/assets/images/topo_selvatico.jpg",
-            "chart": "assets/charts/species/wood_mouse_(apodemus_sylvaticus).json"
+            "image": "/assets/images/ratto_nero.jpg",
+            "chart": "assets/charts/species/black_rat_(rattus_rattus).json"
           },
           {
             "name": "Eurasian Harvest Mouse",
@@ -442,10 +431,22 @@
             "chart": "assets/charts/species/house_mouse_(mus_musculus).json"
           },
           {
-            "name": "Black Rat",
+            "name": "Striped Field Mouse",
             "emoji": "🐭",
-            "image": "/assets/images/ratto_nero.jpg",
-            "chart": "assets/charts/species/black_rat_(rattus_rattus).json"
+            "image": "/assets/images/topo_selvatico_a_strisce.jpg",
+            "chart": "assets/charts/species/striped_field_mouse_(apodemus_agrarius).json"
+          },
+          {
+            "name": "Wood Mouse",
+            "emoji": "🐭",
+            "image": "/assets/images/topo_selvatico.jpg",
+            "chart": "assets/charts/species/wood_mouse_(apodemus_sylvaticus).json"
+          },
+          {
+            "name": "Yellow-necked Mouse",
+            "emoji": "🐭",
+            "image": "/assets/images/topo_selvatico_dal_collo_giallo.jpg",
+            "chart": "assets/charts/species/yellow-necked_mouse_(apodemus_flavicollis).json"
           }
         ]
       },
@@ -453,16 +454,16 @@
         "name": "Sciuridae",
         "children": [
           {
-            "name": "Bobak Marmot",
-            "emoji": "🐿️",
-            "image": "/assets/images/marmotta_bobak.jpg",
-            "chart": "assets/charts/species/bobak_marmot_(marmota_bobak).json"
-          },
-          {
             "name": "Alpine Marmot",
             "emoji": "🐿️",
             "image": "/assets/images/marmotta_delle_alpi.jpg",
             "chart": "assets/charts/species/alpine_marmot_(marmota_marmota).json"
+          },
+          {
+            "name": "Bobak Marmot",
+            "emoji": "🐿️",
+            "image": "/assets/images/marmotta_bobak.jpg",
+            "chart": "assets/charts/species/bobak_marmot_(marmota_bobak).json"
           },
           {
             "name": "European Souslik",
