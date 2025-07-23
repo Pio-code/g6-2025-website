@@ -358,7 +358,7 @@
         "suitability": "idoneo",
         "area_km2": 38093,
         "percentage": 0.3360947873236336,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-present.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-present.png",
         "selection_key": "Presente"
       },
       {
@@ -376,7 +376,7 @@
         "suitability": "idoneo",
         "area_km2": 5519,
         "percentage": 0.04868561627177566,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -385,7 +385,7 @@
         "suitability": "non idoneo",
         "area_km2": 11330478,
         "percentage": 99.95131438372823,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp2_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp2_2050.png",
         "selection_key": "SSP2 2050"
       },
       {
@@ -394,7 +394,7 @@
         "suitability": "idoneo",
         "area_km2": 3188,
         "percentage": 0.02812280207907606,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -403,7 +403,7 @@
         "suitability": "non idoneo",
         "area_km2": 11332809,
         "percentage": 99.97187719792092,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp2_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp2_2070.png",
         "selection_key": "SSP2 2070"
       },
       {
@@ -412,7 +412,7 @@
         "suitability": "idoneo",
         "area_km2": 2934,
         "percentage": 0.025882152227104504,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -421,7 +421,7 @@
         "suitability": "non idoneo",
         "area_km2": 11333063,
         "percentage": 99.97411784777289,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp2_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp2_2100.png",
         "selection_key": "SSP2 2100"
       },
       {
@@ -430,7 +430,7 @@
         "suitability": "idoneo",
         "area_km2": 6288,
         "percentage": 0.05546931602046119,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -439,7 +439,7 @@
         "suitability": "non idoneo",
         "area_km2": 11329709,
         "percentage": 99.94453068397954,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp3_2050.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp3_2050.png",
         "selection_key": "SSP3 2050"
       },
       {
@@ -448,7 +448,7 @@
         "suitability": "idoneo",
         "area_km2": 2329,
         "percentage": 0.020545171280479342,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -457,7 +457,7 @@
         "suitability": "non idoneo",
         "area_km2": 11333668,
         "percentage": 99.97945482871951,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp3_2070.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp3_2070.png",
         "selection_key": "SSP3 2070"
       },
       {
@@ -466,7 +466,7 @@
         "suitability": "idoneo",
         "area_km2": 399,
         "percentage": 0.00351976098793957,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       },
       {
@@ -475,7 +475,7 @@
         "suitability": "non idoneo",
         "area_km2": 11335598,
         "percentage": 99.99648023901206,
-        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_(Ammotragus_lervia)_binary_reliable-ssp3_2100.png",
+        "image_url": "./assets/charts/species/images_binary/Barbary_sheep_binary_reliable-ssp3_2100.png",
         "selection_key": "SSP3 2100"
       }
     ],
