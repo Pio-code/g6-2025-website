@@ -59,15 +59,15 @@ permalink: /publicperception.html
   <h2>Quantitative Insights: Mentions per Species</h2>
   <p>The first stage focused on measuring how frequently each species is discussed across Reddit conversations.</p>
   <figure>
-    <img src="/assets/images/grafico 1.png" alt="Total mentions (posts + comments) per species">
+    <img src="/assets/images/grafico1.png" alt="Total mentions (posts + comments) per species">
     <figcaption>Figure 1: Grey wolf and polar bear dominate total mentions across posts and comments.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/grafico 2.png" alt="Most mentioned species in posts">
+    <img src="/assets/images/grafico2.png" alt="Most mentioned species in posts">
     <figcaption>Figure 2: Percentage distribution of species mentions in posts.</figcaption>
   </figure>
   <figure>
-    <img src="/assets/images/grafico 3.png" alt="Most mentioned species in comments">
+    <img src="/assets/images/grafico3.png" alt="Most mentioned species in comments">
     <figcaption>Figure 3: Percentage distribution of species mentions in comments.</figcaption>
   </figure>
 
@@ -79,7 +79,7 @@ permalink: /publicperception.html
     <li>Emotions were categorized into four primary classes plus neutrality: <em>Anger</em>, <em>Fear</em>, <em>Joy</em>, and <em>Neutral</em>.</li>
   </ul>
   <figure>
-    <img src="/assets/images/grafico 4.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
+    <img src="/assets/images/grafico4.png" alt="Percentage distribution of anger, fear, joy, and neutral by species">
     <figcaption>Figure 4: Emotional tone distribution per species based on Reddit discussions.</figcaption>
   </figure>
 
