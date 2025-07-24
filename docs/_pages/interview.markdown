@@ -52,19 +52,31 @@ vega: true
 
 <hr style="margin-bottom: 2rem;">
 
-<ul style="font-size: 1rem; line-height: 1.6; color: #333; margin-bottom: 2.5rem;">
-  <li><strong><em>i. The Evolution of Environmental Journalism</em></strong></li>
-  <li><strong><em>ii. The Challenges of Communicating Climate Change</em></strong></li>
-  <li><strong><em>iii. Gaps in Environmental Coverage</em></strong></li>
-  <li><strong><em>iv. Media Catastrophism</em></strong></li>
-  <li><strong><em>v. The Impact on Animal Species</em></strong></li>
-  <li><strong><em>vi. AI and the Future of Science Communication</em></strong></li>
-  <li><strong><em>vii. Is There Still Time?</em></strong></li>
-  <li><strong><em>viii. Advice for Young Communicators</em></strong></li>
-</ul>
-<hr style="margin-bottom: 3rem;">
+<!-- Contenitore flessibile: lista a sinistra, immagine a destra -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; margin-bottom: 3rem; flex-wrap: wrap;">
 
- <div style="margin-bottom: 3rem;">
+  <!-- Colonna sinistra: elenco -->
+  <ul style="flex: 1; font-size: 1rem; line-height: 1.6; color: #333; margin: 0;">
+    <li><strong><em>i. The Evolution of Environmental Journalism</em></strong></li>
+    <li><strong><em>ii. The Challenges of Communicating Climate Change</em></strong></li>
+    <li><strong><em>iii. Gaps in Environmental Coverage</em></strong></li>
+    <li><strong><em>iv. Media Catastrophism</em></strong></li>
+    <li><strong><em>v. The Impact on Animal Species</em></strong></li>
+    <li><strong><em>vi. AI and the Future of Science Communication</em></strong></li>
+    <li><strong><em>vii. Is There Still Time?</em></strong></li>
+    <li><strong><em>viii. Advice for Young Communicators</em></strong></li>
+  </ul>
+
+  <!-- Colonna destra: immagine -->
+  <div style="flex: 0 0 240px;">
+    <img src="/assets/images/poalrbearin.jpg"
+         alt="Polar bear"
+         style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  </div>
+
+</div>
+
+<hr style="margin-bottom: 3rem;">
 
  <!-- Titolo con Takeaway 1 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
