@@ -58,6 +58,8 @@ vega: true
   <li><strong><em>iv. Media Catastrophism</em></strong></li>
   <li><strong><em>v. The Impact on Animal Species</em></strong></li>
   <li><strong><em>vi. AI and the Future of Science Communication</em></strong></li>
+  <li><strong><em>vii. Is There Still Time?</em></strong></li>
+  <li><strong><em>viii. Advice for Young Communicators</em></strong></li>
 </ul>
 <hr style="margin-bottom: 3rem;">
 
@@ -114,8 +116,6 @@ vega: true
   The rise of digital platforms has exposed scientists and communicators to <strong>waves of online abuse</strong>, <em>often coordinated to discredit legitimate research</em>.  
   Pasotti reflects on these difficult years, but also notes a <strong>positive shift</strong>: as <strong>climate impacts</strong> become more <strong>visible and tangible</strong>, more people are showing <strong>trust in scientific data</strong>.  
   <em>This change marks a</em> <strong>turning point</strong> <em>in public engagement, though the space for</em> <strong>constructive dialogue</strong> <em>remains delicate and must be carefully nurtured.</em>
-</div>
-
 </div>
 
 <!-- Titolo con Takeaway 3 e emoji integrato -->
