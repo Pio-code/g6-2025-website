@@ -112,11 +112,13 @@ vega: true
 </blockquote>
 
 <!-- Commento -->
-<div style="font-size: 1rem; line-height: 1.6; color: #333; font-family: 'Merriweather', serif;max-width: 800px;">
+<div style="font-size: 1.05rem; line-height: 1.6; color: #333; font-family: 'Merriweather', serif;max-width: 800px;">
   The rise of digital platforms has exposed scientists and communicators to <strong>waves of online abuse</strong>, <em>often coordinated to discredit legitimate research</em>.  
   Pasotti reflects on these difficult years, but also notes a <strong>positive shift</strong>: as <strong>climate impacts</strong> become more <strong>visible and tangible</strong>, more people are showing <strong>trust in scientific data</strong>.  
   <em>This change marks a</em> <strong>turning point</strong> <em>in public engagement, though the space for</em> <strong>constructive dialogue</strong> <em>remains delicate and must be carefully nurtured.</em>
 </div>
+
+<div style="margin-bottom: 2.5rem;"></div>
 
 <!-- Titolo con Takeaway 3 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
