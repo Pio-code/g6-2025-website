@@ -10,8 +10,21 @@ header_title: "The European Mammal Atlas"
 header_type: hero
 subtitle: "Climate Change, Land Use and the Future of Terrestrial Wildlife"
 vega: true
-
 ---
+
+<style>
+.chulapa-subtitle {
+  background-color: rgba(255, 255, 255, 0.9); /* bianco semitrasparente */
+  color: #222;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  display: inline-block;
+  font-style: italic;
+  max-width: 80%;
+  text-align: center;
+}
+</style>
+
 <!-- Homepage – The Future of European Mammals -->
 <section style="max-width: 880px; margin: 0 auto; padding: 2rem; font-family: 'Merriweather', serif; font-size: 1.05rem; line-height: 1.8; color: #222;">
 
