@@ -2,6 +2,11 @@
 layout: default
 title: "Interview"
 vega: true
+header_img: assets/images/polarbearind.png
+header_title: "Interview"
+header_type: hero
+subtitle: "Every Degree Matters"
+vega: true
 ---
 
 <!-- Intestazione -->
