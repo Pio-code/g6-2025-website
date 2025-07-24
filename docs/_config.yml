@@ -50,10 +50,6 @@ navbar:
     img: "./assets/images/Logo_masthead.png" # don't change this
     url: /
   nav:
-    - title: Guide
-      url: /guide.html
-    - title: Example page
-      url: /example.html
     - title: Species explorer
       url: /species_explorer.html
     - title: Communication
@@ -63,26 +59,10 @@ navbar:
           url: /publicperception.html
         - title: Interview
           url: /interview.html
+    - title: Data
+      url: /data.html
     - title: DISCLAIMER
       url: /disclaimer.html
-    - title: in-depth
-      child:
-        - title: Local development
-          url: /local-development.html
-        - title: Markdown
-          url: /markdown.html
-        - title: Charts
-          url: /charts.html
-        - title: Folium
-          url: /folium.html
-        - title: Sliders
-          url: /slider.html
-        - title: Data Collection
-          url: /datacollection.html
-        - title: Data Cleaning
-          url: /datacleaning.html
-        - title: Data Enrichment
-          url: /dataenrichment.html
     - title: SBD Master # this must be always the last item in the navbar, don't change it
       url: https://masterbigdata.it/
 
