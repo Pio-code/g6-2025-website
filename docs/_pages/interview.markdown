@@ -67,12 +67,11 @@ vega: true
     <li><strong><em>viii. Advice for Young Communicators</em></strong></li>
   </ul>
 
-  <!-- Colonna destra: immagine -->
-  <div style="flex: 0 0 240px;">
-    <img src="docs/assets/images/poalrbearin.jpg"
-         alt="Polar bear"
-         style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </div>
+<div style="flex: 0 0 240px;">
+  <img src="{{ site.baseurl }}/assets/images/poalrbearin.jpg"
+       alt="Polar bear"
+       style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+</div>
 
 </div>
 
