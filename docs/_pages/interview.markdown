@@ -5,6 +5,7 @@ subtitle: "A conversation with Jacopo Pasotti"
 vega: true
 ---
 
+<div>
   <!-- Titolo principale a sinistra -->
   <div style="font-size: 2.2rem; font-weight: 600; font-style: italic; text-align: left; max-width: 60%;">
     The European Mammal Atlas
