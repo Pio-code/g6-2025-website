@@ -1,23 +1,18 @@
 ---
 layout: default
-title: "Every Degree Matters"
-subtitle: "A conversation with Jacopo Pasotti"
+title: "Interview"
 vega: true
 ---
 
-<div>
-  <!-- Titolo principale a sinistra -->
-  <div style="font-size: 2.2rem; font-weight: 600; font-style: italic; text-align: left; max-width: 60%;">
-    The European Mammal Atlas
-  </div>
-
-  <!-- Sottotitolo a destra -->
-  <div style="font-size: 1rem; font-style: italic; text-align: right;">
+<!-- Intestazione -->
+<div style="text-align: center; margin-bottom: 2rem;">
+  <h1 style="margin-bottom: 0.3rem; font-size: 2.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
+    Every Degree Matters
+  </h1>
+  <p style="font-size: 1rem; font-style: italic; margin-top: 0;">
     A conversation with Jacopo Pasotti
-  </div>
-
+  </p>
 </div>
-
 
   <!-- Contenitore a due colonne -->
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
