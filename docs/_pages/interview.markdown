@@ -2,7 +2,7 @@
 layout: default
 title: "Interview"
 vega: true
-header_img: assets/images/polarbearind.png
+header_img: assets/images/polarbearin.jpg
 header_title: "Every Degree Matters"
 header_type: hero
 subtitle: "A conversation with Jacopo Pasotti"
@@ -17,7 +17,7 @@ vega: true
   # <p style="font-size: 1rem; font-style: italic; margin-top: 0; margin-bottom: 1.5rem;">
     # A Conversation with Jacopo Pasotti
   # </p>
-# </div>
+  </div>
 
 <!-- Sezione immagine + bio + introduzione -->
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
