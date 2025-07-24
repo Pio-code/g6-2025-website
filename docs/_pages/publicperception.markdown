@@ -141,7 +141,7 @@ vega: true
 This trend appears to reflect a general perception of environmental degradation and human impact on the planet.</p>
 
 <figure>
-    <img src="{{site.baseurl}}/assets/images/dist.svg" alt="Emotional distribution by species" width="800">
+    <img src="{{site.baseurl}}/assets/images/dist.png" alt="Emotional distribution by species" width="800">
   </figure>
 
  <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -156,7 +156,7 @@ This trend appears to reflect a general perception of environmental degradation 
 </div>
   <p>The <strong>word cloud</strong> highlights the most frequent words from comments classified with fear, anger or sadness, indicating the <strong>themes driving negative emotions</strong>. The analysis suggests a recurring focus on climate-related concerns – often tied to species like the polar bear – alongside discussions around human-wildlife conflict, particularly involving wolves and bears. There also appears to be a persistent interest in broader ecological themes such as wildlife and habitat conservation.</p>
 
-  <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
+  <img src="{{site.baseurl}}/assets/images/wc.png" alt="Wordcloud Comments with Negative Emotions">
 
 </div>
     
