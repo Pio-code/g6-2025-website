@@ -59,6 +59,8 @@ navbar:
           url: /interview.html
     - title: Data
       url: /data.html
+    - title: Model 
+      url: /Model.html
     - title: Species explorer
       url: /species_explorer.html
     - title: DISCLAIMER
