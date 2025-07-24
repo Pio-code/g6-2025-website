@@ -35,7 +35,7 @@ vega: true
     </h2>
   </div>
 </div>
-  <p>To ensure a <strong>systematic and reproducible analysis</strong>, the workflow was structured into three stages:</p>
+  <p>To ensure a systematic and reproducible analysis, the workflow was structured into three stages:</p>
   <ol>
     <li><strong>Reddit Data Extraction:</strong>
       <ul>
@@ -68,7 +68,7 @@ vega: true
     </h2>
   </div>
 </div>
-  <p><strong>Grey wolf</strong> and <strong> polar bear</strong> dominate the discourse, jointly accounting for <strong>over 70% of all mentions</strong>. In contrast, <strong>red deer</strong> and <strong>red fox</strong> receive moderate attention, while other species (<strong> lynx, hedgehog, mole, wildcat</strong>) are <strong>virtually absent</strong> with just a few mentions each.</p>
+  <p><strong>Grey wolf</strong> and <strong> polar bear</strong> dominate the discourse, jointly accounting for over 70% of all mentions. In contrast, <strong>red deer</strong> and <strong>red fox</strong> receive moderate attention, while other species (lynx, hedgehog, mole, wildcat) are virtually absent with just a few mentions each.</p>
 
   <p>This reflects a typical trend in environmental communication, where <strong>iconic or controversial species attract disproportionate focus</strong>, while <strong>less conspicuous species remain underrepresented</strong>.</p>
 
@@ -95,42 +95,42 @@ vega: true
   <p>To better capture the <strong>emotional framing</strong> of Reddit discussions, we applied a 
   <strong>Transformer-based deep learning model</strong>, DistilRoBERTa 
   (<em>j-hartmann/emotion-english-distilroberta-base</em>), optimized for 
-  <strong>multi-class emotion detection</strong>.</p>
+  multi-class emotion detection.</p>
 
   <p>We focused on <strong>four emotions only</strong>: 
   <em>Anger, Fear, Joy, and Sadness</em>. The distribution reveals distinct 
   emotional patterns by species:</p>
 
   <ul>
-    <li><strong>🐺 Grey wolf:</strong> Shows the <strong>highest overall negative sentiment</strong>, 
-      with <strong>43.2% anger</strong>, <strong>29.6% fear</strong>, and <strong>22.1% sadness</strong>. 
-      Most discussions center on <strong>livestock predation, safety concerns, and 
-      human-wildlife conflicts</strong>, reflecting wolves’ controversial role in 
+    <li><strong>🐺 Grey wolf:</strong> Shows the highest overall negative sentiment, 
+      with 43.2% anger, 29.6% fear and 22.1% sadness. 
+      Most discussions center on livestock predation, safety concerns, and 
+      human-wildlife conflicts, reflecting wolves’ controversial role in 
       conservation debates.</li>
 
     <li><strong>🦌 Roe deer:</strong> Exhibits <strong>49.1% fear</strong> and <strong>16.4% sadness</strong>, 
       mostly connected to <strong>road accidents and incidental encounters</strong>. 
-      Joy is minimal (<strong>7.3%</strong>).</li>
+      Joy is minimal (7.3%/).</li>
 
     <li><strong>🐻 Polar bear:</strong> Dominated by <strong>fear (36.4%)</strong> and 
-      <strong>sadness (25.3%)</strong>, often tied to <strong>climate crisis narratives</strong> and 
-      <strong>endangered status</strong> (keywords like “melting”, “climate”, “endangered”). 
-      Joy remains low (<strong>11.5%</strong>).</li>
+      <strong>sadness (25.3%)</strong>, often tied to climate crisis narratives and 
+      endangered status(keywords like “melting”, “climate”, “endangered”). 
+      Joy remains low (11.5%).</li>
 
     <li><strong>🦊 Red fox:</strong> Displays a <strong>mixed profile</strong> — 
       <strong>38% anger</strong>, <strong>34% fear</strong>, but also <strong>12% joy</strong>, the 
-      highest among species. Joy is mainly linked to <strong>urban sightings and 
-      photography</strong>, while negative emotions may stem from <strong>conflicts with humans and pets</strong>.</li>
+      highest among species. Joy is mainly linked to urban sightings and 
+      photography, while negative emotions may stem from conflicts with humans and pets.</li>
 
     <li><strong>🕳️ European mole and 🦔 hedgehog:</strong> Hedgehog is strikingly 
       <strong>dominated by sadness (60%)</strong>, with very low anger and fear, possibly 
-      reflecting a <strong>perceived vulnerability or threats</strong> (e.g., habitat loss). 
+      reflecting aperceived vulnerability or threats (e.g., habitat loss). 
       Mole shows a more balanced mix, with <strong>33% fear</strong>, <strong>33% anger</strong>, 
       and <strong>16.7% joy</strong>, though based on fewer discussions.</li>
 
     <li><strong>🧭 Eurasian lynx and 😺 wildcat:</strong> While less discussed overall, 
-      these species display <strong>substantial sadness (33% for wildcat)</strong> and 
-      <strong>fear (53.8% for lynx)</strong>, likely tied to <strong>rarity and human interactions</strong>.</li>
+      these species display substantial sadness (33% for wildcat) and 
+      fear (53.8% for lynx), likely tied to rarity and human interactions.</li>
   </ul>
 
   <figure>
@@ -147,7 +147,7 @@ vega: true
     </h2>
   </div>
 </div>
-  <p>The <strong>word cloud</strong> highlights the most frequent words from <strong>comments classified with fear, anger or sadness</strong>, indicating the <strong>themes driving negative emotions</strong>. The analysis suggests a recurring focus on climate-related concerns – often tied to species like the polar bear – alongside discussions around human-wildlife conflict, particularly involving wolves and bears. There also appears to be a persistent interest in broader ecological themes such as wildlife and habitat conservation.</p>
+  <p>The <strong>word cloud</strong> highlights the most frequent words from comments classified with fear, anger or sadness, indicating the <strong>themes driving negative emotions</strong>. The analysis suggests a recurring focus on climate-related concerns – often tied to species like the polar bear – alongside discussions around human-wildlife conflict, particularly involving wolves and bears. There also appears to be a persistent interest in broader ecological themes such as wildlife and habitat conservation.</p>
 
   <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
 
