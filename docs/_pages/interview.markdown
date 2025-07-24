@@ -142,7 +142,7 @@ vega: true
   He advocates for a more <strong>systemic narrative</strong> — one that reflects the <em>interdependence of all natural systems</em> and emphasizes that tackling climate change requires considering the <strong>health of the entire planet</strong>, not just carbon levels.
 </div>
 
-</div>
+<div style="margin-bottom: 2.5rem;"></div>
 
  <!-- Titolo con Takeaway 4 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -168,7 +168,7 @@ vega: true
   The goal should be to <strong>empower</strong> the audience with knowledge — not to paralyze them with fear. While urgency is important, Pasotti warns against <strong>panic-driven storytelling</strong>. He advocates for <em>precision over panic</em> and urges journalists to <strong>empower readers with facts</strong>.
 </div>
 
-</div>
+<div style="margin-bottom: 2.5rem;"></div>
 
  <!-- Titolo con Takeaway 5 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -195,7 +195,7 @@ vega: true
   He believes that <strong>rethinking land use</strong> and integrating <strong>conservation strategies</strong> is key to preserving <strong>biodiversity</strong> — which in turn supports human life. He urges a rethinking of <strong>land use and conservation policies</strong> to protect ecosystems — not only for animals, but for humans too.
 </div>
 
-</div>
+<div style="margin-bottom: 2.5rem;"></div>
 
 <!-- Titolo con Takeaway 6 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -224,7 +224,7 @@ vega: true
   That said, he regularly uses AI for support tasks such as <strong>stylistic editing</strong>, <strong>Instagram post revision</strong>, and the <strong>translation of complex scientific texts</strong> — contexts in which he finds AI to be genuinely helpful. He believes that <strong>transparency</strong> is essential when integrating AI into science journalism.
 </div>
 
-</div>
+<div style="margin-bottom: 2.5rem;"></div>
 
  <!-- Titolo con Takeaway 7 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -250,7 +250,7 @@ vega: true
   Every fraction of a degree avoided gives us <strong>more time to adapt</strong>, <strong>reinforce infrastructure</strong>, and <strong>implement policy</strong>. The climate crisis, he reminds us, is <strong>cumulative</strong> — and <em>every action today shapes tomorrow</em>.
 </div>
 
-</div>
+<div style="margin-bottom: 2.5rem;"></div>
 
 <!-- Titolo con Takeaway 8 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -306,7 +306,7 @@ vega: true
 
   <!-- Testo -->
   <p style="font-size: 1rem; color: #444; line-height: 1.6;">
-    You can download the full interview as a professionally formatted PDF
+    You can download the full interview as a professionally formatted PDF 
   </p>
 
 </div>
