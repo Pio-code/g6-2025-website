@@ -6,10 +6,10 @@ vega: true
 
 <!-- Intestazione -->
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.3rem; font-size: 2.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
+  <h1 style="margin-bottom: 0.3rem; font-size: 3.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
     Every Degree Matters
   </h1>
-  <p style="font-size: 1rem; font-style: italic; margin-top: 0;">
+  <p style="font-size: 2rem; font-style: italic; margin-top: 0;">
     A conversation with Jacopo Pasotti
   </p>
 </div>
@@ -67,7 +67,7 @@ vega: true
     <li><strong><em>viii. Advice for Young Communicators</em></strong></li>
   </ul>
 
-<div style="flex: 0 0 240px;">
+<div style="flex: 0 0 320px;">
   <img src="{{ site.baseurl }}/assets/images/poalrbearin.jpg"
        alt="Polar bear"
        style="width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
