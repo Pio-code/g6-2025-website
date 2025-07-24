@@ -6,11 +6,13 @@ header_img: assets/images/poalrbearin.jpg
 header_title: "Every Degree Matters"
 header_type: hero
 subtitle: "A conversation with Jacopo Pasotti"
-vega: true
 ---
 
-<!-- Sezione immagine + bio + introduzione -->
-<div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/images/poalrbearin.jpg" alt="Polar Bear" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+  <h1 style="font-style: italic; font-size: 2rem;">Every Degree Matters</h1>
+  <p style="font-style: italic;">A conversation with Jacopo Pasotti</p>
+</div>
 
   <!-- Colonna sinistra: immagine + bio -->
   <div style="flex: 1; max-width: 320px; display: flex; flex-direction: column; gap: 1rem;">
