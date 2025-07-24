@@ -9,7 +9,10 @@ title: "Data"
 ### Species Distribution Modeling Workflow using Maxent
 
 In this report, we describe the complete workflow we have developed for building and projecting species distribution models (SDM) based on Maxent. Maxent is a machine learning algorithm that creates a fitness map for a species. It assumes that the species could be found anywhere and then uses the locations to understand the environmental constraints that limit its distribution, contrasting the conditions with the background environment (represented by pseudo absence points).
-Study Area Definition
+
+
+### Study Area Definition
+
 Our first step involved precisely defining our study area, which corresponds to "core" Europe. Starting from a global shapefile, we selected all national polygons of the European Union and then applied a bounding box to exclude the easternmost portions of Russia. Subsequently, we merged all polygons into a single continuous geometry and transformed them into the Lambert Azimuthal Equal Area (LAEA) system. This step is crucial because in LAEA projection, each raster cell represents the same surface area on the ground, eliminating areal distortions that would otherwise compromise the spatial comparability of our analyses.
 
 
