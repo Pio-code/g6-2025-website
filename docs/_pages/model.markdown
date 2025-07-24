@@ -28,7 +28,7 @@ The next step concerns the preparation of future data. For each socio-economic s
 
 ### Modeling and Prediction with Maxent
 
-For training, we use the ENMeval package in combination with dismo, setting up a grid search across various feature classes (L, LQ...) and different regularization multiplier values. The optimal configuration is selected through cross-validation, balancing model complexity and predictive capacity. We leverage the native terra::predict() function, which automatically handles tiling and parallelism.
+For training, we use the ENMeval package in combination with dismo, setting up a grid search across two feature classes (L, LQ) and different regularization multiplier values. The optimal configuration is selected through cross-validation, balancing model complexity and predictive capacity. We leverage the native terra::predict() function, which automatically handles tiling and parallelism.
 
 
 ### Managing Presence and Pseudo-absence (Background) Points
@@ -46,4 +46,5 @@ We also apply a habitat mask to our predictions. through an association of each 
 ### MESS Mask Integration
 
 Finally, we integrate the MESS (Multivariate Environmental Similarity Surface) mask to exclude from predictions areas that are ecologically too dissimilar from the training dataset. This additional environmental filter allows us to obtain even more robust models by applying two levels of filtering habitat and environmental analogy to our projections.
+Given the computational cost, and therefore the time required—for this final step, this mask was applied only to those species whose results appeared to be ecologically questionable.
 
