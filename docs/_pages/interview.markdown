@@ -8,15 +8,34 @@ subtitle: "A conversation with Jacopo Pasotti"
 vega: true
 ---
 
-<style type="text/css" media="screen">
-  header {
-    background-position-y: center !important;
-    background-size: contain !important;
-  }
-  .chulapa-subtitle {
-    background: white !important;
-  }
-</style>
+!-- Hero personalizzato con titolo a sinistra e sottotitolo a destra -->
+<div style="
+  width: 100%;
+  height: 280px;
+  background-image: url('/assets/images/poalrbearin.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 4rem;
+  box-sizing: border-box;
+  color: white;
+  font-family: sans-serif;
+">
+
+  <!-- Titolo principale a sinistra -->
+  <div style="font-size: 2.2rem; font-weight: 600; font-style: italic; text-align: left; max-width: 60%;">
+    The European Mammal Atlas
+  </div>
+
+  <!-- Sottotitolo a destra -->
+  <div style="font-size: 1rem; font-style: italic; text-align: right;">
+    A conversation with Jacopo Pasotti
+  </div>
+
+</div>
+
 
   <!-- Contenitore a due colonne -->
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
