@@ -10,11 +10,11 @@ vega: true
 
 <style type="text/css" media="screen">
   header {
-    background-position-y: center;
-    background-size: contain;
+    background-position-y: center !important;
+    background-size: contain !important;
   }
   .chulapa-subtitle {
-    background: white;
+    background: white !important;
   }
 </style>
 
