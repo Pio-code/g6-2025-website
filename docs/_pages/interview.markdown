@@ -1,28 +1,9 @@
 ---
 layout: default
 title: "Every Degree Matters"
-header_img: assets/images/poalrbearin.jpg
-header_title: "The European Mammal Atlas"
-header_type: hero
 subtitle: "A conversation with Jacopo Pasotti"
 vega: true
 ---
-
-!-- Hero personalizzato con titolo a sinistra e sottotitolo a destra -->
-<div style="
-  width: 100%;
-  height: 280px;
-  background-image: url('/assets/images/poalrbearin.jpg');
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0 4rem;
-  box-sizing: border-box;
-  color: white;
-  font-family: sans-serif;
-">
 
   <!-- Titolo principale a sinistra -->
   <div style="font-size: 2.2rem; font-weight: 600; font-style: italic; text-align: left; max-width: 60%;">
