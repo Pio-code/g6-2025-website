@@ -7,7 +7,7 @@ vega: true
 <!-- Intestazione -->
 <div style="text-align: center; margin-bottom: 2rem;">
   <h1 style="margin-bottom: 0.3rem; font-size: 3.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
-    Every Degree Matters
+    Every Half Degree Matters
   </h1>
   <p style="font-size: 2rem; font-style: italic; margin-top: 0;">
     A conversation with Jacopo Pasotti
