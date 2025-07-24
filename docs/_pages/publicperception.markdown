@@ -6,7 +6,7 @@ vega: true
 
 <!-- Intestazione -->
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.3rem; font-size: 2.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
+  <h1 style="margin-bottom: 0.3rem; font-size: 3.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
     Textual Analysis and Sentiment Insights on European Mammals
   </h1>
 </div>
