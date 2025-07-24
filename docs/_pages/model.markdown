@@ -3,7 +3,7 @@ header_img: assets/images/folium_map.webp
 header_title: "Data"
 header_type: hero
 layout: default
-title: "Data"
+title: "Model"
 ---
 
 ### Species Distribution Modeling Workflow using Maxent
