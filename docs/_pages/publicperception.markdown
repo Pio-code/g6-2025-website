@@ -45,7 +45,7 @@ vega: true
     </li>
     <li><strong>Keyword Optimization:</strong>
       <ul>
-        <li>Built an extended keyword set per species (scientific and common names, plural forms, synonyms, and multilingual variants) to maximize recall and minimize missed mentions.</li>
+        <li>Built an extended keyword set per species (scientific and common names, plural forms) to maximize recall and minimize missed mentions.</li>
       </ul>
     </li>
     <li><strong>Linguistic Cleaning and NLP Preprocessing:</strong>
