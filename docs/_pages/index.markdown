@@ -4,7 +4,7 @@
 
 layout: default
 title: "The European Mammal Atlas"
-header_img: assets/images/b.jpeg
+header_img: assets/images/head.png
 # header_img: assets/images/folium_map.webp
 header_title: "The European Mammal Atlas"
 header_type: hero

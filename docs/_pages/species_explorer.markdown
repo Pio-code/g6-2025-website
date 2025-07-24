@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "Species Explorer"
+title: "Species Taxonomy"
+header_img: assets/images/head.png
+header_title: "Species Taxonomy"
+header_type: hero
 vega: true
 ---
-# Species Taxonomy
 
 Click on a species to view its details and chart.
 

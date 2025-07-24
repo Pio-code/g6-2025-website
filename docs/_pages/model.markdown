@@ -1,5 +1,5 @@
 ---
-header_img: assets/images/folium_map.webp
+header_img: assets/images/head.png
 header_title: "Model"
 header_type: hero
 layout: default
