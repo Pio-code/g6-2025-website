@@ -3,21 +3,21 @@ layout: default
 title: "Interview"
 vega: true
 header_img: assets/images/polarbearind.png
-header_title: "Interview"
+header_title: "Every Degree Matters"
 header_type: hero
-subtitle: "Every Degree Matters"
+subtitle: "A conversation with Jacopo Pasotti"
 vega: true
 ---
 
 <!-- Intestazione -->
-<div style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="margin-bottom: 0.3rem; font-size: 2.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
-    Every Degree Matters
-  </h1>
-  <p style="font-size: 1rem; font-style: italic; margin-top: 0; margin-bottom: 1.5rem;">
-    A Conversation with Jacopo Pasotti
-  </p>
-</div>
+# <div style="text-align: center; margin-bottom: 2rem;">
+  # <h1 style="margin-bottom: 0.3rem; font-size: 2.2rem; font-weight: 600; font-style: italic; letter-spacing: -0.5px;">
+    # Every Degree Matters
+  # </h1>
+  # <p style="font-size: 1rem; font-style: italic; margin-top: 0; margin-bottom: 1.5rem;">
+    # A Conversation with Jacopo Pasotti
+  # </p>
+# </div>
 
 <!-- Sezione immagine + bio + introduzione -->
 <div style="display: flex; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;">
@@ -301,19 +301,4 @@ vega: true
   <img src="{{ site.baseurl }}/assets/images/wordcloud.jpg"
        alt="Word Cloud – Climate Journalism"
        style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-</div>
-
-<!-- Download Section -->
-<div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid #ddd;">
-
-  <!-- Titolo -->
-  <h2 style="font-size: 1.6rem; font-weight: 600; display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.8rem;">
-    <span style="font-size: 1.2rem;">📥</span> Download and Share
-  </h2>
-
-  <!-- Testo -->
-  <p style="font-size: 1rem; color: #444; line-height: 1.6;">
-    You can download the full interview as a professionally formatted PDF 
-  </p>
-
 </div>
