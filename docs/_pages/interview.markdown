@@ -103,7 +103,7 @@ vega: true
   This more traditional approach remains <em>crucial for exploring long-term and complex environmental challenges</em>.
 </div>
 
-</div>
+<div style="margin-bottom: 2.5rem;"></div>
 
 <!-- Titolo con Takeaway 2 e emoji integrato -->
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
