@@ -4,10 +4,6 @@ title: "Public perception"
 permalink: /publicperception.html
 ---
 
-  
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
-
   body {
     font-family: Georgia, serif;
     font-size: 18px;
