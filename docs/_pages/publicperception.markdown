@@ -14,7 +14,7 @@ vega: true
 <!-- Introduzione -->
 <div style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif; max-width: 800px; margin: 0 auto;">
 
-  <p>This section of the project focuses on public perception, analyzing how different mammal species are discussed and perceived in the <strong>Reddit</strong> community. This work leverages <strong>Natural Language Processing (NLP)</strong> and <strong>deep learning models</strong> to understand the <strong>tone, frequency, and thematic context</strong> of discussions involving these species.</p>
+  <p>This section of the project focuses on public perception, analyzing how different mammal species are discussed and perceived in the <strong>Reddit</strong> community. This work leverages <strong>Natural Language Processing (NLP)</strong> and <strong>deep learning models</strong> to understand the tone, frequency, and thematic context of discussions involving these species.</p>
 
   <p>The objective is twofold:</p>
   <ol>
@@ -22,7 +22,7 @@ vega: true
     <li><strong>Classify the emotional tone</strong> of conversations.</li>
   </ol>
 
-  <p>By combining these insights, we can identify which species <strong>dominate the public narrative</strong> and which are <strong>symbolically tied to climate change concerns</strong>.</p>
+  <p>By combining these insights, we can identify which species dominate the public narrative and which are symbolically tied to climate change concerns.</p>
 
   
 <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -45,13 +45,13 @@ vega: true
     </li>
     <li><strong>Keyword Optimization:</strong>
       <ul>
-        <li>Built an <strong>extended keyword set</strong> per species (scientific and common names, plural forms, synonyms, and multilingual variants) to maximize recall and minimize missed mentions.</li>
+        <li>Built an extended keyword set per species (scientific and common names, plural forms, synonyms, and multilingual variants) to maximize recall and minimize missed mentions.</li>
       </ul>
     </li>
     <li><strong>Linguistic Cleaning and NLP Preprocessing:</strong>
       <ul>
         <li>Removed duplicates, spam, promotional content, and links.</li>
-        <li>Applied <strong>tokenization and lemmatization</strong>.</li>
+        <li>Applied tokenization and lemmatization.</li>
         <li>Removed punctuation and non-informative grammatical elements (articles, pronouns, conjunctions).</li>
         <li>Consolidated all cleaned data into a <strong>structured CSV dataset</strong> for analysis.</li>
       </ul>
@@ -70,7 +70,7 @@ vega: true
 </div>
   <p><strong>Grey wolf</strong> and <strong> polar bear</strong> dominate the discourse, jointly accounting for over 70% of all mentions. In contrast, <strong>red deer</strong> and <strong>red fox</strong> receive moderate attention, while other species (lynx, hedgehog, mole, wildcat) are virtually absent with just a few mentions each.</p>
 
-  <p>This reflects a typical trend in environmental communication, where <strong>iconic or controversial species attract disproportionate focus</strong>, while <strong>less conspicuous species remain underrepresented</strong>.</p>
+  <p>This reflects a typical trend in environmental communication, where iconic or controversial species attract disproportionate focus, while less conspicuous species remain underrepresented.</p>
 
   <img src="{{site.baseurl}}/assets/images/grafico_2.png" alt="Mentions per species">
   <img src="{{site.baseurl}}/assets/images/grafico_1.png" alt="Species visibility over time">
@@ -78,8 +78,8 @@ vega: true
 
   <p>Within <strong>Reddit comments</strong> – the most interactive dimension of discourse – the concentration is even higher:</p>
   <ul>
-    <li><strong>🐺 Grey wolf (43.4%)</strong> and <strong>🐻 polar bear (40.5%)</strong> account for <strong>over 80% of species-related mentions</strong>.</li>
-    <li>The remaining species collectively represent <strong>less than 15%</strong> of mentions.</li>
+    <li><strong>🐺 Grey wolf (43.4%)</strong> and <strong>🐻 polar bear (40.5%)</strong> account for over 80% of species-related mentions.</li>
+    <li>The remaining species collectively represent less than 15% of mentions.</li>
   </ul>
 
   <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
@@ -108,25 +108,25 @@ vega: true
       human-wildlife conflicts, reflecting wolves’ controversial role in 
       conservation debates.</li>
 
-    <li><strong>🦌 Roe deer:</strong> Exhibits <strong>49.1% fear</strong> and <strong>16.4% sadness</strong>, 
-      mostly connected to <strong>road accidents and incidental encounters</strong>. 
+    <li><strong>🦌 Roe deer:</strong> Exhibits 49.1% fear and 16.4% sadness, 
+      mostly connected to road accidents and incidental encounters. 
       Joy is minimal (7.3%/).</li>
 
-    <li><strong>🐻 Polar bear:</strong> Dominated by <strong>fear (36.4%)</strong> and 
-      <strong>sadness (25.3%)</strong>, often tied to climate crisis narratives and 
+    <li><strong>🐻 Polar bear:</strong> Dominated by fear (36.4%) and 
+      sadness (25.3%), often tied to climate crisis narratives and 
       endangered status(keywords like “melting”, “climate”, “endangered”). 
       Joy remains low (11.5%).</li>
 
-    <li><strong>🦊 Red fox:</strong> Displays a <strong>mixed profile</strong> — 
-      <strong>38% anger</strong>, <strong>34% fear</strong>, but also <strong>12% joy</strong>, the 
+    <li><strong>🦊 Red fox:</strong> Displays a mixed profile — 
+      38% anger,34% fear, but also 12% joy, the 
       highest among species. Joy is mainly linked to urban sightings and 
       photography, while negative emotions may stem from conflicts with humans and pets.</li>
 
     <li><strong>🕳️ European mole and 🦔 hedgehog:</strong> Hedgehog is strikingly 
-      <strong>dominated by sadness (60%)</strong>, with very low anger and fear, possibly 
+      dominated by sadness (60%), with very low anger and fear, possibly 
       reflecting aperceived vulnerability or threats (e.g., habitat loss). 
-      Mole shows a more balanced mix, with <strong>33% fear</strong>, <strong>33% anger</strong>, 
-      and <strong>16.7% joy</strong>, though based on fewer discussions.</li>
+      Mole shows a more balanced mix, with 33% fear, 33% anger, 
+      and 16.7% joy, though based on fewer discussions.</li>
 
     <li><strong>🧭 Eurasian lynx and 😺 wildcat:</strong> While less discussed overall, 
       these species display substantial sadness (33% for wildcat) and 
