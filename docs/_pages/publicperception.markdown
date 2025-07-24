@@ -137,6 +137,13 @@ vega: true
     <img src="{{ site.baseurl }}/assets/images/Emotions.png" alt="Emotional distribution by species" width="800">
   </figure>
 
+<p>At a general level - beyond comments explicitly mentioning specific species - there is a noticeable prevalence of negative sentiment.
+This trend appears to reflect a general perception of environmental degradation and human impact on the planet.</p>
+
+<figure>
+    <img src="{{site.baseurl}}/assets/images/dist.svg" alt="Emotional distribution by species" width="800">
+  </figure>
+
  <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
   <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
     Section
