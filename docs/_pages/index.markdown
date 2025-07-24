@@ -3,23 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: "HOME"
-header_img: https://placehold.co/600x400
+title: "The European Mammal Atlas"
+header_img: assets/images/b.jpeg
 # header_img: assets/images/folium_map.webp
-header_title: "Data Collection"
+header_title: "The European Mammal Atlas"
 header_type: hero
+subtitle: "Climate Change, Land Use and the Future of Terrestrial Wildlife"
 vega: true
 
 ---
 <!-- Homepage – The Future of European Mammals -->
 <section style="max-width: 880px; margin: 0 auto; padding: 2rem; font-family: 'Merriweather', serif; font-size: 1.05rem; line-height: 1.8; color: #222;">
-
- <h1 style="font-size: 3rem; font-weight: 700; text-align: center; margin-bottom: 1rem; color: #1a1a1a;">
-  The Future of European Mammals
-</h1>
-<p style="font-size: 1.25rem; text-align: center; color: #555; margin-top: -0.5rem;">
-  Climate change, land use and the future of terrestrial wildlife
-</p>
 
   <p style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif;">
   The climate crisis is no longer an <em>abstract concept</em>, intangible to an extremely urbanized society, unable to see its effects on ecosystems — <strong>it is now a lived experience for all of us</strong>.  
