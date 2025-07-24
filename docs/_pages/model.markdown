@@ -38,8 +38,7 @@ In parallel, we carefully manage presence and pseudo-absence (background) points
 
 ### Thresholds and Binarization
 
-After obtaining the continuous suitability raster, we manually calculate the MaxTSS threshold to define a suitability threshold. 
-Habitat Mask Application
+After obtaining the continuous suitability raster, we manually calculate the MaxTSS threshold to define a suitability threshold.
 We also apply a habitat mask to our predictions. through an association of each species for the preference of the habitats present in the land cover, i.e. cropland, forest, grassland, urban area, infertile land and water, was multiplied by each value of continuous suitability, 1, for the suitable and preferred habitats, 0.8 for the mostly unsuitable habitats, and 0.01 for the absolutely unsuitable ones.
 
 
