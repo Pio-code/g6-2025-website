@@ -58,7 +58,16 @@ vega: true
     </li>
   </ol>
 
-  <h2>Quantitative Insights: Mentions per Species</h2>
+  <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Section
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">📊</span> Quantitative Insights: Mentions per Species
+    </h2>
+  </div>
+</div>
   <p><strong>Grey wolf</strong> and <strong> polar bear</strong> dominate the discourse, jointly accounting for <strong>over 70% of all mentions</strong>. In contrast, <strong>red deer</strong> and <strong>red fox</strong> receive moderate attention, while other species (<strong> lynx, hedgehog, mole, wildcat</strong>) are <strong>virtually absent</strong> with just a few mentions each.</p>
 
   <p>This reflects a typical trend in environmental communication, where <strong>iconic or controversial species attract disproportionate focus</strong>, while <strong>less conspicuous species remain underrepresented</strong>.</p>
@@ -73,7 +82,16 @@ vega: true
     <li>The remaining species collectively represent <strong>less than 15%</strong> of mentions.</li>
   </ul>
 
-  <h2>Emotional Analysis: Sentiment and Emotion Classification</h2>
+  <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Section
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">💬</span> Emotional Analysis: Sentiment and Emotion Classification
+    </h2>
+  </div>
+</div>
   <p>To better capture the <strong>emotional framing</strong> of Reddit discussions, we applied a 
   <strong>Transformer-based deep learning model</strong>, DistilRoBERTa 
   (<em>j-hartmann/emotion-english-distilroberta-base</em>), optimized for 
@@ -119,7 +137,16 @@ vega: true
     <img src="{{ site.baseurl }}/assets/images/Emotions.png" alt="Emotional distribution by species" width="800">
   </figure>
 
-  <h2>Word Cloud Analysis</h2>
+ <div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Section
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">☁️</span> Word Cloud Analysis
+    </h2>
+  </div>
+</div>
   <p>The <strong>word cloud</strong> highlights the most frequent words from <strong>comments classified with fear, anger or sadness</strong>, indicating the <strong>themes driving negative emotions</strong>. The analysis suggests a recurring focus on climate-related concerns – often tied to species like the polar bear – alongside discussions around human-wildlife conflict, particularly involving wolves and bears. There also appears to be a persistent interest in broader ecological themes such as wildlife and habitat conservation.</p>
 
   <img src="{{site.baseurl}}/assets/images/wordcloud_1.svg" alt="Wordcloud Comments with Negative Emotions">
