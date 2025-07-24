@@ -56,7 +56,7 @@ vega: true
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 2rem; margin-bottom: 3rem; flex-wrap: wrap;">
 
   <!-- Colonna sinistra: elenco -->
-  <ul style="flex: 1; font-size: 1rem; line-height: 1.6; color: #333; margin: 0;">
+  <ul style="flex: 1; font-size: 0.8rem; line-height: 1.6; color: #333; margin: 0;">
     <li><strong><em>i. The Evolution of Environmental Journalism</em></strong></li>
     <li><strong><em>ii. The Challenges of Communicating Climate Change</em></strong></li>
     <li><strong><em>iii. Gaps in Environmental Coverage</em></strong></li>
