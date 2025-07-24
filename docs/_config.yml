@@ -50,8 +50,6 @@ navbar:
     img: "./assets/images/Logo_masthead.png" # don't change this
     url: /
   nav:
-    - title: Species explorer
-      url: /species_explorer.html
     - title: Communication
       url: /communication.html
       child:
@@ -61,6 +59,8 @@ navbar:
           url: /interview.html
     - title: Data
       url: /data.html
+    - title: Species explorer
+      url: /species_explorer.html
     - title: DISCLAIMER
       url: /disclaimer.html
     - title: SBD Master # this must be always the last item in the navbar, don't change it
