@@ -24,7 +24,17 @@ vega: true
 
   <p>By combining these insights, we can identify which species <strong>dominate the public narrative</strong> and which are <strong>symbolically tied to climate change concerns</strong>.</p>
 
-  <h2>Data Collection and Preprocessing Pipeline</h2>
+  
+<div style="display: flex; flex-direction: column; gap: 0.2rem; margin-top: 2.5rem; margin-bottom: 1.2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.6rem;">
+  <div style="font-size: 0.85rem; color: #777; text-transform: uppercase; letter-spacing: 0.8px;">
+    Section
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.6rem;">
+    <h2 style="margin: 0; font-size: 1.55rem; font-weight: 700; font-family: Georgia, serif; color: #222;">
+      <span style="font-size: 1.2rem;">🛠️</span> Data Collection and Preprocessing Pipeline
+    </h2>
+  </div>
+</div>
   <p>To ensure a <strong>systematic and reproducible analysis</strong>, the workflow was structured into three stages:</p>
   <ol>
     <li><strong>Reddit Data Extraction:</strong>
