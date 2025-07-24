@@ -222,3 +222,7 @@ vega: true
   In the <strong>SSP3 scenario</strong>—considered the most critical for humans—these trends become even more pronounced: <strong>Rodents</strong> show an even clearer improvement, while <strong>artiodactyls</strong> face more severe decline.  
   Meanwhile, conditions for other taxonomic orders remain relatively stable compared to the SSP2 projection.
 </p>
+
+<p style="font-size: 1.05rem; line-height: 1.8; color: #222; font-family: 'Merriweather', serif;">
+For those interested in going deeper into the <strong>individual species</strong>, we invite you to go to the <strong>species explorer</strong>, where you will find the suitability maps of all those analyzed, divided by scenario and year.
+</p>
