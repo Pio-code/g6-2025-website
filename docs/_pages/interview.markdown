@@ -6,7 +6,7 @@ vega: true
 
 <!-- Hero Section -->
 <div style="width: 100%; overflow: hidden; margin-bottom: 2rem;">
-  <img src="/assets/images/poalrbearin.jpg"
+  <img src="{{ site.baseurl }}/assets/images/poalrbearin.jpg"
        alt="Polar Bear" 
        style="width: 100%; max-width: 1536px; height: auto; aspect-ratio: 1536 / 280; object-fit: cover; display: block; margin: 0 auto;">
 </div>
