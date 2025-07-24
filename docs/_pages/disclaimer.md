@@ -26,6 +26,6 @@ All outputs derived from this data are transformative in nature and do not invol
 We acknowledge WorldClim as the data source and remain committed to respecting licensing terms and attribution requirements.
 
 # Reddit
-This project used a sample of public Reddit posts and comments, accessed via PRAW, for non-commercial, academic analysis.  
+This project used a sample of public [Reddit](https://www.reddit.com/) posts and comments, accessed via [PRAW](https://praw.readthedocs.io/en/stable/), for non-commercial, academic analysis.  
 The data were used exclusively to compute aggregated statistics and were not retained or redistributed.  
 All outputs are transformative in nature and do not contain original user content.
