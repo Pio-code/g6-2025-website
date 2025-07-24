@@ -60,7 +60,7 @@ navbar:
     - title: Data
       url: /data.html
     - title: Model 
-      url: /Model.html
+      url: /model.html
     - title: Species explorer
       url: /species_explorer.html
     - title: DISCLAIMER
