@@ -18,6 +18,9 @@ vega: true
   }
 </style>
 
+  <!-- Contenitore a due colonne -->
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 2rem;">
+
   <!-- Colonna sinistra: immagine + bio -->
   <div style="flex: 1; max-width: 320px; display: flex; flex-direction: column; gap: 1rem;">
 
@@ -42,7 +45,8 @@ vega: true
       From the fight against misinformation to the opportunities (and risks) of using artificial intelligence in science communication, Pasotti shares insights drawn from years of field reporting, interviews, and his analysis of how habitat loss affects mammals and ecosystems.
     </p>
 
-      <p>This conversation highlights the complexity of today’s climate communication:  
+    <p>
+      This conversation highlights the complexity of today’s climate communication:  
       the tension between urgency and accuracy, the need to expand the environmental narrative,  
       and the responsibility of the media in shaping public awareness. <strong>Here’s what he said, in eight takeaways.</strong>
     </p>
